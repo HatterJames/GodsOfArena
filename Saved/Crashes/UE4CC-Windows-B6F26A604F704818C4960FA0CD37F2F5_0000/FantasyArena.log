@@ -1,0 +1,1152 @@
+﻿Log file open, 12/13/17 10:43:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(772535809) SRandInit(772535810).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173382
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.13-09.43.35:399][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.13-09.43.35:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.13-09.43.35:444][  0]LogInit: Computer: KLOBUK
+[2017.12.13-09.43.35:444][  0]LogInit: User: Jakub
+[2017.12.13-09.43.35:444][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.13-09.43.35:444][  0]LogInit: High frequency timer resolution =3.514604 MHz
+[2017.12.13-09.43.35:444][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.13-09.43.35:444][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.13-09.43.35:444][  0]LogMemory: Process Physical Memory: 270.85 MB used, 270.85 MB peak
+[2017.12.13-09.43.35:444][  0]LogMemory: Process Virtual Memory: 270.21 MB used, 270.21 MB peak
+[2017.12.13-09.43.35:444][  0]LogMemory: Physical Memory: 2929.33 MB used,  5202.45 MB free, 8131.79 MB total
+[2017.12.13-09.43.35:444][  0]LogMemory: Virtual Memory: 623.50 MB used,  5202.45 MB free, 134217728.00 MB total
+[2017.12.13-09.43.35:811][  0]LogInit: Using OS detected language (en-US).
+[2017.12.13-09.43.35:811][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.13-09.43.35:866][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.13-09.43.35:867][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.13-09.43.36:410][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.13-09.43.39:160][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.13-09.43.39:186][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.13-09.43.39:186][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.13-09.43.39:187][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.13-09.43.39:187][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.13-09.43.39:187][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.13-09.43.39:190][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.13-09.43.39:190][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.13-09.43.39:190][  0]LogWindows: EnumDisplayDevices:
+[2017.12.13-09.43.39:191][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.13-09.43.39:191][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.13-09.43.39:191][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.13-09.43.39:191][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.13-09.43.39:191][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.13-09.43.39:191][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.13-09.43.39:191][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.13-09.43.39:191][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.13-09.43.39:191][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.13-09.43.39:200][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.13-09.43.39:221][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.13-09.43.39:222][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Intermediate/Shaders/WorkingDirectory/8176/).
+[2017.12.13-09.43.39:222][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/2B65CB38400B1626C2148EB72BB741AE/'.
+[2017.12.13-09.43.39:222][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.13-09.43.41:905][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.13-09.43.41:952][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.13-09.43.42:010][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.13-09.43.42:062][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.13-09.43.42:119][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.13-09.43.42:166][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.13-09.43.42:220][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.13-09.43.42:270][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.13-09.43.42:311][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.13-09.43.42:367][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.13-09.43.42:418][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.13-09.43.42:468][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.13-09.43.42:521][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.13-09.43.42:572][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.13-09.43.42:674][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.13-09.43.42:674][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.13-09.43.42:723][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.13-09.43.42:763][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.13-09.43.42:894][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.13-09.43.42:920][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.13-09.43.42:974][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.13-09.43.43:028][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.13-09.43.43:078][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.13-09.43.43:134][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.13-09.43.43:134][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.13-09.43.44:129][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.13-09.43.44:542][  0]LogDerivedDataCache: Loaded boot cache 0.41s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.13-09.43.44:542][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.13-09.43.44:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.13-09.43.44:543][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.13-09.43.44:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.13-09.43.44:543][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.13-09.43.44:580][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.13-09.43.44:593][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.13-09.43.44:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.13-09.43.44:605][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.13-09.43.44:623][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.13-09.43.44:623][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.13-09.43.49:977][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.13-09.43.50:446][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.13-09.43.50:489][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.13-09.43.50:489][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.13-09.43.50:489][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.13-09.43.50:489][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.13-09.43.50:490][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.13-09.43.50:540][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.13-09.43.50:912][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2017.12.13-09.43.51:992][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.102990 seconds
+[2017.12.13-09.43.51:998][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.13-09.43.51:998][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.13-09.43.51:998][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.13-09.43.52:056][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.13-09.43.58:026][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.13-09.43.58:066][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.13-09.43.58:872][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.13-09.43.59:399][  0]SourceControl: Source control is disabled
+[2017.12.13-09.43.59:399][  0]SourceControl: Source control is disabled
+[2017.12.13-09.43.59:453][  0]SourceControl: Source control is disabled
+[2017.12.13-09.43.59:506][  0]SourceControl: Source control is disabled
+[2017.12.13-09.44.00:337][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.13-09.44.00:582][  0]LogOcInput: OculusInput pre-init called
+[2017.12.13-09.44.00:895][  0]LogEngine: Initializing Engine...
+[2017.12.13-09.44.00:897][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.13-09.44.01:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.13-09.44.01:356][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.13-09.44.01:488][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.13-09.44.01:513][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-09.44.01:523][  0]LogInit: FAudioDevice initialized.
+[2017.12.13-09.44.01:632][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.13-09.44.01:651][  0]LogInit: Texture streaming: Enabled
+[2017.12.13-09.44.01:755][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.13-09.44.01:905][  0]LogInit: Transaction tracking system initialized
+[2017.12.13-09.44.02:276][  0]BlueprintLog: New page: Editor Load
+[2017.12.13-09.44.03:537][  0]LocalizationService: Localization service is disabled
+[2017.12.13-09.44.04:479][  0]LogConsoleResponse: Display: 
+[2017.12.13-09.44.05:240][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.13-09.44.05:240][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.13-09.44.05:240][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.13-09.44.05:509][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/' took 0.02s
+[2017.12.13-09.44.06:573][  0]SourceControl: Source control is disabled
+[2017.12.13-09.44.06:573][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.13-09.44.06:573][  0]LightingResults: New page: Lighting Build
+[2017.12.13-09.44.06:618][  0]MapCheck: New page: Map Check
+[2017.12.13-09.44.06:618][  0]LightingResults: New page: Lighting Build
+[2017.12.13-09.44.07:033][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.13-09.44.27:445][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.13-09.44.27:598][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.13-09.44.27:614][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.13-09.44.27:667][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.256ms to complete.
+[2017.12.13-09.44.27:667][  0]LogFileHelpers: Loading map 'Arena1' took 21.095
+[2017.12.13-09.44.27:835][  0]LogCollectionManager: Loaded 0 collections in 0.002729 seconds
+[2017.12.13-09.44.27:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Collections/' took 0.01s
+[2017.12.13-09.44.27:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.13-09.44.27:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Collections/' took 0.01s
+[2017.12.13-09.44.27:915][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.13-09.44.27:924][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2363 classes and 519 folders.
+[2017.12.13-09.44.27:997][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.13-09.44.28:391][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.13-09.44.28:435][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.13-09.44.28:469][  0]LogSlate: Took 0.011417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.13-09.44.28:479][  0]LogSlate: Took 0.007315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.13-09.44.28:490][  0]LogSlate: Took 0.006423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.13-09.44.28:681][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.13-09.44.28:973][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.13-09.44.28:973][  0]LogLoad: (Engine Initialization) Total time: 59.24 seconds
+[2017.12.13-09.44.28:973][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.13-09.44.28:973][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.13-09.44.28:973][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.13-09.44.29:329][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.13-09.44.29:655][  1]LogAssetRegistry: Asset discovery search completed in 38.7644 seconds
+[2017.12.13-09.44.29:658][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.13-09.44.29:658][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000091 seconds (updated 0 objects)
+[2017.12.13-09.44.33:663][ 13]LogSlate: Took 0.011687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-09.44.52:545][609]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-09.44.52:599][609]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.13-09.44.52:963][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.13-09.44.53:014][609]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.13-09.44.53:344][609]LogSlate: Took 0.007486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.13-09.44.53:403][609]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2017.12.13-09.45.00:234][ 93]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:494).
+[2017.12.13-09.45.04:851][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.45.04:887][315]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.12.13-09.45.13:363][717]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle
+[2017.12.13-09.45.13:364][717]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.45.13:430][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.13-09.45.13:467][717]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.13-09.45.13:899][717]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-09.48.16:194][122]Cmd: TRANSACTION UNDO
+[2017.12.13-09.48.16:195][122]LogEditorTransaction: Undo Rotate Socket
+[2017.12.13-09.48.16:318][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.48.16:344][122]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-09.48.18:168][275]Cmd: MODE ROTGRID=1
+[2017.12.13-09.49.46:828][ 98]Cmd: MODE ROTGRID=0
+[2017.12.13-09.50.06:692][ 66]LogSavePackage: Save=8.65ms
+[2017.12.13-09.50.06:692][ 66]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_SkeletonD4E2C3504B78D921BC0851B2FFAEE9E5.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset'
+[2017.12.13-09.50.06:699][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset
+[2017.12.13-09.50.26:459][937]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_1.Crossbow_Idle_1
+[2017.12.13-09.50.26:459][937]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_1.Crossbow_Idle_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.51.56:949][137]Cmd: MODE ROTGRID=1
+[2017.12.13-09.53.31:843][651]LogSavePackage: Save=16.48ms
+[2017.12.13-09.53.31:843][651]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Remade_Crossbow_Idle_1A60394694301C41F4E96D392736346DD.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset'
+[2017.12.13-09.53.31:846][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset
+[2017.12.13-09.53.35:038][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-09.53.35:078][879]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2017.12.13-09.53.35:491][879]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-09.53.42:641][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward
+[2017.12.13-09.53.42:641][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:645][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right
+[2017.12.13-09.53.42:645][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:654][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left
+[2017.12.13-09.53.42:655][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:655][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle
+[2017.12.13-09.53.42:655][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:656][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back
+[2017.12.13-09.53.42:657][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:660][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right
+[2017.12.13-09.53.42:660][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:661][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right
+[2017.12.13-09.53.42:661][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:662][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left
+[2017.12.13-09.53.42:662][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:673][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left
+[2017.12.13-09.53.42:673][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:694][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right
+[2017.12.13-09.53.42:694][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:695][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards
+[2017.12.13-09.53.42:695][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:696][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward
+[2017.12.13-09.53.42:696][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.53.42:698][408]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left
+[2017.12.13-09.53.42:698][408]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-09.54.45:950][ 75]Cmd: MODE ROTGRID=0
+[2017.12.13-09.56.01:827][935]Cmd: TRANSACTION UNDO
+[2017.12.13-09.56.01:827][935]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-09.56.02:086][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.56.02:093][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-09.56.43:585][475]Cmd: TRANSACTION UNDO
+[2017.12.13-09.56.43:585][475]LogEditorTransaction: Undo Translate Bone
+[2017.12.13-09.56.43:853][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.56.43:862][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-09.56.44:485][516]Cmd: TRANSACTION UNDO
+[2017.12.13-09.56.44:485][516]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-09.56.44:743][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.56.44:753][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-09.57.13:476][984]Cmd: TRANSACTION UNDO
+[2017.12.13-09.57.13:476][984]LogEditorTransaction: Undo Translate Bone
+[2017.12.13-09.57.13:733][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.57.13:743][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-09.59.00:448][127]Cmd: TRANSACTION UNDO
+[2017.12.13-09.59.00:448][127]LogEditorTransaction: Undo Translate Bone
+[2017.12.13-09.59.00:711][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-09.59.00:722][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.05.56:469][356]Cmd: TRANSACTION UNDO
+[2017.12.13-10.05.56:469][356]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.05.56:723][356]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.05.56:735][356]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.06.30:001][ 71]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.Remade_Crossbow_Idle_1
+[2017.12.13-10.06.30:003][ 71]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Remade_Crossbow_Idle_1) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.06.32:295][246]LogSavePackage: Save=23.47ms
+[2017.12.13-10.06.32:295][246]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Remade_Crossbow_Idle_1B36A7D444BF3F442BAA950917473DAF0.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset'
+[2017.12.13-10.06.32:299][246]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset
+[2017.12.13-10.07.14:061][207]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.017
+[2017.12.13-10.07.14:063][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot] ([1] browsable assets)...
+[2017.12.13-10.07.14:081][207]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Y_Bot/Mesh/ybot.ybot]
+[2017.12.13-10.07.14:081][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot]
+[2017.12.13-10.07.14:180][207]LogSavePackage: Save=78.00ms
+[2017.12.13-10.07.14:180][207]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Auto16D1292DB4C3EBB8C195D379D9F432A3E.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto1.uasset'
+[2017.12.13-10.07.14:184][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto1.uasset
+[2017.12.13-10.07.14:185][207]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton] ([1] browsable assets)...
+[2017.12.13-10.07.14:185][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton]
+[2017.12.13-10.07.14:209][207]LogSavePackage: Save=7.75ms
+[2017.12.13-10.07.14:209][207]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Skeleton_Auto12754823A4F63708F40B1FCBEED4A0447.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto1.uasset'
+[2017.12.13-10.07.14:211][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto1.uasset
+[2017.12.13-10.07.14:211][207]LogFileHelpers: Auto-saving content packages took 0.149
+[2017.12.13-10.08.30:885][716]Cmd: TRANSACTION UNDO
+[2017.12.13-10.08.30:885][716]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.08.31:127][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.08.31:136][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.08.41:677][636]Cmd: TRANSACTION UNDO
+[2017.12.13-10.08.41:677][636]LogEditorTransaction: Undo Rotate Socket
+[2017.12.13-10.08.41:923][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.08.41:930][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.08.46:684][ 30]Cmd: MODE ROTGRID=1
+[2017.12.13-10.10.03:740][261]Cmd: TRANSACTION UNDO
+[2017.12.13-10.10.03:740][261]LogEditorTransaction: Undo Delete selected sockets/meshes/bones from skeleton tree
+[2017.12.13-10.10.04:020][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.10.04:022][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.11.51:429][668]Cmd: TRANSACTION UNDO
+[2017.12.13-10.11.51:429][668]LogEditorTransaction: Undo Translate Bone
+[2017.12.13-10.11.51:687][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.11.51:691][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.11.59:938][310]Cmd: TRANSACTION UNDO
+[2017.12.13-10.11.59:938][310]LogEditorTransaction: Undo Translate Bone
+[2017.12.13-10.12.00:190][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.00:192][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.01:296][363]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.01:296][363]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.01:558][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.01:559][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.02:245][403]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.02:245][403]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.02:507][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.02:510][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.03:092][434]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.03:092][434]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.03:346][434]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.03:348][434]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.04:071][475]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.04:071][475]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.04:341][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.04:342][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.05:545][556]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.05:545][556]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.05:805][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.05:807][556]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.06:659][606]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.06:660][606]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.06:919][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.06:921][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.08:333][696]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.08:334][696]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.08:598][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.08:599][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.12.09:774][767]Cmd: TRANSACTION UNDO
+[2017.12.13-10.12.09:774][767]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.12.10:045][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.12.10:047][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.16.14:031][699]Cmd: MODE ROTGRID=0
+[2017.12.13-10.17.37:412][349]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.016
+[2017.12.13-10.17.37:414][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot] ([1] browsable assets)...
+[2017.12.13-10.17.37:429][349]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Y_Bot/Mesh/ybot.ybot]
+[2017.12.13-10.17.37:429][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot]
+[2017.12.13-10.17.37:537][349]LogSavePackage: Save=76.08ms
+[2017.12.13-10.17.37:537][349]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Auto24B3AA95A4661F6C58E550C8D35B91C65.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto2.uasset'
+[2017.12.13-10.17.37:542][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto2.uasset
+[2017.12.13-10.17.37:543][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton] ([1] browsable assets)...
+[2017.12.13-10.17.37:543][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton]
+[2017.12.13-10.17.37:563][349]LogSavePackage: Save=6.12ms
+[2017.12.13-10.17.37:563][349]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Skeleton_Auto251FF587940F42C10F949C6913A0C3C9F.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto2.uasset'
+[2017.12.13-10.17.37:565][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto2.uasset
+[2017.12.13-10.17.37:565][349]LogFileHelpers: Auto-saving content packages took 0.152
+[2017.12.13-10.19.11:774][596]Cmd: TRANSACTION UNDO
+[2017.12.13-10.19.11:775][596]LogEditorTransaction: Undo Rotate Socket
+[2017.12.13-10.19.12:036][596]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.19.12:040][596]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.19.14:631][745]Cmd: MODE ROTGRID=1
+[2017.12.13-10.21.15:565][953]Cmd: MODE ROTGRID=0
+[2017.12.13-10.25.52:357][ 61]Cmd: TRANSACTION UNDO
+[2017.12.13-10.25.52:357][ 61]LogEditorTransaction: Undo Translate Bone
+[2017.12.13-10.25.52:622][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.25.52:624][ 61]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.29.38:668][ 59]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.Remade_Crossbow_Idle_1
+[2017.12.13-10.29.38:671][ 59]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.29.41:505][246]LogSavePackage: Save=22.44ms
+[2017.12.13-10.29.41:505][246]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Remade_Crossbow_Idle_1A99F91BB4DFC0F050FC518A7CD8707A6.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset'
+[2017.12.13-10.29.41:509][246]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset
+[2017.12.13-10.30.39:920][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.019
+[2017.12.13-10.30.39:923][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton] ([1] browsable assets)...
+[2017.12.13-10.30.39:924][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton]
+[2017.12.13-10.30.39:952][812]LogSavePackage: Save=8.95ms
+[2017.12.13-10.30.39:952][812]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Skeleton_Auto37A9FB4174FFA243F03F2BFAD09F73932.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto3.uasset'
+[2017.12.13-10.30.39:953][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto3.uasset
+[2017.12.13-10.30.39:953][812]LogFileHelpers: Auto-saving content packages took 0.031
+[2017.12.13-10.34.11:477][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward
+[2017.12.13-10.34.11:477][709]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:483][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left
+[2017.12.13-10.34.11:483][709]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:511][710]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right
+[2017.12.13-10.34.11:511][710]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:535][711]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward
+[2017.12.13-10.34.11:535][711]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:560][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left
+[2017.12.13-10.34.11:560][712]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:718][722]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right
+[2017.12.13-10.34.11:718][722]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:761][724]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left
+[2017.12.13-10.34.11:761][724]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.11:837][727]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right
+[2017.12.13-10.34.11:837][727]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.20:158][369]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_2.Crossbow_Idle_2
+[2017.12.13-10.34.20:158][369]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_2.Crossbow_Idle_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.34.20:208][371]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle
+[2017.12.13-10.34.20:208][371]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.36.01:762][428]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.Remade_Crossbow_Idle_1
+[2017.12.13-10.36.01:766][428]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.36.06:450][789]LogSavePackage: Save=18.91ms
+[2017.12.13-10.36.06:450][789]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Remade_Crossbow_Idle_11B4310F6435104402AF4BDAE98D99B13.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset'
+[2017.12.13-10.36.06:454][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.uasset
+[2017.12.13-10.36.22:128][ 69]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2017.12.13-10.36.22:129][ 69]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.40.28:012][625]Cmd: TRANSACTION UNDO
+[2017.12.13-10.40.28:012][625]LogEditorTransaction: Undo Edit X
+[2017.12.13-10.40.28:260][625]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.40.28:265][625]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.40.29:211][693]Cmd: TRANSACTION UNDO
+[2017.12.13-10.40.29:211][693]LogEditorTransaction: Undo Edit X
+[2017.12.13-10.40.29:454][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.40.29:456][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.41.33:048][616]Cmd: TRANSACTION UNDO
+[2017.12.13-10.41.33:048][616]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.41.33:290][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.41.33:291][616]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.41.34:552][683]Cmd: TRANSACTION UNDO
+[2017.12.13-10.41.34:553][683]LogEditorTransaction: Undo Rotate Bone
+[2017.12.13-10.41.34:842][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.13-10.41.34:844][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.12.13-10.42.32:756][567]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle_1.Remade_Crossbow_Idle_1
+[2017.12.13-10.42.32:759][567]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(1) IsCompressedDataValid(0)
+[2017.12.13-10.42.32:768][567]LogAnimationCompression: Compressing AnimSequence_2 (AnimSequence /Engine/Transient.AnimSequence_2)
+	Skeleton: ybot_Skeleton
+	Original Size: 70532   MaxDiff: 0.000000
+[2017.12.13-10.42.32:768][567]LogAnimationCompression: Original Key Encoding: AKF_ConstantKeyLerp
+	Original Rotation Format: ACF_Float96NoW
+	Original Translation Format: ACF_None
+	NumFrames: 258
+	SequenceLength: 8.566667 (30.1 fps)
+[2017.12.13-10.42.32:768][567]LogAnimationCompression: Recompressed using current/default
+	Recompress Size: 70532   MaxDiff: 0.000085
+	Recompress Scheme: AnimCompress_BitwiseCompressOnly
+[2017.12.13-10.42.33:044][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(36768) (52.1%) from previous(36768) MaxError(0.05) bLowersError(0) (**Best so far**)
+[2017.12.13-10.42.33:045][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(1) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.33:045][567]LogAnimationCompression:     WinningCompressorError(0.000085) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.33:045][567]LogAnimationCompression: 	ResampledFramerate: 5.000000
+[2017.12.13-10.42.33:309][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(63388) (89.9%) from previous(26620) MaxError(6.21) bLowersError(0) 
+[2017.12.13-10.42.33:309][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.33:309][567]LogAnimationCompression:     WinningCompressorError(0.053264) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.33:309][567]LogAnimationCompression: 	ResampledFramerate: 6.000000
+[2017.12.13-10.42.33:584][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(62312) (88.3%) from previous(25544) MaxError(2.06) bLowersError(0) 
+[2017.12.13-10.42.33:584][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.33:584][567]LogAnimationCompression:     WinningCompressorError(0.053264) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.33:584][567]LogAnimationCompression: 	ResampledFramerate: 10.000000
+[2017.12.13-10.42.33:857][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(58096) (82.4%) from previous(21328) MaxError(1.72) bLowersError(0) 
+[2017.12.13-10.42.33:857][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.33:857][567]LogAnimationCompression:     WinningCompressorError(0.053264) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.33:857][567]LogAnimationCompression: 	ResampledFramerate: 15.000000
+[2017.12.13-10.42.34:128][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(52724) (74.8%) from previous(15956) MaxError(0.33) bLowersError(0) (**Best so far**)
+[2017.12.13-10.42.34:128][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(1) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:128][567]LogAnimationCompression:     WinningCompressorError(0.053264) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.34:128][567]LogAnimationCompression: 	LinearKeys. MaxPosDiff: 0.000056, MaxAngleDiff: 0.000042, MaxScaleDiff : 0.000000
+[2017.12.13-10.42.34:508][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(45228) (64.1%) from previous(-7496) MaxError(1.52) bLowersError(0) 
+[2017.12.13-10.42.34:508][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:508][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.34:508][567]LogAnimationCompression: 	Bitwise. MaxPosDiffBitwise: 0.700000, MaxAngleDiffBitwise: 0.200000, MaxScaleDiffBitwise: 0.070000
+[2017.12.13-10.42.34:773][567]LogAnimationCompression: - Progressive_PerTrack - bytes saved(52724) (74.8%) from previous(0) MaxError(0.33) bLowersError(0) 
+[2017.12.13-10.42.34:773][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:773][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.34:775][567]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.13-10.42.34:786][567]LogAnimationCompression: - BitwiseACF_Float96 - bytes saved(0) (0.0%) from previous(-52724) MaxError(0.00) bLowersError(1) 
+[2017.12.13-10.42.34:786][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:786][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.34:794][567]LogAnimationCompression: - BitwiseACF_Fixed48 - bytes saved(30960) (43.9%) from previous(-21764) MaxError(0.05) bLowersError(1) 
+[2017.12.13-10.42.34:794][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:794][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.34:799][567]LogAnimationCompression: - HalfOddACF_Float96 - bytes saved(34056) (48.3%) from previous(-18668) MaxError(1.58) bLowersError(0) 
+[2017.12.13-10.42.34:799][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:799][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.34:805][567]LogAnimationCompression: - HalfOddACF_Fixed48 - bytes saved(49496) (70.2%) from previous(-3228) MaxError(1.59) bLowersError(0) 
+[2017.12.13-10.42.34:805][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:805][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.34:810][567]LogAnimationCompression: - HalfEvenACF_Float96 - bytes saved(34056) (48.3%) from previous(-18668) MaxError(2.04) bLowersError(0) 
+[2017.12.13-10.42.34:810][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:810][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.34:816][567]LogAnimationCompression: - HalfEvenACF_Fixed48 - bytes saved(49496) (70.2%) from previous(-3228) MaxError(2.03) bLowersError(0) 
+[2017.12.13-10.42.34:817][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:817][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.34:982][567]LogAnimationCompression: - LinearACF_Float96 - bytes saved(7064) (10.0%) from previous(-45660) MaxError(0.01) bLowersError(1) 
+[2017.12.13-10.42.34:982][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.34:982][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:164][567]LogAnimationCompression: - LinearACF_Fixed48 - bytes saved(20600) (29.2%) from previous(-32124) MaxError(0.04) bLowersError(1) 
+[2017.12.13-10.42.35:164][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:164][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:175][567]LogAnimationCompression: - Bitwise_PerTrack - bytes saved(37288) (52.9%) from previous(-15436) MaxError(0.19) bLowersError(1) 
+[2017.12.13-10.42.35:175][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:175][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:342][567]LogAnimationCompression: - Linear_PerTrack - bytes saved(37064) (52.5%) from previous(-15660) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.35:342][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:342][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:455][567]LogAnimationCompression: - Adaptive1_LinPerTrackNoRT - bytes saved(37348) (53.0%) from previous(-15376) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.35:455][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:455][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:624][567]LogAnimationCompression: - Adaptive1_LinPerTrack - bytes saved(37064) (52.5%) from previous(-15660) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.35:624][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:624][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:796][567]LogAnimationCompression: - Linear_PerTrackExp1 - bytes saved(37064) (52.5%) from previous(-15660) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.35:796][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:797][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:967][567]LogAnimationCompression: - Linear_PerTrackExp2 - bytes saved(37064) (52.5%) from previous(-15660) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.35:967][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:967][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:977][567]LogAnimationCompression: - Downsample20Hz_PerTrack - bytes saved(47864) (67.9%) from previous(-4860) MaxError(1.57) bLowersError(0) 
+[2017.12.13-10.42.35:977][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:977][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.35:985][567]LogAnimationCompression: - Downsample15Hz_PerTrack - bytes saved(52988) (75.1%) from previous(264) MaxError(0.33) bLowersError(0) (**Best so far**)
+[2017.12.13-10.42.35:985][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(1) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:985][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.35:992][567]LogAnimationCompression: - Downsample10Hz_PerTrack - bytes saved(58272) (82.6%) from previous(5284) MaxError(1.72) bLowersError(0) 
+[2017.12.13-10.42.35:992][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.35:992][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.36:001][567]LogAnimationCompression: - Downsample5Hz_PerTrack - bytes saved(63480) (90.0%) from previous(10492) MaxError(6.21) bLowersError(0) 
+[2017.12.13-10.42.36:001][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.36:001][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.36:080][567]LogAnimationCompression: - Adaptive1_15Hz_LinPerTrack - bytes saved(47024) (66.7%) from previous(-5964) MaxError(1.52) bLowersError(0) 
+[2017.12.13-10.42.36:080][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.36:080][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.36:145][567]LogAnimationCompression: - Adaptive1_10Hz_LinPerTrack - bytes saved(54312) (77.0%) from previous(1324) MaxError(1.64) bLowersError(0) 
+[2017.12.13-10.42.36:146][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.36:146][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.36:191][567]LogAnimationCompression: - Adaptive1_5Hz_LinPerTrack - bytes saved(61452) (87.1%) from previous(8464) MaxError(3.33) bLowersError(0) 
+[2017.12.13-10.42.36:191][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.36:191][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(0)
+[2017.12.13-10.42.36:615][567]LogAnimationCompression: - Adaptive2_15Hz_LinPerTrack - bytes saved(37064) (52.5%) from previous(-15924) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.36:615][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.36:615][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.37:046][567]LogAnimationCompression: - Adaptive2_10Hz_LinPerTrack - bytes saved(37064) (52.5%) from previous(-15924) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.37:046][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.37:046][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.37:317][567]LogAnimationCompression: - Adaptive2_PerTrack - bytes saved(36768) (52.1%) from previous(-16220) MaxError(0.05) bLowersError(1) 
+[2017.12.13-10.42.37:317][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.37:317][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.37:747][567]LogAnimationCompression: - Adaptive2_LinPerTrack - bytes saved(37064) (52.5%) from previous(-15924) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.37:747][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.37:747][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: - Adaptive2_LinPerTrackNoRT - bytes saved(37348) (53.0%) from previous(-15640) MaxError(0.06) bLowersError(1) 
+[2017.12.13-10.42.38:108][567]LogAnimationCompression:     bReducesErrorBelowThreshold(0) bHasAcceptableErrorAndSavesSpace(0) bLowersErrorAndSavesSameOrBetter(0)
+[2017.12.13-10.42.38:108][567]LogAnimationCompression:     WinningCompressorError(0.329101) MasterTolerance(1.000000) bForceBelowThreshold(0) bErrorUnderThreshold(1)
+[2017.12.13-10.42.38:108][567]LogAnimationCompression:   Recompressing(AnimSequence_2) with compressor('Downsample15Hz_PerTrack') saved 52988 bytes (70532 -> 70532 -> 17544) (max diff=0.329101)
+
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: Compression Stats Summary [Recompressions(1) Bytes saved(52988) before(1839228) now(1786240) savings(2.9%) Uncompressed(16326560) TotalRatio(9:1)]
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Default compressor wins:                      0
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '              BitwiseACF_Float96':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '              BitwiseACF_Fixed48':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '              HalfOddACF_Float96':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '              HalfOddACF_Fixed48':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '             HalfEvenACF_Float96':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '             HalfEvenACF_Fixed48':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '               LinearACF_Float96':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '               LinearACF_Fixed48':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '            Progressive_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '                Bitwise_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '                 Linear_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '       Adaptive1_LinPerTrackNoRT':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '           Adaptive1_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '             Linear_PerTrackExp1':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '             Linear_PerTrackExp2':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:108][567]LogAnimationCompression: 		Wins for '         Downsample20Hz_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '         Downsample15Hz_PerTrack':    1		0.329101	264 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '         Downsample10Hz_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '          Downsample5Hz_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '      Adaptive1_15Hz_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '      Adaptive1_10Hz_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '       Adaptive1_5Hz_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '      Adaptive2_15Hz_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '      Adaptive2_10Hz_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '              Adaptive2_PerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '           Adaptive2_LinPerTrack':    0		0.000000	0 bytes
+[2017.12.13-10.42.38:109][567]LogAnimationCompression: 		Wins for '       Adaptive2_LinPerTrackNoRT':    0		0.000000	0 bytes
+[2017.12.13-10.42.45:003][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.019
+[2017.12.13-10.42.45:006][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton] ([1] browsable assets)...
+[2017.12.13-10.42.45:007][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton]
+[2017.12.13-10.42.45:041][790]LogSavePackage: Save=9.96ms
+[2017.12.13-10.42.45:042][790]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Skeleton_Auto46F198AB845C42749B914C8A8FF64BB3B.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto4.uasset'
+[2017.12.13-10.42.45:043][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto4.uasset
+[2017.12.13-10.42.45:044][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Remade_Crossbow_Idle_2] ([1] browsable assets)...
+[2017.12.13-10.42.45:062][790]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Remade_Crossbow_Idle_2.Remade_Crossbow_Idle_2]
+[2017.12.13-10.42.45:062][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Remade_Crossbow_Idle_2]
+[2017.12.13-10.42.45:066][790]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Remade_Crossbow_Idle_2.Remade_Crossbow_Idle_2
+[2017.12.13-10.42.45:067][790]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Remade_Crossbow_Idle_2) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.42.45:098][790]LogSavePackage: Save=32.77ms
+[2017.12.13-10.42.45:098][790]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Remade_Crossbow_Idle_2_Auto4884CC03245C8F762A801739AA6098D4D.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Remade_Crossbow_Idle_2_Auto4.uasset'
+[2017.12.13-10.42.45:101][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Remade_Crossbow_Idle_2_Auto4.uasset
+[2017.12.13-10.42.45:101][790]LogFileHelpers: Auto-saving content packages took 0.094
+[2017.12.13-10.45.11:370][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back
+[2017.12.13-10.45.11:370][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:371][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right
+[2017.12.13-10.45.11:371][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:372][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left
+[2017.12.13-10.45.11:372][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:390][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back
+[2017.12.13-10.45.11:391][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:391][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards
+[2017.12.13-10.45.11:391][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:392][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right
+[2017.12.13-10.45.11:392][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:396][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward
+[2017.12.13-10.45.11:396][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:397][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left
+[2017.12.13-10.45.11:397][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:475][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward
+[2017.12.13-10.45.11:475][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:475][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right
+[2017.12.13-10.45.11:476][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:476][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left
+[2017.12.13-10.45.11:476][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:493][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right
+[2017.12.13-10.45.11:493][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:510][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left
+[2017.12.13-10.45.11:510][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:511][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left
+[2017.12.13-10.45.11:511][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:512][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight
+[2017.12.13-10.45.11:512][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:513][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right
+[2017.12.13-10.45.11:513][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:545][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right
+[2017.12.13-10.45.11:545][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:546][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left
+[2017.12.13-10.45.11:547][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:548][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left
+[2017.12.13-10.45.11:548][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:552][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right
+[2017.12.13-10.45.11:552][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:554][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight
+[2017.12.13-10.45.11:555][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:567][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back
+[2017.12.13-10.45.11:567][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:596][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back
+[2017.12.13-10.45.11:596][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:598][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2017.12.13-10.45.11:598][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:599][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight
+[2017.12.13-10.45.11:599][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:600][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle
+[2017.12.13-10.45.11:600][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:605][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2017.12.13-10.45.11:605][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:609][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right
+[2017.12.13-10.45.11:609][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:610][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right
+[2017.12.13-10.45.11:610][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:627][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward
+[2017.12.13-10.45.11:627][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:628][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left
+[2017.12.13-10.45.11:628][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:629][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left
+[2017.12.13-10.45.11:629][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:630][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back
+[2017.12.13-10.45.11:631][248]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.45.11:712][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2017.12.13-10.45.12:087][248]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2017.12.13-10.45.12:864][248]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2017.12.13-10.45.13:275][248]LogSlate: Took 0.006869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.13-10.45.13:430][248]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-10.45.22:510][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-10.45.22:599][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-10.45.22:600][ 82]PIE: New page: PIE session: Arena1 (Dec 13, 2017, 12:45:22 PM)
+[2017.12.13-10.45.22:600][ 82]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.13-10.45.22:612][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011814s)
+[2017.12.13-10.45.22:613][ 82]LogAIModule: Creating AISystem for world Arena1
+[2017.12.13-10.45.22:613][ 82]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.12.13-10.45.22:613][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.013196s)
+[2017.12.13-10.45.22:642][ 82]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-10.45.22:652][ 82]LogInit: FAudioDevice initialized.
+[2017.12.13-10.45.22:718][ 82]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.13-10.45.22:722][ 82]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.13-11.45.22
+[2017.12.13-10.45.22:723][ 82]LogWorld: Bringing up level for play took: 0.003895
+[2017.12.13-10.45.22:765][ 82]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.12.13-10.45.22:773][ 82]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.104
+[2017.12.13-10.45.22:810][ 82]LogRenderer: Reallocating scene render targets to support 1292x888 Format 10 NumSamples 1 (Frame:1).
+[2017.12.13-10.46.34:157][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2017.12.13-10.46.34:200][689]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2017.12.13-10.46.34:593][689]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-10.46.44:521][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2017.12.13-10.46.44:558][286]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2017.12.13-10.50.16:981][ 52]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.13-10.52.36:141][471]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/ybot_Skeleton_Sequence.ybot_Skeleton_Sequence
+[2017.12.13-10.52.36:143][471]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ybot_Skeleton_Sequence) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.13-10.53.15:243][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2017.12.13-10.53.15:524][264]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.12.13-10.53.16:016][264]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-10.53.51:184][574]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.13-10.53.54:900][902]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-10.53.54:924][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-10.53.54:925][902]PIE: New page: PIE session: Arena1 (Dec 13, 2017, 12:53:54 PM)
+[2017.12.13-10.53.54:925][902]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.13-10.53.54:939][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014055s)
+[2017.12.13-10.53.54:940][902]LogAIModule: Creating AISystem for world Arena1
+[2017.12.13-10.53.54:940][902]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2017.12.13-10.53.54:940][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.015386s)
+[2017.12.13-10.53.54:976][902]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-10.53.54:985][902]LogInit: FAudioDevice initialized.
+[2017.12.13-10.53.55:022][902]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.13-10.53.55:025][902]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.13-11.53.55
+[2017.12.13-10.53.55:025][902]LogWorld: Bringing up level for play took: 0.002656
+[2017.12.13-10.53.55:030][902]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.361
+[2017.12.13-10.54.01:923][433]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.13-10.54.01:923][433]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.13-10.54.04:932][719]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-10.54.04:959][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-10.54.04:960][719]PIE: New page: PIE session: Arena1 (Dec 13, 2017, 12:54:04 PM)
+[2017.12.13-10.54.04:960][719]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.13-10.54.04:973][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012676s)
+[2017.12.13-10.54.04:973][719]LogAIModule: Creating AISystem for world Arena1
+[2017.12.13-10.54.04:974][719]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2017.12.13-10.54.04:974][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.013946s)
+[2017.12.13-10.54.05:003][719]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-10.54.05:014][719]LogInit: FAudioDevice initialized.
+[2017.12.13-10.54.05:049][719]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.13-10.54.05:052][719]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.13-11.54.05
+[2017.12.13-10.54.05:053][719]LogWorld: Bringing up level for play took: 0.003113
+[2017.12.13-10.54.05:058][719]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.389
+[2017.12.13-10.54.29:213][659]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.13-10.55.02:793][577]LogSavePackage: Save=35.39ms
+[2017.12.13-10.55.02:793][577]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Remade_Crossbow_Idle3EE6FBFA4E8D65F0735F678A4A5FA3AD.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle.uasset'
+[2017.12.13-10.55.02:801][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Remade_Crossbow_Idle.uasset
+[2017.12.13-10.55.45:642][139]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.13-10.55.53:968][  9]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2017.12.13-10.55.54:292][ 42]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-10.56.01:551][742]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.13-10.56.03:446][900]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-10.56.03:470][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-10.56.03:470][900]PIE: New page: PIE session: Arena1 (Dec 13, 2017, 12:56:03 PM)
+[2017.12.13-10.56.03:470][900]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.13-10.56.03:485][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014411s)
+[2017.12.13-10.56.03:485][900]LogAIModule: Creating AISystem for world Arena1
+[2017.12.13-10.56.03:486][900]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.12.13-10.56.03:486][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.015726s)
+[2017.12.13-10.56.03:521][900]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-10.56.03:530][900]LogInit: FAudioDevice initialized.
+[2017.12.13-10.56.03:567][900]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.13-10.56.03:570][900]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.13-11.56.03
+[2017.12.13-10.56.03:570][900]LogWorld: Bringing up level for play took: 0.002631
+[2017.12.13-10.56.03:575][900]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.907
+[2017.12.13-10.57.58:916][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.034
+[2017.12.13-10.57.58:918][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot] ([1] browsable assets)...
+[2017.12.13-10.57.58:918][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot]
+[2017.12.13-10.57.59:011][783]LogSavePackage: Save=71.81ms
+[2017.12.13-10.57.59:011][783]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Auto566ABD99444FD89A4DCFF0E9ECD6B2BE0.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto5.uasset'
+[2017.12.13-10.57.59:012][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto5.uasset
+[2017.12.13-10.57.59:013][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton] ([1] browsable assets)...
+[2017.12.13-10.57.59:013][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Mesh/ybot_Skeleton]
+[2017.12.13-10.57.59:035][783]LogSavePackage: Save=7.12ms
+[2017.12.13-10.57.59:035][783]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Skeleton_Auto57536D4D34E42F3AFB20492824DD0643D.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto5.uasset'
+[2017.12.13-10.57.59:036][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto5.uasset
+[2017.12.13-10.57.59:037][783]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/BP_YBot_Movement] ([1] browsable assets)...
+[2017.12.13-10.57.59:053][783]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Y_Bot/BP_YBot_Movement.BP_YBot_Movement]
+[2017.12.13-10.57.59:053][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/BP_YBot_Movement]
+[2017.12.13-10.57.59:748][783]LogSavePackage: Save=679.53ms
+[2017.12.13-10.57.59:748][783]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BP_YBot_Movement_Auto5730651424E277447848AD297948B8460.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/BP_YBot_Movement_Auto5.uasset'
+[2017.12.13-10.57.59:750][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/BP_YBot_Movement_Auto5.uasset
+[2017.12.13-10.57.59:750][783]LogFileHelpers: Auto-saving content packages took 0.833
+[2017.12.13-10.59.37:617][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.12.13-10.59.37:657][564]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.12.13-10.59.38:039][564]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-11.15.22:470][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2017.12.13-11.15.22:510][115]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2017.12.13-11.15.24:928][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_10.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2017.12.13-11.15.24:962][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_10.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2017.12.13-11.15.29:091][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Y_Bot/Mesh/ybot" FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot.uasset" SILENT=true
+[2017.12.13-11.15.29:193][370]LogSavePackage: Save=70.99ms
+[2017.12.13-11.15.29:193][370]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybotB78D7781429B29307695099B78592548.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot.uasset'
+[2017.12.13-11.15.29:205][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot.uasset
+[2017.12.13-11.16.11:601][401]LogSavePackage: Save=6.61ms
+[2017.12.13-11.16.11:601][401]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybot_Skeleton2B5E8EBC425AA33681F4C4BFD51F8AF2.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset'
+[2017.12.13-11.16.11:608][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset
+[2017.12.13-11.16.16:926][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Y_Bot/Mesh/ybot" FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot.uasset" SILENT=true
+[2017.12.13-11.16.17:006][936]LogSavePackage: Save=68.96ms
+[2017.12.13-11.16.17:006][936]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/ybotAD033A55488725840A4D68A9F3EC7BB4.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot.uasset'
+[2017.12.13-11.16.17:012][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Mesh/ybot.uasset
+[2017.12.13-11.16.34:848][626]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_11.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2017.12.13-11.16.34:878][626]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_11.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2017.12.13-11.16.35:342][626]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.13-11.17.03:499][997]LogSavePackage: Save=645.85ms
+[2017.12.13-11.17.03:499][997]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BP_YBot_MovementE199B5DB4E2B0E7A3B7DE0B332DC6287.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset'
+[2017.12.13-11.17.03:503][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset
+[2017.12.13-11.18.05:424][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.028
+[2017.12.13-11.18.05:426][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameBase/Player_One] ([1] browsable assets)...
+[2017.12.13-11.18.05:441][968]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameBase/Player_One.Player_One]
+[2017.12.13-11.18.05:441][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBase/Player_One]
+[2017.12.13-11.18.05:609][968]LogSavePackage: Save=145.03ms
+[2017.12.13-11.18.05:609][968]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One_Auto694E41B734CD0F8C2F6C3349FE27D57E9.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto6.uasset'
+[2017.12.13-11.18.05:615][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto6.uasset
+[2017.12.13-11.18.05:615][968]LogFileHelpers: Auto-saving content packages took 0.190
+[2017.12.13-11.22.24:440][ 55]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\3D\Game_content\Weapons\Crossbows\crossbow_1\Crossbow_x10.obj)
+[2017.12.13-11.22.24:463][ 55]LogFbx: Loading FBX Scene from E:\3D\Game_content\Weapons\Crossbows\crossbow_1\Crossbow_x10.obj
+[2017.12.13-11.22.24:475][ 55]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.13-11.22.46:022][ 55]LogFbx: Loading FBX Scene from E:\3D\Game_content\Weapons\Crossbows\crossbow_1\Crossbow_x10.obj
+[2017.12.13-11.22.46:034][ 55]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.13-11.22.46:034][ 55]LogFbx: =================================================
+[2017.12.13-11.22.46:034][ 55]LogFbx: Dumping Node START [default] 
+[2017.12.13-11.22.46:034][ 55]LogFbx: 	Total Deformer Count 1476478528.
+[2017.12.13-11.22.46:034][ 55]LogFbx: 	Attribute () Type (4).
+[2017.12.13-11.22.46:034][ 55]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.13-11.22.46:034][ 55]LogFbx: Dumping Node END [default]
+[2017.12.13-11.22.46:034][ 55]LogFbx: =================================================
+[2017.12.13-11.22.46:034][ 55]LogFbx: Dumping Node START [default] 
+[2017.12.13-11.22.46:034][ 55]LogFbx: 	Total Deformer Count 1476493032.
+[2017.12.13-11.22.46:034][ 55]LogFbx: 	Attribute () Type (4).
+[2017.12.13-11.22.46:034][ 55]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.13-11.22.46:034][ 55]LogFbx: Dumping Node END [default]
+[2017.12.13-11.22.46:034][ 55]LogFbx: =================================================
+[2017.12.13-11.22.46:034][ 55]LogFbx: Dumping Node START [default] 
+[2017.12.13-11.22.46:034][ 55]LogFbx: 	Total Deformer Count 1476493032.
+[2017.12.13-11.22.46:034][ 55]LogFbx: 	Attribute () Type (4).
+[2017.12.13-11.22.46:034][ 55]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.13-11.22.46:034][ 55]LogFbx: Dumping Node END [default]
+[2017.12.13-11.22.46:037][ 55]LogFbx: Triangulating skeletal mesh default
+[2017.12.13-11.22.46:057][ 55]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.12.13-11.22.46:079][ 55]LogSkeletalMesh: Section 0: 808 vertices, 1 active bones
+[2017.12.13-11.22.46:081][ 55]LogSkeletalMesh: Section 0: Material=0, 997 triangles
+[2017.12.13-11.22.46:082][ 55]LogLinker: Can't find file '/Game/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_Skeleton'
+[2017.12.13-11.22.46:082][ 55]LogLinker: Can't find file '/Game/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_Skeleton'
+[2017.12.13-11.22.46:085][ 55]LogLinker: Can't find file '/Game/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_PhysicsAsset'
+[2017.12.13-11.22.46:085][ 55]LogLinker: Can't find file '/Game/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_PhysicsAsset'
+[2017.12.13-11.22.46:098][ 55]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.12.13-11.23.23:379][251]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_12.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2017.12.13-11.23.23:428][251]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_12.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2017.12.13-11.23.45:748][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.Actor_13.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2017.12.13-11.23.45:785][378]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.Actor_13.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2017.12.13-11.24.23:955][363]LogSavePackage: Save=5.25ms
+[2017.12.13-11.24.23:955][363]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crossbow_x10_default_Skeleton778EB2464312EE28A45A00A8C2EE7ECF.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_Skeleton.uasset'
+[2017.12.13-11.24.23:965][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_Skeleton.uasset
+[2017.12.13-11.24.26:386][490]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2017.12.13-11.24.26:395][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_14.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2017.12.13-11.24.28:536][571]LogSavePackage: Save=16.15ms
+[2017.12.13-11.24.28:536][571]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crossbow_x10_default_PhysicsAsseD88E999A4A307CE549D21BA4B8ADB4C1.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_PhysicsAsset.uasset'
+[2017.12.13-11.24.28:540][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10_default_PhysicsAsset.uasset
+[2017.12.13-11.24.42:040][215]Cmd: MODE ROTGRID=1
+[2017.12.13-11.24.53:549][725]LogSavePackage: Save=17.04ms
+[2017.12.13-11.24.53:549][725]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crossbow_x100B5EDA18484702DF367A60AED46E990A.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10.uasset'
+[2017.12.13-11.24.53:551][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10.uasset
+[2017.12.13-11.25.08:147][532]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Crossbow_x10_default)
+[2017.12.13-11.25.09:325][634]Cmd: DELETE
+[2017.12.13-11.25.09:325][634]Cmd: ACTOR DELETE
+[2017.12.13-11.25.09:336][634]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.12.13-11.25.09:368][634]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2017.12.13-11.25.10:554][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_15.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2017.12.13-11.25.10:602][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.Actor_15.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2017.12.13-11.25.29:661][721]LogSavePackage: Save=10.58ms
+[2017.12.13-11.25.29:661][721]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crossbow_x106925FA73466FA09439EE9F832D19473C.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10.uasset'
+[2017.12.13-11.25.29:668][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10.uasset
+[2017.12.13-11.28.47:672][494]LogSavePackage: Save=183.96ms
+[2017.12.13-11.28.47:672][494]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Arena1_Auto71F18EA274EF49710855700AE5A260174.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Levels/Arena1_Auto7.umap'
+[2017.12.13-11.28.47:674][494]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Levels/Arena1_Auto7.umap
+[2017.12.13-11.28.47:681][494]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.241
+[2017.12.13-11.28.47:681][494]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.241
+[2017.12.13-11.29.29:759][885]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\3D\Game_content\Weapons\Crossbows\crossbow_1\Crossbow_x10.obj)
+[2017.12.13-11.29.29:769][885]LogFbx: Loading FBX Scene from E:\3D\Game_content\Weapons\Crossbows\crossbow_1\Crossbow_x10.obj
+[2017.12.13-11.29.29:780][885]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.13-11.29.37:797][885]LogFbx: Loading FBX Scene from E:\3D\Game_content\Weapons\Crossbows\crossbow_1\Crossbow_x10.obj
+[2017.12.13-11.29.37:808][885]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.13-11.29.37:808][885]LogFbx: =================================================
+[2017.12.13-11.29.37:808][885]LogFbx: Dumping Node START [default] 
+[2017.12.13-11.29.37:808][885]LogFbx: 	Total Deformer Count 2089408952.
+[2017.12.13-11.29.37:808][885]LogFbx: 	Attribute () Type (4).
+[2017.12.13-11.29.37:808][885]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.13-11.29.37:808][885]LogFbx: Dumping Node END [default]
+[2017.12.13-11.29.37:809][885]LogFbx: =================================================
+[2017.12.13-11.29.37:809][885]LogFbx: Dumping Node START [default] 
+[2017.12.13-11.29.37:809][885]LogFbx: 	Total Deformer Count 2089408504.
+[2017.12.13-11.29.37:809][885]LogFbx: 	Attribute () Type (4).
+[2017.12.13-11.29.37:809][885]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.13-11.29.37:809][885]LogFbx: Dumping Node END [default]
+[2017.12.13-11.29.37:809][885]LogFbx: =================================================
+[2017.12.13-11.29.37:809][885]LogFbx: Dumping Node START [default] 
+[2017.12.13-11.29.37:809][885]LogFbx: 	Total Deformer Count 2089408504.
+[2017.12.13-11.29.37:809][885]LogFbx: 	Attribute () Type (4).
+[2017.12.13-11.29.37:809][885]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.13-11.29.37:809][885]LogFbx: Dumping Node END [default]
+[2017.12.13-11.29.37:809][885]LogFbx: Triangulating skeletal mesh default
+[2017.12.13-11.29.37:834][885]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.12.13-11.29.37:857][885]LogSkeletalMesh: Section 0: 808 vertices, 1 active bones
+[2017.12.13-11.29.37:858][885]LogSkeletalMesh: Section 0: Material=0, 997 triangles
+[2017.12.13-11.29.37:863][885]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.12.13-11.29.46:956][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_16.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2017.12.13-11.29.47:001][630]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.Actor_16.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2017.12.13-11.30.08:235][795]LogSavePackage: Save=27.38ms
+[2017.12.13-11.30.08:235][795]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crossbow_x10D4C96D23499601CA105CA695D18489A8.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10.uasset'
+[2017.12.13-11.30.08:238][795]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Weapons/Crossbows/Crossbow_1/Crossbow_x10.uasset
+[2017.12.13-12.00.06:935][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-12.16.55:750][934]LogStreaming: Warning: Took 177.76ms to ProcessLoadedPackages
+[2017.12.13-12.41.47:695][272]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.259 s
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: 
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1170]
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: Property (ObjectProperty /Game/GameBase/Player_One.Player_One_C:Crossbow_1_BP) is not an object or interface class
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: Stack: 
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C9D22786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C9AC123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C9ADB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C018673D UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C014D243 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFEE2686 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFF3ED1C UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFF3D319 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFEE3D5A UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFFBD23E UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFF974F7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFF97313 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C006663A UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFEE132F UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000BFF71CAF UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C00B6740 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C0013D80 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C0015F44 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C0080B5E UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C007EA6A UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:696][272]LogOutputDevice: Error: [Callstack] 0x00000000C0088483 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C008AF48 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C00CDF67 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F879B8 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C00EEC97 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D204 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F49157 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F48F20 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F48F20 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:697][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F4D281 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F48F20 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8F4D281 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5DBE6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C06E UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5BF39 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5D2CF UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5B9F4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: [Callstack] 0x00000000C8A5C10A UE4Editor-SlateCore.dll!UnknownFunction []
+[2017.12.13-12.41.47:698][272]LogOutputDevice: Error: 
+[2017.12.13-12.41.47:706][272]LogStats:                SubmitErrorReport -  0.000 s

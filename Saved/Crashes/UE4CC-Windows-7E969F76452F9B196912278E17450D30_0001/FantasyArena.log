@@ -1,0 +1,1924 @@
+﻿Log file open, 12/12/17 13:37:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-42475699) SRandInit(-42475699).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.127543
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.12-12.37.08:894][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.12-12.37.08:894][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.12-12.37.08:930][  0]LogInit: Computer: KLOBUK
+[2017.12.12-12.37.08:930][  0]LogInit: User: Jakub
+[2017.12.12-12.37.08:930][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.12-12.37.08:930][  0]LogInit: High frequency timer resolution =3.514604 MHz
+[2017.12.12-12.37.08:930][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.12-12.37.08:930][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.12-12.37.08:930][  0]LogMemory: Process Physical Memory: 269.73 MB used, 269.73 MB peak
+[2017.12.12-12.37.08:930][  0]LogMemory: Process Virtual Memory: 273.13 MB used, 273.13 MB peak
+[2017.12.12-12.37.08:930][  0]LogMemory: Physical Memory: 3630.81 MB used,  4500.97 MB free, 8131.79 MB total
+[2017.12.12-12.37.08:930][  0]LogMemory: Virtual Memory: 626.44 MB used,  4500.97 MB free, 134217728.00 MB total
+[2017.12.12-12.37.09:378][  0]LogInit: Using OS detected language (en-US).
+[2017.12.12-12.37.09:378][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.12-12.37.09:448][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.12-12.37.09:449][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.12-12.37.09:994][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.12-12.37.13:077][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.12-12.37.13:104][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.12-12.37.13:104][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.12-12.37.13:106][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.12-12.37.13:106][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.12-12.37.13:106][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.12-12.37.13:109][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.12-12.37.13:109][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.12-12.37.13:109][  0]LogWindows: EnumDisplayDevices:
+[2017.12.12-12.37.13:109][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.12-12.37.13:110][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.12-12.37.13:110][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.12-12.37.13:110][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.12-12.37.13:110][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.12-12.37.13:110][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.12-12.37.13:110][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.12-12.37.13:110][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.12-12.37.13:110][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.12-12.37.13:124][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.12-12.37.13:145][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.12-12.37.13:147][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Intermediate/Shaders/WorkingDirectory/776/).
+[2017.12.12-12.37.13:147][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/AF91A9D64BECBEDF9DADEAB13769CD52/'.
+[2017.12.12-12.37.13:147][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.12-12.37.16:168][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.12-12.37.16:214][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.12-12.37.16:269][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.12-12.37.16:323][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.12-12.37.16:383][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.12-12.37.16:442][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.12-12.37.16:491][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.12-12.37.16:552][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.12-12.37.16:596][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.12-12.37.16:649][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.12-12.37.16:696][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.12-12.37.16:743][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.12-12.37.16:791][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.12-12.37.16:841][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.12-12.37.16:955][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.12-12.37.16:955][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.12-12.37.17:003][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.12-12.37.17:040][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.12-12.37.17:135][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.12-12.37.17:167][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.12-12.37.17:218][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.12-12.37.17:267][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.12-12.37.17:322][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.12-12.37.17:379][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.12-12.37.17:380][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.12-12.37.17:944][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.12-12.37.18:358][  0]LogDerivedDataCache: Loaded boot cache 0.41s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.12-12.37.18:359][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.12-12.37.18:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.12-12.37.18:359][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.12-12.37.18:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.12-12.37.18:359][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.12-12.37.18:389][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.12-12.37.18:402][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.12-12.37.18:412][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.12-12.37.18:413][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.12-12.37.18:431][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.12-12.37.18:431][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.12-12.37.19:081][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.12-12.37.19:624][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.12-12.37.19:666][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.12-12.37.19:666][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.12-12.37.19:666][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.12-12.37.19:666][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.12-12.37.19:666][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.12-12.37.19:716][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.12-12.37.20:130][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2017.12.12-12.37.21:258][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.090588 seconds
+[2017.12.12-12.37.21:263][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.12-12.37.21:263][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.12-12.37.21:263][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.12-12.37.21:316][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.12-12.37.27:573][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.12-12.37.27:613][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.12-12.37.28:448][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.12-12.37.28:997][  0]SourceControl: Source control is disabled
+[2017.12.12-12.37.28:997][  0]SourceControl: Source control is disabled
+[2017.12.12-12.37.29:055][  0]SourceControl: Source control is disabled
+[2017.12.12-12.37.29:107][  0]SourceControl: Source control is disabled
+[2017.12.12-12.37.29:997][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.12-12.37.30:260][  0]LogOcInput: OculusInput pre-init called
+[2017.12.12-12.37.30:592][  0]LogEngine: Initializing Engine...
+[2017.12.12-12.37.30:595][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.12-12.37.31:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.12-12.37.31:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.12-12.37.31:252][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.12-12.37.31:262][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.37.31:282][  0]LogInit: FAudioDevice initialized.
+[2017.12.12-12.37.31:389][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.12-12.37.31:408][  0]LogInit: Texture streaming: Enabled
+[2017.12.12-12.37.31:518][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.12-12.37.31:680][  0]LogInit: Transaction tracking system initialized
+[2017.12.12-12.37.32:083][  0]BlueprintLog: New page: Editor Load
+[2017.12.12-12.37.33:170][  0]LocalizationService: Localization service is disabled
+[2017.12.12-12.37.34:241][  0]LogConsoleResponse: Display: 
+[2017.12.12-12.37.35:014][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.12-12.37.35:014][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.12-12.37.35:014][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.12-12.37.35:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/' took 0.02s
+[2017.12.12-12.37.36:599][  0]SourceControl: Source control is disabled
+[2017.12.12-12.37.36:599][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-12.37.36:601][  0]LightingResults: New page: Lighting Build
+[2017.12.12-12.37.36:672][  0]MapCheck: New page: Map Check
+[2017.12.12-12.37.36:672][  0]LightingResults: New page: Lighting Build
+[2017.12.12-12.37.37:146][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.12-12.37.59:437][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-12.37.59:676][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-12.37.59:692][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-12.37.59:742][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.754ms to complete.
+[2017.12.12-12.37.59:742][  0]LogFileHelpers: Loading map 'Arena1' took 23.142
+[2017.12.12-12.37.59:943][  0]LogCollectionManager: Loaded 0 collections in 0.002245 seconds
+[2017.12.12-12.38.00:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Collections/' took 0.01s
+[2017.12.12-12.38.00:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.12-12.38.00:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Collections/' took 0.01s
+[2017.12.12-12.38.00:020][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.12-12.38.00:029][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2017.12.12-12.38.00:095][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.12-12.38.00:512][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.12-12.38.00:560][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.12-12.38.00:594][  0]LogSlate: Took 0.008607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-12.38.00:603][  0]LogSlate: Took 0.007513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.12-12.38.00:615][  0]LogSlate: Took 0.006565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.12-12.38.00:802][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-12.38.01:152][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.12-12.38.01:152][  0]LogLoad: (Engine Initialization) Total time: 56.00 seconds
+[2017.12.12-12.38.01:152][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.12-12.38.01:152][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.12-12.38.01:153][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.12-12.38.01:510][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.12-12.38.01:834][  1]LogAssetRegistry: Asset discovery search completed in 41.7258 seconds
+[2017.12.12-12.38.01:839][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.12-12.38.01:839][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2017.12.12-12.38.05:839][ 13]LogSlate: Took 0.008594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-12.38.42:402][563]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.38.42:504][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.38.42:508][563]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 2:38:42 PM)
+[2017.12.12-12.38.42:509][563]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-12.38.42:529][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020520s)
+[2017.12.12-12.38.42:530][563]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-12.38.42:530][563]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2017.12.12-12.38.42:531][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.022052s)
+[2017.12.12-12.38.42:547][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.38.42:554][563]LogInit: FAudioDevice initialized.
+[2017.12.12-12.38.43:002][563]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-12.38.43:008][563]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-13.38.43
+[2017.12.12-12.38.43:009][563]LogWorld: Bringing up level for play took: 0.003527
+[2017.12.12-12.38.43:055][563]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.12-12.38.43:061][563]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.978
+[2017.12.12-12.39.13:999][954]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.12.12-12.42.13:193][684]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.12-12.42.13:292][686]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FantasyArena
+[2017.12.12-12.42.13:292][686]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.12-12.42.13:292][686]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.18
+[2017.12.12-12.42.13:292][686]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.12-12.42.13:308][687]LogTemp: BranchPath = KLOBUK/C/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KLOBUK/C/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.12-12.42.13:334][688]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Jakub\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.12-12.50.38:627][722]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.50.38:651][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.50.38:651][722]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 2:50:38 PM)
+[2017.12.12-12.50.38:652][722]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-12.50.38:680][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028101s)
+[2017.12.12-12.50.38:681][722]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-12.50.38:681][722]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2017.12.12-12.50.38:681][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.029833s)
+[2017.12.12-12.50.38:703][722]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.50.38:714][722]LogInit: FAudioDevice initialized.
+[2017.12.12-12.50.38:750][722]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-12.50.38:754][722]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-13.50.38
+[2017.12.12-12.50.38:754][722]LogWorld: Bringing up level for play took: 0.003437
+[2017.12.12-12.50.38:759][722]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.677
+[2017.12.12-12.51.04:016][448]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-12.51.04:436][448]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.12.12-12.51.05:201][448]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-12.51.05:344][448]LogSlate: Took 0.008488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.12-12.51.05:657][449]LogSlate: Took 0.008188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.12-12.52.55:217][572]LogSlate: Took 0.011668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.12-12.53.45:766][264]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-12.53.54:514][399]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.027
+[2017.12.12-12.53.54:516][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameBase/Player_One] ([1] browsable assets)...
+[2017.12.12-12.53.54:533][399]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameBase/Player_One.Player_One]
+[2017.12.12-12.53.54:533][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBase/Player_One]
+[2017.12.12-12.53.54:690][399]LogSavePackage: Save=127.44ms
+[2017.12.12-12.53.54:690][399]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One_Auto15212190A449537341EE1AC99D9E184F7.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto1.uasset'
+[2017.12.12-12.53.54:692][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto1.uasset
+[2017.12.12-12.53.54:692][399]LogFileHelpers: Auto-saving content packages took 0.177
+[2017.12.12-12.56.14:008][ 37]BlueprintLog: New page: Collapse to Macro
+[2017.12.12-12.56.57:273][ 73]BlueprintLog: New page: Compile Player_One
+[2017.12.12-12.56.58:607][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2017.12.12-12.56.58:749][169]LogSavePackage: Save=132.50ms
+[2017.12.12-12.56.58:749][169]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One882C8C0F4A80F08EA50124BDC9FEF013.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset'
+[2017.12.12-12.56.58:758][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset
+[2017.12.12-12.58.31:751][630]BlueprintLog: New page: Compile Player_One
+[2017.12.12-12.59.02:620][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.59.02:650][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.59.02:650][ 72]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 2:59:02 PM)
+[2017.12.12-12.59.02:650][ 72]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-12.59.02:663][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012458s)
+[2017.12.12-12.59.02:664][ 72]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-12.59.02:664][ 72]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2017.12.12-12.59.02:664][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.013912s)
+[2017.12.12-12.59.02:697][ 72]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.59.02:708][ 72]LogInit: FAudioDevice initialized.
+[2017.12.12-12.59.02:750][ 72]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-12.59.02:753][ 72]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-13.59.02
+[2017.12.12-12.59.02:753][ 72]LogWorld: Bringing up level for play took: 0.002232
+[2017.12.12-12.59.02:763][ 72]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.679
+[2017.12.12-12.59.02:809][ 72]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-12.59.15:073][256]BlueprintLog: New page: Compile Player_One
+[2017.12.12-12.59.16:258][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2017.12.12-12.59.16:398][335]LogSavePackage: Save=123.41ms
+[2017.12.12-12.59.16:398][335]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One6237D50845C3EE27A29AFC883A087C42.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset'
+[2017.12.12-12.59.16:401][335]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset
+[2017.12.12-12.59.17:295][437]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.59.17:322][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.59.17:323][437]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 2:59:17 PM)
+[2017.12.12-12.59.17:323][437]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-12.59.17:337][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014705s)
+[2017.12.12-12.59.17:338][437]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-12.59.17:339][437]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2017.12.12-12.59.17:339][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.016171s)
+[2017.12.12-12.59.17:368][437]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.59.17:378][437]LogInit: FAudioDevice initialized.
+[2017.12.12-12.59.17:424][437]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-12.59.17:428][437]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-13.59.17
+[2017.12.12-12.59.17:428][437]LogWorld: Bringing up level for play took: 0.003378
+[2017.12.12-12.59.17:437][437]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.646
+[2017.12.12-12.59.33:709][258]BlueprintLog: New page: Compile Player_One
+[2017.12.12-12.59.34:870][344]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.59.34:894][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.59.34:895][344]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 2:59:34 PM)
+[2017.12.12-12.59.34:895][344]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-12.59.34:911][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016506s)
+[2017.12.12-12.59.34:912][344]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-12.59.34:913][344]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2017.12.12-12.59.34:913][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.018091s)
+[2017.12.12-12.59.34:943][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.59.34:951][344]LogInit: FAudioDevice initialized.
+[2017.12.12-12.59.34:988][344]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-12.59.34:993][344]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-13.59.34
+[2017.12.12-12.59.34:993][344]LogWorld: Bringing up level for play took: 0.004220
+[2017.12.12-12.59.34:999][344]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.916
+[2017.12.12-12.59.59:769][145]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.00.54:396][ 31]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.00.55:709][125]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.00.55:734][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.00.55:734][125]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:00:55 PM)
+[2017.12.12-13.00.55:735][125]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.00.55:745][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010862s)
+[2017.12.12-13.00.55:746][125]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.00.55:747][125]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2017.12.12-13.00.55:747][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012239s)
+[2017.12.12-13.00.55:782][125]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.00.55:791][125]LogInit: FAudioDevice initialized.
+[2017.12.12-13.00.55:838][125]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.00.55:841][125]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.00.55
+[2017.12.12-13.00.55:842][125]LogWorld: Bringing up level for play took: 0.003139
+[2017.12.12-13.00.55:850][125]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.233
+[2017.12.12-13.01.17:273][107]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.01.19:806][358]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.01.19:830][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.01.19:830][358]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:01:19 PM)
+[2017.12.12-13.01.19:830][358]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.01.19:842][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011668s)
+[2017.12.12-13.01.19:843][358]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.01.19:843][358]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2017.12.12-13.01.19:843][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.013255s)
+[2017.12.12-13.01.19:878][358]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.01.19:887][358]LogInit: FAudioDevice initialized.
+[2017.12.12-13.01.19:923][358]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.01.19:926][358]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.01.19
+[2017.12.12-13.01.19:926][358]LogWorld: Bringing up level for play took: 0.003358
+[2017.12.12-13.01.19:932][358]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.151
+[2017.12.12-13.01.33:190][858]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.01.34:475][958]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.01.34:501][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.01.34:501][958]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:01:34 PM)
+[2017.12.12-13.01.34:501][958]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.01.34:515][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013678s)
+[2017.12.12-13.01.34:515][958]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.01.34:515][958]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2017.12.12-13.01.34:516][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.014689s)
+[2017.12.12-13.01.34:549][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.01.34:558][958]LogInit: FAudioDevice initialized.
+[2017.12.12-13.01.34:593][958]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.01.34:596][958]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.01.34
+[2017.12.12-13.01.34:596][958]LogWorld: Bringing up level for play took: 0.003397
+[2017.12.12-13.01.34:602][958]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.519
+[2017.12.12-13.01.47:291][390]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.01.48:699][503]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.01.48:717][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.01.48:717][503]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:01:48 PM)
+[2017.12.12-13.01.48:717][503]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.01.48:727][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009485s)
+[2017.12.12-13.01.48:727][503]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.01.48:728][503]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2017.12.12-13.01.48:728][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.010477s)
+[2017.12.12-13.01.48:757][503]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.01.48:765][503]LogInit: FAudioDevice initialized.
+[2017.12.12-13.01.48:799][503]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.01.48:803][503]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.01.48
+[2017.12.12-13.01.48:803][503]LogWorld: Bringing up level for play took: 0.003418
+[2017.12.12-13.01.48:810][503]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.727
+[2017.12.12-13.02.50:999][174]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.02.52:659][308]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.02.52:700][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.02.52:700][308]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:02:52 PM)
+[2017.12.12-13.02.52:700][308]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.02.52:712][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011532s)
+[2017.12.12-13.02.52:713][308]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.02.52:713][308]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2017.12.12-13.02.52:713][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012908s)
+[2017.12.12-13.02.52:738][308]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.02.52:747][308]LogInit: FAudioDevice initialized.
+[2017.12.12-13.02.52:791][308]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.02.52:793][308]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.02.52
+[2017.12.12-13.02.52:794][308]LogWorld: Bringing up level for play took: 0.002264
+[2017.12.12-13.02.52:803][308]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.72
+[2017.12.12-13.03.09:610][ 35]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.03.11:054][141]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.03.11:080][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.03.11:080][141]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:03:11 PM)
+[2017.12.12-13.03.11:080][141]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.03.11:094][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014261s)
+[2017.12.12-13.03.11:095][141]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.03.11:096][141]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2017.12.12-13.03.11:096][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.015754s)
+[2017.12.12-13.03.11:128][141]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.03.11:138][141]LogInit: FAudioDevice initialized.
+[2017.12.12-13.03.11:178][141]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.03.11:181][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.03.11
+[2017.12.12-13.03.11:182][141]LogWorld: Bringing up level for play took: 0.003257
+[2017.12.12-13.03.11:191][141]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 1.108
+[2017.12.12-13.03.28:037][709]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.03.50:406][575]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.12-13.03.50:783][575]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.12-13.03.50:826][575]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.12-13.03.51:288][575]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2017.12.12-13.03.51:297][575]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.12-13.04.07:420][327]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.04.07:445][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.04.07:445][327]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:04:07 PM)
+[2017.12.12-13.04.07:445][327]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.04.07:456][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010864s)
+[2017.12.12-13.04.07:457][327]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.04.07:457][327]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.12.12-13.04.07:457][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012172s)
+[2017.12.12-13.04.07:491][327]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.04.07:499][327]LogInit: FAudioDevice initialized.
+[2017.12.12-13.04.07:544][327]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.04.07:547][327]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.04.07
+[2017.12.12-13.04.07:547][327]LogWorld: Bringing up level for play took: 0.003096
+[2017.12.12-13.04.07:557][327]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.526
+[2017.12.12-13.04.15:846][ 93]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.197 s
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: 
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: Ensure condition failed: LevelViewport.IsValid() [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp] [Line: 3401]
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: 
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: Stack: 
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000C8022786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000C7DC123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000C7DDB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B4F7512D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B49C6034 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B5274AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B3AC5A26 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B3AD5430 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B3AD54AA UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B3AE2379 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000B3AE3D57 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000EAF613D2 KERNEL32.DLL!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: [Callstack] 0x00000000EBDE54F4 ntdll.dll!UnknownFunction []
+[2017.12.12-13.04.15:846][ 93]LogOutputDevice: Error: 
+[2017.12.12-13.04.15:853][ 93]LogStats:                SubmitErrorReport -  0.000 s
+[2017.12.12-13.04.16:201][ 93]LogStats:                    SendNewReport -  0.348 s
+[2017.12.12-13.04.16:201][ 93]LogStats:             FDebug::EnsureFailed -  0.552 s
+[2017.12.12-13.04.30:327][498]LogSavePackage: Save=17.63ms
+[2017.12.12-13.04.30:327][498]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BS_RunningC35B6AE341E92DE74288949CD0A13BC6.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/BS_Running.uasset'
+[2017.12.12-13.04.30:331][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/BS_Running.uasset
+[2017.12.12-13.04.40:414][571]LogTemp: Repeating last play command: Simulate
+[2017.12.12-13.04.40:435][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.04.40:435][571]PIE: New page: SIE session: Arena1 (Dec 12, 2017, 3:04:40 PM)
+[2017.12.12-13.04.40:435][571]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.04.40:448][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012849s)
+[2017.12.12-13.04.40:449][571]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.04.40:449][571]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2017.12.12-13.04.40:449][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.014184s)
+[2017.12.12-13.04.40:483][571]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.04.40:491][571]LogInit: FAudioDevice initialized.
+[2017.12.12-13.04.40:533][571]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.04.40:536][571]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.04.40
+[2017.12.12-13.04.40:537][571]LogWorld: Bringing up level for play took: 0.003226
+[2017.12.12-13.04.40:538][571]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.455
+[2017.12.12-13.04.52:741][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.04.52:742][929]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:04:52 PM)
+[2017.12.12-13.04.52:742][929]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.04.52:756][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014079s)
+[2017.12.12-13.04.52:757][929]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.04.52:757][929]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2017.12.12-13.04.52:757][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.015465s)
+[2017.12.12-13.04.52:788][929]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.04.52:798][929]LogInit: FAudioDevice initialized.
+[2017.12.12-13.04.52:843][929]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.04.52:846][929]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.04.52
+[2017.12.12-13.04.52:847][929]LogWorld: Bringing up level for play took: 0.003282
+[2017.12.12-13.04.52:854][929]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.772
+[2017.12.12-13.05.30:053][699]LogEditorTransaction: Undo Edit Properties
+[2017.12.12-13.05.32:843][  5]LogEditorTransaction: Undo Edit Properties
+[2017.12.12-13.05.36:086][383]LogEditorTransaction: Undo Edit Interpolation Time
+[2017.12.12-13.05.37:611][543]LogEditorTransaction: Undo Edit Interpolation Time
+[2017.12.12-13.05.38:441][639]LogEditorTransaction: Undo Remove Graph
+[2017.12.12-13.05.42:011][ 36]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.05.43:525][159]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.05.43:550][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.05.43:551][159]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:05:43 PM)
+[2017.12.12-13.05.43:551][159]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.05.43:564][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013144s)
+[2017.12.12-13.05.43:565][159]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.05.43:565][159]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2017.12.12-13.05.43:565][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.014461s)
+[2017.12.12-13.05.43:595][159]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.05.43:605][159]LogInit: FAudioDevice initialized.
+[2017.12.12-13.05.43:644][159]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.05.43:647][159]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.05.43
+[2017.12.12-13.05.43:647][159]LogWorld: Bringing up level for play took: 0.003034
+[2017.12.12-13.05.43:657][159]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.426
+[2017.12.12-13.06.04:686][317]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.06.05:905][400]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.06.05:931][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.06.05:931][400]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:06:05 PM)
+[2017.12.12-13.06.05:931][400]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.06.05:946][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013671s)
+[2017.12.12-13.06.05:947][400]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.06.05:947][400]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2017.12.12-13.06.05:948][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.015203s)
+[2017.12.12-13.06.05:983][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.06.05:992][400]LogInit: FAudioDevice initialized.
+[2017.12.12-13.06.06:037][400]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.06.06:040][400]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.06.06
+[2017.12.12-13.06.06:040][400]LogWorld: Bringing up level for play took: 0.002543
+[2017.12.12-13.06.06:049][400]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.034
+[2017.12.12-13.06.19:636][779]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.06.20:866][872]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.06.20:887][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.06.20:888][872]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:06:20 PM)
+[2017.12.12-13.06.20:888][872]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.06.20:897][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009476s)
+[2017.12.12-13.06.20:898][872]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.06.20:898][872]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2017.12.12-13.06.20:899][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.010845s)
+[2017.12.12-13.06.20:932][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.06.20:940][872]LogInit: FAudioDevice initialized.
+[2017.12.12-13.06.20:973][872]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.06.20:977][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.06.20
+[2017.12.12-13.06.20:977][872]LogWorld: Bringing up level for play took: 0.003318
+[2017.12.12-13.06.20:982][872]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.9
+[2017.12.12-13.06.35:936][576]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.06.37:109][664]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.06.37:135][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.06.37:135][664]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:06:37 PM)
+[2017.12.12-13.06.37:135][664]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.06.37:150][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014928s)
+[2017.12.12-13.06.37:151][664]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.06.37:151][664]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2017.12.12-13.06.37:151][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.016200s)
+[2017.12.12-13.06.37:182][664]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.06.37:193][664]LogInit: FAudioDevice initialized.
+[2017.12.12-13.06.37:228][664]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.06.37:231][664]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.06.37
+[2017.12.12-13.06.37:232][664]LogWorld: Bringing up level for play took: 0.003014
+[2017.12.12-13.06.37:237][664]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.847
+[2017.12.12-13.06.52:106][319]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.06.55:432][615]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.06.56:229][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2017.12.12-13.06.56:357][653]LogSavePackage: Save=108.67ms
+[2017.12.12-13.06.56:358][653]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_OneA2E3EA9042270EFB4744318358C26A4B.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset'
+[2017.12.12-13.06.56:361][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/GameBase/Player_One.uasset
+[2017.12.12-13.06.57:286][756]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.06.57:310][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.06.57:310][756]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:06:57 PM)
+[2017.12.12-13.06.57:310][756]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.06.57:323][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012986s)
+[2017.12.12-13.06.57:323][756]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.06.57:324][756]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2017.12.12-13.06.57:324][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.014055s)
+[2017.12.12-13.06.57:356][756]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.06.57:365][756]LogInit: FAudioDevice initialized.
+[2017.12.12-13.06.57:405][756]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.06.57:409][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.06.57
+[2017.12.12-13.06.57:409][756]LogWorld: Bringing up level for play took: 0.003531
+[2017.12.12-13.06.57:419][756]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.665
+[2017.12.12-13.07.27:962][484]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.07.29:117][558]LogTemp: Repeating last play command: Simulate
+[2017.12.12-13.07.29:137][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.07.29:137][558]PIE: New page: SIE session: Arena1 (Dec 12, 2017, 3:07:29 PM)
+[2017.12.12-13.07.29:137][558]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.07.29:147][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009793s)
+[2017.12.12-13.07.29:148][558]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.07.29:148][558]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2017.12.12-13.07.29:148][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.011104s)
+[2017.12.12-13.07.29:182][558]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.07.29:190][558]LogInit: FAudioDevice initialized.
+[2017.12.12-13.07.29:233][558]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.07.29:237][558]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.07.29
+[2017.12.12-13.07.29:238][558]LogWorld: Bringing up level for play took: 0.003529
+[2017.12.12-13.07.29:244][558]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.839
+[2017.12.12-13.07.36:784][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.07.36:785][343]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:07:36 PM)
+[2017.12.12-13.07.36:785][343]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.07.36:798][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012925s)
+[2017.12.12-13.07.36:798][343]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.07.36:799][343]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2017.12.12-13.07.36:799][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.014168s)
+[2017.12.12-13.07.36:828][343]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.07.36:837][343]LogInit: FAudioDevice initialized.
+[2017.12.12-13.07.36:878][343]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.07.36:882][343]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.07.36
+[2017.12.12-13.07.36:882][343]LogWorld: Bringing up level for play took: 0.003054
+[2017.12.12-13.07.36:892][343]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.809
+[2017.12.12-13.07.51:469][687]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.07.51:495][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.07.51:495][687]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:07:51 PM)
+[2017.12.12-13.07.51:495][687]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.07.51:510][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014739s)
+[2017.12.12-13.07.51:511][687]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.07.51:511][687]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2017.12.12-13.07.51:511][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.016401s)
+[2017.12.12-13.07.51:545][687]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.07.51:554][687]LogInit: FAudioDevice initialized.
+[2017.12.12-13.07.51:599][687]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.07.51:602][687]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.07.51
+[2017.12.12-13.07.51:603][687]LogWorld: Bringing up level for play took: 0.003085
+[2017.12.12-13.07.51:611][687]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.471
+[2017.12.12-13.09.06:950][969]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.09.08:545][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.09.08:566][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.09.08:566][ 95]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:09:08 PM)
+[2017.12.12-13.09.08:566][ 95]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.09.08:582][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015348s)
+[2017.12.12-13.09.08:582][ 95]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.09.08:583][ 95]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2017.12.12-13.09.08:583][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.016857s)
+[2017.12.12-13.09.08:613][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.09.08:624][ 95]LogInit: FAudioDevice initialized.
+[2017.12.12-13.09.08:662][ 95]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.09.08:666][ 95]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.09.08
+[2017.12.12-13.09.08:666][ 95]LogWorld: Bringing up level for play took: 0.003652
+[2017.12.12-13.09.08:673][ 95]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.589
+[2017.12.12-13.09.23:276][599]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.09.47:918][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.027
+[2017.12.12-13.09.47:920][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameBase/Player_One] ([1] browsable assets)...
+[2017.12.12-13.09.47:936][339]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameBase/Player_One.Player_One]
+[2017.12.12-13.09.47:936][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBase/Player_One]
+[2017.12.12-13.09.48:062][339]LogSavePackage: Save=116.95ms
+[2017.12.12-13.09.48:062][339]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One_Auto2E6281E3A42BC622EADE9A98C0E26DA3A.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto2.uasset'
+[2017.12.12-13.09.48:064][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto2.uasset
+[2017.12.12-13.09.48:064][339]LogFileHelpers: Auto-saving content packages took 0.145
+[2017.12.12-13.27.11:580][524]LogSavePackage: Save=20.62ms
+[2017.12.12-13.27.11:580][524]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BS_Running6B919BFD48D01C6D19E761964CF2BBD2.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Running.uasset'
+[2017.12.12-13.27.11:584][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Running.uasset
+[2017.12.12-13.27.11:637][524]LogSavePackage: Save=19.76ms
+[2017.12.12-13.27.11:637][524]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BS_Walking_Basic7AD2E4334A3E914C3F49CB954474E9F4.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Walking_Basic.uasset'
+[2017.12.12-13.27.11:641][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Walking_Basic.uasset
+[2017.12.12-13.27.12:267][524]LogSavePackage: Save=224.90ms
+[2017.12.12-13.27.12:267][524]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BP_YBot_Movement48121A054B21DB21D8E4CC8CCBF16F5D.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset'
+[2017.12.12-13.27.12:272][524]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset
+[2017.12.12-13.27.31:926][431]LogSavePackage: Save=33.00ms
+[2017.12.12-13.27.31:927][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Run_BackB1EE4FEB42385965A1D0E9A83AE4F2D9.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Back.uasset'
+[2017.12.12-13.27.31:931][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Back.uasset
+[2017.12.12-13.27.31:992][431]LogSavePackage: Save=24.51ms
+[2017.12.12-13.27.31:992][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Run_LeftA236416D42A40AFB524493BA8BA50C39.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Left.uasset'
+[2017.12.12-13.27.31:998][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Left.uasset
+[2017.12.12-13.27.32:045][431]LogSavePackage: Save=20.04ms
+[2017.12.12-13.27.32:045][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Run_Right08C90D0F4B35F9BC01E4F5A5979D9E36.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Right.uasset'
+[2017.12.12-13.27.32:051][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Right.uasset
+[2017.12.12-13.27.32:100][431]LogSavePackage: Save=24.23ms
+[2017.12.12-13.27.32:100][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Run_Straight874A48B648E409031CA09FB592B8E033.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Straight.uasset'
+[2017.12.12-13.27.32:106][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Run_Straight.uasset
+[2017.12.12-13.27.32:159][431]LogSavePackage: Save=18.36ms
+[2017.12.12-13.27.32:159][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_IdleD66C949E4BB5436D7591229BD6865FB2.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Idle.uasset'
+[2017.12.12-13.27.32:162][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Idle.uasset
+[2017.12.12-13.27.32:212][431]LogSavePackage: Save=20.55ms
+[2017.12.12-13.27.32:212][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_to_crouchCF437F1849BA63FCD8CA51B144A0C710.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_to_crouch.uasset'
+[2017.12.12-13.27.32:217][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_to_crouch.uasset
+[2017.12.12-13.27.32:273][431]LogSavePackage: Save=25.56ms
+[2017.12.12-13.27.32:273][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_Turn_LeftDF42408442465A2C0BF0DF9BAEDBE55A.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Turn_Left.uasset'
+[2017.12.12-13.27.32:277][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Turn_Left.uasset
+[2017.12.12-13.27.32:322][431]LogSavePackage: Save=16.12ms
+[2017.12.12-13.27.32:322][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_Turn_RightE397AB35421993A9EC431C9022BC5D26.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Turn_Right.uasset'
+[2017.12.12-13.27.32:326][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Turn_Right.uasset
+[2017.12.12-13.27.32:374][431]LogSavePackage: Save=21.73ms
+[2017.12.12-13.27.32:374][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_Walk_Back9EC0B74247F201999283D6B189381320.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.uasset'
+[2017.12.12-13.27.32:377][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.uasset
+[2017.12.12-13.27.32:421][431]LogSavePackage: Save=17.92ms
+[2017.12.12-13.27.32:421][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_Walk_LeftA3FEA76149B1A74C5B848EBB240E9001.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.uasset'
+[2017.12.12-13.27.32:424][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.uasset
+[2017.12.12-13.27.32:472][431]LogSavePackage: Save=22.52ms
+[2017.12.12-13.27.32:472][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_Walk_Right656272F740673D742A7D8AB0D8F15526.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.uasset'
+[2017.12.12-13.27.32:475][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.uasset
+[2017.12.12-13.27.32:526][431]LogSavePackage: Save=20.31ms
+[2017.12.12-13.27.32:526][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Stand_walk_straight813FE8A74422C11210868C96028DF284.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.uasset'
+[2017.12.12-13.27.32:530][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.uasset
+[2017.12.12-13.27.34:078][431]LogSavePackage: Save=11.93ms
+[2017.12.12-13.27.34:078][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BS_Running0E8B6B3143BFEE74AE87ED9358E8D338.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Running.uasset'
+[2017.12.12-13.27.34:079][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Running.uasset
+[2017.12.12-13.27.34:317][431]LogSavePackage: Save=205.97ms
+[2017.12.12-13.27.34:317][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BP_YBot_MovementD6797E5C47572F831C729493A83692FE.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset'
+[2017.12.12-13.27.34:322][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset
+[2017.12.12-13.27.34:358][431]LogSavePackage: Save=16.09ms
+[2017.12.12-13.27.34:358][431]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BS_Walking_Basic8AEA4FB64CAB082F2D2BFAA9D981A263.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Walking_Basic.uasset'
+[2017.12.12-13.27.34:359][431]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Normal/BS_Walking_Basic.uasset
+[2017.12.12-13.27.53:199][490]LogSavePackage: Save=21.46ms
+[2017.12.12-13.27.53:199][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BS_Crouch_MovementD688DA194FE2B92CD9961C8D00FDCD5B.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/BS_Crouch_Movement.uasset'
+[2017.12.12-13.27.53:203][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/BS_Crouch_Movement.uasset
+[2017.12.12-13.27.53:247][490]LogSavePackage: Save=19.76ms
+[2017.12.12-13.27.53:248][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crouch_IdleFE5A2BB74A2CF5E91738CE913AFB23F5.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.uasset'
+[2017.12.12-13.27.53:251][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.uasset
+[2017.12.12-13.27.53:306][490]LogSavePackage: Save=23.10ms
+[2017.12.12-13.27.53:306][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crouch_Walk__Back750E00014D277E1F6C8242BF410B22F5.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.uasset'
+[2017.12.12-13.27.53:309][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.uasset
+[2017.12.12-13.27.53:355][490]LogSavePackage: Save=18.64ms
+[2017.12.12-13.27.53:355][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crouch_Walk_LeftBFBD6B8649C03C301C6E68A40E4C87FF.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.uasset'
+[2017.12.12-13.27.53:358][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.uasset
+[2017.12.12-13.27.53:407][490]LogSavePackage: Save=20.63ms
+[2017.12.12-13.27.53:407][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crouch_Walk_RightA87D39024053655DDC5AF5AF200E9E9F.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.uasset'
+[2017.12.12-13.27.53:409][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.uasset
+[2017.12.12-13.27.53:459][490]LogSavePackage: Save=22.89ms
+[2017.12.12-13.27.53:459][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Crouch_Walk_StraightF14BF8D046E3DE46CEA2B5B768ADD7DD.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.uasset'
+[2017.12.12-13.27.53:462][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.uasset
+[2017.12.12-13.27.54:512][490]LogSavePackage: Save=217.49ms
+[2017.12.12-13.27.54:512][490]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BP_YBot_MovementE7146611424A277193FFDE992013E0BD.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset'
+[2017.12.12-13.27.54:517][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/BP_YBot_Movement.uasset
+[2017.12.12-13.28.34:686][976]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Idle.fbx)
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: Model, ItemCount : 69
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: Material, ItemCount : 2
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: Pose, ItemCount : 2
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: Deformer, ItemCount : 106
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2017.12.12-13.28.34:735][976]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2017.12.12-13.28.34:743][976]LogFbx: Loading FBX Scene from E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Idle.fbx
+[2017.12.12-13.28.34:831][976]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.12-13.28.48:232][976]LogFbx: Loading FBX Scene from E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Idle.fbx
+[2017.12.12-13.28.48:345][976]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.12-13.28.48:359][976]LogFbx: =================================================
+[2017.12.12-13.28.48:359][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.48:359][976]LogFbx: 	Total Deformer Count 209346672.
+[2017.12.12-13.28.48:359][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.48:359][976]LogFbx: =================================================
+[2017.12.12-13.28.48:359][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.48:359][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.48:359][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.48:359][976]LogFbx: =================================================
+[2017.12.12-13.28.48:359][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.48:359][976]LogFbx: 	Total Deformer Count 209346672.
+[2017.12.12-13.28.48:359][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.48:359][976]LogFbx: =================================================
+[2017.12.12-13.28.48:359][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.48:359][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.48:359][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.48:361][976]LogFbx: =================================================
+[2017.12.12-13.28.48:361][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.48:361][976]LogFbx: 	Total Deformer Count 209346672.
+[2017.12.12-13.28.48:361][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.48:361][976]LogFbx: =================================================
+[2017.12.12-13.28.48:361][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.48:361][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.48:361][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.48:361][976]LogFbx: =================================================
+[2017.12.12-13.28.48:361][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.48:361][976]LogFbx: 	Total Deformer Count 209346672.
+[2017.12.12-13.28.48:361][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.48:361][976]LogFbx: =================================================
+[2017.12.12-13.28.48:361][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.48:361][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.48:361][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.48:362][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.48:363][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.48:364][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.48:364][976]LogFbx: Parsing AnimStack Take 001
+[2017.12.12-13.28.48:366][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001'
+[2017.12.12-13.28.48:366][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001'
+[2017.12.12-13.28.48:559][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001.Aiming_Crossbow_Idle_Take_001
+[2017.12.12-13.28.48:561][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Idle_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.48:567][976]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.12-13.28.48:574][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com'
+[2017.12.12-13.28.48:574][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com'
+[2017.12.12-13.28.49:178][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com.Aiming_Crossbow_Idle_mixamo_com
+[2017.12.12-13.28.49:179][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Idle_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.49:270][976]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Backwards.fbx)
+[2017.12.12-13.28.49:291][976]LogFbx: Loading FBX Scene from E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Backwards.fbx
+[2017.12.12-13.28.49:377][976]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.12-13.28.49:384][976]LogFbx: =================================================
+[2017.12.12-13.28.49:384][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.49:384][976]LogFbx: 	Total Deformer Count 209354672.
+[2017.12.12-13.28.49:384][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.49:384][976]LogFbx: =================================================
+[2017.12.12-13.28.49:384][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.49:384][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.49:384][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.49:384][976]LogFbx: =================================================
+[2017.12.12-13.28.49:384][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.49:384][976]LogFbx: 	Total Deformer Count 209354672.
+[2017.12.12-13.28.49:384][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.49:384][976]LogFbx: =================================================
+[2017.12.12-13.28.49:384][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.49:384][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.49:384][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.49:385][976]LogFbx: =================================================
+[2017.12.12-13.28.49:385][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.49:385][976]LogFbx: 	Total Deformer Count 209354672.
+[2017.12.12-13.28.49:385][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.49:385][976]LogFbx: =================================================
+[2017.12.12-13.28.49:385][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.49:385][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.49:385][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.49:385][976]LogFbx: =================================================
+[2017.12.12-13.28.49:385][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.49:385][976]LogFbx: 	Total Deformer Count 209354672.
+[2017.12.12-13.28.49:385][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.49:385][976]LogFbx: =================================================
+[2017.12.12-13.28.49:385][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.49:385][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.49:385][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.49:385][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.49:386][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.49:387][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.49:389][976]LogFbx: Parsing AnimStack Take 001
+[2017.12.12-13.28.49:389][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001'
+[2017.12.12-13.28.49:389][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001'
+[2017.12.12-13.28.49:578][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001.Aiming_Crossbow_Walk_Backwards_Take_001
+[2017.12.12-13.28.49:579][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Backwards_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.49:588][976]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.12-13.28.49:592][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com'
+[2017.12.12-13.28.49:593][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com'
+[2017.12.12-13.28.49:947][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com.Aiming_Crossbow_Walk_Backwards_mixamo_com
+[2017.12.12-13.28.49:948][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Backwards_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.50:421][976]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Forward.fbx)
+[2017.12.12-13.28.50:441][976]LogFbx: Loading FBX Scene from E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Forward.fbx
+[2017.12.12-13.28.50:526][976]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.12-13.28.50:532][976]LogFbx: =================================================
+[2017.12.12-13.28.50:532][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.50:532][976]LogFbx: 	Total Deformer Count 231775008.
+[2017.12.12-13.28.50:532][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.50:532][976]LogFbx: =================================================
+[2017.12.12-13.28.50:532][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.50:532][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.50:532][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.50:532][976]LogFbx: =================================================
+[2017.12.12-13.28.50:532][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.50:532][976]LogFbx: 	Total Deformer Count 231775008.
+[2017.12.12-13.28.50:532][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.50:532][976]LogFbx: =================================================
+[2017.12.12-13.28.50:532][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.50:532][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.50:532][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.50:535][976]LogFbx: =================================================
+[2017.12.12-13.28.50:535][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.50:535][976]LogFbx: 	Total Deformer Count 231775008.
+[2017.12.12-13.28.50:535][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.50:535][976]LogFbx: =================================================
+[2017.12.12-13.28.50:535][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.50:535][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.50:535][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.50:535][976]LogFbx: =================================================
+[2017.12.12-13.28.50:535][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.50:535][976]LogFbx: 	Total Deformer Count 231775008.
+[2017.12.12-13.28.50:535][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.50:535][976]LogFbx: =================================================
+[2017.12.12-13.28.50:535][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.50:535][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.50:535][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.50:535][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.50:535][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.50:535][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.50:536][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.50:537][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.50:538][976]LogFbx: Parsing AnimStack Take 001
+[2017.12.12-13.28.50:538][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001'
+[2017.12.12-13.28.50:539][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001'
+[2017.12.12-13.28.50:742][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001.Aiming_Crossbow_Walk_Forward_Take_001
+[2017.12.12-13.28.50:743][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Forward_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.50:747][976]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.12-13.28.50:751][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com'
+[2017.12.12-13.28.50:751][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com'
+[2017.12.12-13.28.51:097][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com.Aiming_Crossbow_Walk_Forward_mixamo_com
+[2017.12.12-13.28.51:097][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Forward_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.51:171][976]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Left.fbx)
+[2017.12.12-13.28.51:194][976]LogFbx: Loading FBX Scene from E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Left.fbx
+[2017.12.12-13.28.51:263][976]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.12-13.28.51:272][976]LogFbx: =================================================
+[2017.12.12-13.28.51:272][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.51:272][976]LogFbx: 	Total Deformer Count 231774368.
+[2017.12.12-13.28.51:272][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.51:272][976]LogFbx: =================================================
+[2017.12.12-13.28.51:272][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.51:272][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.51:272][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.51:272][976]LogFbx: =================================================
+[2017.12.12-13.28.51:272][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.51:272][976]LogFbx: 	Total Deformer Count 231774368.
+[2017.12.12-13.28.51:272][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.51:272][976]LogFbx: =================================================
+[2017.12.12-13.28.51:273][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.51:273][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.51:273][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.51:274][976]LogFbx: =================================================
+[2017.12.12-13.28.51:275][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.51:275][976]LogFbx: 	Total Deformer Count 231774368.
+[2017.12.12-13.28.51:275][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.51:275][976]LogFbx: =================================================
+[2017.12.12-13.28.51:275][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.51:275][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.51:275][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.51:275][976]LogFbx: =================================================
+[2017.12.12-13.28.51:275][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.51:275][976]LogFbx: 	Total Deformer Count 231774368.
+[2017.12.12-13.28.51:275][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.51:275][976]LogFbx: =================================================
+[2017.12.12-13.28.51:275][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.51:275][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.51:275][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.51:275][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.51:276][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.51:277][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.51:278][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.51:279][976]LogFbx: Parsing AnimStack Take 001
+[2017.12.12-13.28.51:279][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001'
+[2017.12.12-13.28.51:279][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001'
+[2017.12.12-13.28.51:482][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001.Aiming_Crossbow_Walk_Left_Take_001
+[2017.12.12-13.28.51:482][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Left_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.51:489][976]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.12-13.28.51:493][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com'
+[2017.12.12-13.28.51:493][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com'
+[2017.12.12-13.28.51:776][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com.Aiming_Crossbow_Walk_Left_mixamo_com
+[2017.12.12-13.28.51:776][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Left_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.51:852][976]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Right.fbx)
+[2017.12.12-13.28.51:876][976]LogFbx: Loading FBX Scene from E:\3D\Game_content\Mixamo\Y_BOT\Animations\Crossbow\Aiming_Crossbow_Walk_Right.fbx
+[2017.12.12-13.28.51:957][976]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.12-13.28.51:963][976]LogFbx: =================================================
+[2017.12.12-13.28.51:963][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.51:963][976]LogFbx: 	Total Deformer Count 190396144.
+[2017.12.12-13.28.51:963][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.51:963][976]LogFbx: =================================================
+[2017.12.12-13.28.51:963][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.51:963][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.51:963][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.51:963][976]LogFbx: =================================================
+[2017.12.12-13.28.51:963][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.51:963][976]LogFbx: 	Total Deformer Count 190396144.
+[2017.12.12-13.28.51:963][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.51:963][976]LogFbx: =================================================
+[2017.12.12-13.28.51:963][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.51:963][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.51:963][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.51:966][976]LogFbx: =================================================
+[2017.12.12-13.28.51:966][976]LogFbx: Dumping Node START [Alpha_Surface] 
+[2017.12.12-13.28.51:966][976]LogFbx: 	Total Deformer Count 190396144.
+[2017.12.12-13.28.51:966][976]LogFbx: 		[Node 1] Skin Alpha_Surface (Type Skin).
+[2017.12.12-13.28.51:966][976]LogFbx: =================================================
+[2017.12.12-13.28.51:966][976]LogFbx: 	Attribute (Alpha_Surface) Type (4).
+[2017.12.12-13.28.51:966][976]LogFbx: 		[Node Attribute Child 1] Alpha_Surface (Type Mesh).
+[2017.12.12-13.28.51:967][976]LogFbx: Dumping Node END [Alpha_Surface]
+[2017.12.12-13.28.51:967][976]LogFbx: =================================================
+[2017.12.12-13.28.51:967][976]LogFbx: Dumping Node START [Alpha_Joints] 
+[2017.12.12-13.28.51:967][976]LogFbx: 	Total Deformer Count 190396144.
+[2017.12.12-13.28.51:967][976]LogFbx: 		[Node 1] Skin Alpha_Joints (Type Skin).
+[2017.12.12-13.28.51:967][976]LogFbx: =================================================
+[2017.12.12-13.28.51:967][976]LogFbx: 	Attribute (Alpha_Joints) Type (4).
+[2017.12.12-13.28.51:967][976]LogFbx: 		[Node Attribute Child 1] Alpha_Joints (Type Mesh).
+[2017.12.12-13.28.51:967][976]LogFbx: Dumping Node END [Alpha_Joints]
+[2017.12.12-13.28.51:967][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.51:968][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(0) Hips
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(1) Spine
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(2) Spine1
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(3) Spine2
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(4) Neck
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(5) Head
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(7) LeftEye
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(8) RightEye
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(10) LeftArm
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(12) LeftHand
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2017.12.12-13.28.51:969][976]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(33) RightShoulder
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(34) RightArm
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(35) RightForeArm
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(36) RightHand
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(41) RightHandThumb1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(42) RightHandThumb2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(43) RightHandThumb3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(44) RightHandThumb4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(45) RightHandIndex1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(46) RightHandIndex2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(47) RightHandIndex3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(48) RightHandIndex4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(49) RightHandRing1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(50) RightHandRing2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(51) RightHandRing3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(52) RightHandRing4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(53) RightHandPinky1
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(54) RightHandPinky2
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(55) RightHandPinky3
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(56) RightHandPinky4
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(57) RightUpLeg
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(58) RightLeg
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(59) RightFoot
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(60) RightToeBase
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(61) RightToe_End
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(62) LeftUpLeg
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(63) LeftLeg
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(64) LeftFoot
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(65) LeftToeBase
+[2017.12.12-13.28.51:970][976]LogFbx: SortedLinks :(66) LeftToe_End
+[2017.12.12-13.28.51:972][976]LogFbx: Parsing AnimStack Take 001
+[2017.12.12-13.28.51:972][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001'
+[2017.12.12-13.28.51:974][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001'
+[2017.12.12-13.28.52:177][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001.Aiming_Crossbow_Walk_Right_Take_001
+[2017.12.12-13.28.52:177][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Right_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.52:183][976]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.12-13.28.52:187][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com'
+[2017.12.12-13.28.52:187][976]LogLinker: Can't find file '/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com'
+[2017.12.12-13.28.52:532][976]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com.Aiming_Crossbow_Walk_Right_mixamo_com
+[2017.12.12-13.28.52:533][976]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Aiming_Crossbow_Walk_Right_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.12-13.28.55:699][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.029
+[2017.12.12-13.28.55:702][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameBase/Player_One] ([1] browsable assets)...
+[2017.12.12-13.28.55:720][106]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameBase/Player_One.Player_One]
+[2017.12.12-13.28.55:720][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBase/Player_One]
+[2017.12.12-13.28.55:863][106]LogSavePackage: Save=127.54ms
+[2017.12.12-13.28.55:863][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One_Auto31A9BB1D843E542BD84901F91E447CD69.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto3.uasset'
+[2017.12.12-13.28.55:865][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto3.uasset
+[2017.12.12-13.28.55:873][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001] ([1] browsable assets)...
+[2017.12.12-13.28.55:890][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001.Aiming_Crossbow_Idle_Take_001]
+[2017.12.12-13.28.55:890][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001]
+[2017.12.12-13.28.55:913][106]LogSavePackage: Save=20.88ms
+[2017.12.12-13.28.55:913][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Idle_Take_001_AuEDCF4EEF40686F9AE516A1BCB9332B70.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001_Auto3.uasset'
+[2017.12.12-13.28.55:914][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Take_001_Auto3.uasset
+[2017.12.12-13.28.55:915][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com] ([1] browsable assets)...
+[2017.12.12-13.28.55:931][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com.Aiming_Crossbow_Idle_mixamo_com]
+[2017.12.12-13.28.55:931][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com]
+[2017.12.12-13.28.55:951][106]LogSavePackage: Save=17.81ms
+[2017.12.12-13.28.55:951][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Idle_mixamo_com_E8FF222E416180D098431A91C3A157CE.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com_Auto3.uasset'
+[2017.12.12-13.28.55:953][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_mixamo_com_Auto3.uasset
+[2017.12.12-13.28.55:954][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001] ([1] browsable assets)...
+[2017.12.12-13.28.55:977][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001.Aiming_Crossbow_Walk_Backwards_Take_001]
+[2017.12.12-13.28.55:977][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001]
+[2017.12.12-13.28.55:995][106]LogSavePackage: Save=15.72ms
+[2017.12.12-13.28.55:995][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Backwards_TCEC22D1D46CED9CC63DBDDAB698A2ACF.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001_Auto3.uasset'
+[2017.12.12-13.28.55:997][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Take_001_Auto3.uasset
+[2017.12.12-13.28.55:998][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com] ([1] browsable assets)...
+[2017.12.12-13.28.56:015][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com.Aiming_Crossbow_Walk_Backwards_mixamo_com]
+[2017.12.12-13.28.56:015][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com]
+[2017.12.12-13.28.56:040][106]LogSavePackage: Save=22.17ms
+[2017.12.12-13.28.56:040][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Backwards_m6BB753A7460EA440BFD6AEA652CF2AD4.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com_Auto3.uasset'
+[2017.12.12-13.28.56:041][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_mixamo_com_Auto3.uasset
+[2017.12.12-13.28.56:042][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001] ([1] browsable assets)...
+[2017.12.12-13.28.56:060][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001.Aiming_Crossbow_Walk_Forward_Take_001]
+[2017.12.12-13.28.56:060][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001]
+[2017.12.12-13.28.56:081][106]LogSavePackage: Save=18.20ms
+[2017.12.12-13.28.56:081][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Forward_Tak392707194626D1CFB694C4A77FEA5975.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001_Auto3.uasset'
+[2017.12.12-13.28.56:082][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Take_001_Auto3.uasset
+[2017.12.12-13.28.56:082][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com] ([1] browsable assets)...
+[2017.12.12-13.28.56:099][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com.Aiming_Crossbow_Walk_Forward_mixamo_com]
+[2017.12.12-13.28.56:099][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com]
+[2017.12.12-13.28.56:122][106]LogSavePackage: Save=20.55ms
+[2017.12.12-13.28.56:122][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Forward_mix6C442017487A7E6DB3A0BC9F420BC4F8.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com_Auto3.uasset'
+[2017.12.12-13.28.56:124][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_mixamo_com_Auto3.uasset
+[2017.12.12-13.28.56:124][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001] ([1] browsable assets)...
+[2017.12.12-13.28.56:140][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001.Aiming_Crossbow_Walk_Left_Take_001]
+[2017.12.12-13.28.56:140][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001]
+[2017.12.12-13.28.56:160][106]LogSavePackage: Save=17.86ms
+[2017.12.12-13.28.56:160][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Left_Take_0323CA7F242678FD3732749BFE24FE1A0.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001_Auto3.uasset'
+[2017.12.12-13.28.56:160][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Take_001_Auto3.uasset
+[2017.12.12-13.28.56:161][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com] ([1] browsable assets)...
+[2017.12.12-13.28.56:179][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com.Aiming_Crossbow_Walk_Left_mixamo_com]
+[2017.12.12-13.28.56:179][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com]
+[2017.12.12-13.28.56:197][106]LogSavePackage: Save=15.69ms
+[2017.12.12-13.28.56:197][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Left_mixamoC8E55EDE4354B9CB62FC37994F1BA579.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com_Auto3.uasset'
+[2017.12.12-13.28.56:198][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_mixamo_com_Auto3.uasset
+[2017.12.12-13.28.56:199][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001] ([1] browsable assets)...
+[2017.12.12-13.28.56:216][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001.Aiming_Crossbow_Walk_Right_Take_001]
+[2017.12.12-13.28.56:216][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001]
+[2017.12.12-13.28.56:236][106]LogSavePackage: Save=17.41ms
+[2017.12.12-13.28.56:236][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Right_Take_2084409E4AB9C472E4396B8D28CBFC60.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001_Auto3.uasset'
+[2017.12.12-13.28.56:237][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Take_001_Auto3.uasset
+[2017.12.12-13.28.56:238][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com] ([1] browsable assets)...
+[2017.12.12-13.28.56:253][106]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com.Aiming_Crossbow_Walk_Right_mixamo_com]
+[2017.12.12-13.28.56:253][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com]
+[2017.12.12-13.28.56:280][106]LogSavePackage: Save=23.14ms
+[2017.12.12-13.28.56:280][106]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Right_mixamC7EA13504B36AC2284CB2E987377CEAB.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com_Auto3.uasset'
+[2017.12.12-13.28.56:280][106]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_mixamo_com_Auto3.uasset
+[2017.12.12-13.28.56:281][106]LogFileHelpers: Auto-saving content packages took 0.580
+[2017.12.12-13.29.06:680][500]LogSavePackage: Save=16.04ms
+[2017.12.12-13.29.06:680][500]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Idle726C842643DC4B0FEB2760A6C1498C86.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.uasset'
+[2017.12.12-13.29.06:695][500]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.uasset
+[2017.12.12-13.29.13:339][789]LogSavePackage: Save=25.31ms
+[2017.12.12-13.29.13:340][789]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_BackwardsEDA5C9D447AB2DE0FC4444AAEE666FDB.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.uasset'
+[2017.12.12-13.29.13:343][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.uasset
+[2017.12.12-13.29.22:433][180]LogSavePackage: Save=18.45ms
+[2017.12.12-13.29.22:433][180]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Forward08EEE0BB450941DF9A52C0A6D6A62C81.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.uasset'
+[2017.12.12-13.29.22:436][180]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.uasset
+[2017.12.12-13.29.28:195][426]LogSavePackage: Save=21.89ms
+[2017.12.12-13.29.28:195][426]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_LeftECE91BC940E9F961222604B548DE1D1A.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.uasset'
+[2017.12.12-13.29.28:198][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.uasset
+[2017.12.12-13.29.36:515][792]LogSavePackage: Save=21.51ms
+[2017.12.12-13.29.36:515][792]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Walk_Right94899C124C8603801B54D48F6DFA66B2.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.uasset'
+[2017.12.12-13.29.36:520][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Content/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.uasset
+[2017.12.12-13.30.51:268][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.12-13.30.51:319][528]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.12-13.30.51:800][528]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.12-13.36.06:014][468]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.36.28:344][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.12.12-13.36.28:624][377]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.12.12-13.36.28:985][377]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.12-13.36.30:910][577]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.12-13.36.34:025][882]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-13.36.34:049][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-13.36.34:049][882]PIE: New page: PIE session: Arena1 (Dec 12, 2017, 3:36:34 PM)
+[2017.12.12-13.36.34:049][882]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.12-13.36.34:060][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010730s)
+[2017.12.12-13.36.34:061][882]LogAIModule: Creating AISystem for world Arena1
+[2017.12.12-13.36.34:061][882]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2017.12.12-13.36.34:061][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012367s)
+[2017.12.12-13.36.34:095][882]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-13.36.34:103][882]LogInit: FAudioDevice initialized.
+[2017.12.12-13.36.34:143][882]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.12-13.36.34:147][882]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.12-14.36.34
+[2017.12.12-13.36.34:147][882]LogWorld: Bringing up level for play took: 0.002975
+[2017.12.12-13.36.34:153][882]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.07
+[2017.12.12-13.38.15:129][858]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.12-13.38.15:180][858]LogBlueprint: Warning: [Compiler BP_YBot_Movement] Stand_Idle to Crossbow  will never be taken, please connect something to  Can Enter Transition
+[2017.12.12-13.38.15:180][858]LogBlueprint: Warning: [Compiler BP_YBot_Movement] Crossbow to Stand_Idle  will never be taken, please connect something to  Can Enter Transition
+[2017.12.12-13.38.15:358][858]LogBlueprint: Warning: [Compiler BP_YBot_Movement] [3670.20] Compile of BP_YBot_Movement successful, but with 2 Warning(s) [in 229 ms] (/Game/Characters/Y_Bot/BP_YBot_Movement.BP_YBot_Movement)
+[2017.12.12-13.39.36:339][181]BlueprintLog: New page: Compile BP_YBot_Movement
+[2017.12.12-13.40.01:238][897]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.032
+[2017.12.12-13.40.01:240][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameBase/Player_One] ([1] browsable assets)...
+[2017.12.12-13.40.01:254][897]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameBase/Player_One.Player_One]
+[2017.12.12-13.40.01:254][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameBase/Player_One]
+[2017.12.12-13.40.01:402][897]LogSavePackage: Save=124.05ms
+[2017.12.12-13.40.01:402][897]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Player_One_Auto497DCA77548C3A139C3C1F8A5875AD8B4.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto4.uasset'
+[2017.12.12-13.40.01:403][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/GameBase/Player_One_Auto4.uasset
+[2017.12.12-13.40.01:404][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/BP_YBot_Movement] ([1] browsable assets)...
+[2017.12.12-13.40.01:421][897]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Y_Bot/BP_YBot_Movement.BP_YBot_Movement]
+[2017.12.12-13.40.01:421][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/BP_YBot_Movement]
+[2017.12.12-13.40.01:650][897]LogSavePackage: Save=212.90ms
+[2017.12.12-13.40.01:650][897]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/BP_YBot_Movement_Auto4509A8AB547CF44A1A8BE0B9E1F843095.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/BP_YBot_Movement_Auto4.uasset'
+[2017.12.12-13.40.01:652][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/BP_YBot_Movement_Auto4.uasset
+[2017.12.12-13.40.01:652][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Movement] ([1] browsable assets)...
+[2017.12.12-13.40.01:668][897]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Movement.Aiming_Crossbow_Movement]
+[2017.12.12-13.40.01:668][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Movement]
+[2017.12.12-13.40.01:686][897]LogSavePackage: Save=16.06ms
+[2017.12.12-13.40.01:686][897]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Aiming_Crossbow_Movement_Auto4989536254450072896F6B0904ECF68CC.tmp' to '../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Movement_Auto4.uasset'
+[2017.12.12-13.40.01:688][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/Unreal Projects/FantasyArena/Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Movement_Auto4.uasset
+[2017.12.12-13.40.01:688][897]LogFileHelpers: Auto-saving content packages took 0.449
+[2017.12.12-13.44.18:179][990]BlueprintLog: New page: Compile Player_One
+[2017.12.12-13.44.29:350][  3]LogUObjectArray: Warning: Invalid object index -572662307
+[2017.12.12-13.44.29:403][  3]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.053 s
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: 
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: Stack: 
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: [Callstack] 0x00000000C8022786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: [Callstack] 0x00000000C7DC123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.12-13.44.29:403][  3]LogOutputDevice: Error: [Callstack] 0x00000000C7DDB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B4E033F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B21503AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B1013EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B0EA74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B0EAABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B0FD8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B6057397 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B605CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B6299913 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B60B3484 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B608B68C UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B607D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000C945E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000C9451A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000C94603EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000C944D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000EB8824FD USER32.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000EB882357 USER32.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000C9461516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B3AC50C8 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B3AD5430 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B3AD54AA UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B3AE2379 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000B3AE3D57 UE4Editor.exe!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000EAF613D2 KERNEL32.DLL!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: [Callstack] 0x00000000EBDE54F4 ntdll.dll!UnknownFunction []
+[2017.12.12-13.44.29:404][  3]LogOutputDevice: Error: 
+[2017.12.12-13.44.29:413][  3]LogStats:                SubmitErrorReport -  0.000 s
