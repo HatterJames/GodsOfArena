@@ -1,0 +1,897 @@
+﻿Log file open, 12/18/17 17:15:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1154499145) SRandInit(-1154499145).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.220856
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.18-16.15.26:929][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.18-16.15.26:929][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.18-16.15.26:981][  0]LogInit: Computer: KLOBUK
+[2017.12.18-16.15.26:981][  0]LogInit: User: Jakub
+[2017.12.18-16.15.26:981][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.18-16.15.26:981][  0]LogInit: High frequency timer resolution =3.514611 MHz
+[2017.12.18-16.15.26:982][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.18-16.15.26:982][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.18-16.15.26:982][  0]LogMemory: Process Physical Memory: 269.95 MB used, 269.95 MB peak
+[2017.12.18-16.15.26:982][  0]LogMemory: Process Virtual Memory: 269.16 MB used, 269.16 MB peak
+[2017.12.18-16.15.26:982][  0]LogMemory: Physical Memory: 3587.13 MB used,  4544.65 MB free, 8131.79 MB total
+[2017.12.18-16.15.26:982][  0]LogMemory: Virtual Memory: 618.50 MB used,  4544.65 MB free, 134217728.00 MB total
+[2017.12.18-16.15.27:599][  0]LogInit: Using OS detected language (en-US).
+[2017.12.18-16.15.27:599][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.18-16.15.27:695][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.18-16.15.27:695][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.18-16.15.28:609][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.18-16.15.33:103][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.18-16.15.33:141][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.18-16.15.33:141][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.18-16.15.33:143][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.18-16.15.33:143][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.18-16.15.33:143][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.18-16.15.33:147][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.18-16.15.33:147][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.18-16.15.33:147][  0]LogWindows: EnumDisplayDevices:
+[2017.12.18-16.15.33:147][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.18-16.15.33:147][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.18-16.15.33:148][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.18-16.15.33:148][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.18-16.15.33:148][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.18-16.15.33:148][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.18-16.15.33:148][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.18-16.15.33:148][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.18-16.15.33:148][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.18-16.15.33:168][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.18-16.15.33:191][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.18-16.15.33:193][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/FantasyArena/Intermediate/Shaders/WorkingDirectory/4396/).
+[2017.12.18-16.15.33:193][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/42C5CB5D4173CBCC351335A11F52647B/'.
+[2017.12.18-16.15.33:193][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.18-16.15.37:726][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.18-16.15.37:818][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.18-16.15.37:913][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.18-16.15.38:003][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.18-16.15.38:109][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.18-16.15.38:200][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.18-16.15.38:300][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.18-16.15.38:409][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.18-16.15.38:515][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.18-16.15.38:644][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.18-16.15.38:748][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.18-16.15.38:849][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.18-16.15.38:963][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.18-16.15.39:080][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.18-16.15.39:320][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.18-16.15.39:320][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.18-16.15.39:433][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.18-16.15.39:518][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.18-16.15.39:725][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.18-16.15.39:786][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.18-16.15.39:918][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.18-16.15.40:059][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.18-16.15.40:184][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.18-16.15.40:300][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.18-16.15.40:300][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.18-16.15.41:218][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.18-16.15.41:651][  0]LogDerivedDataCache: Loaded boot cache 0.43s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.18-16.15.41:651][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.18-16.15.41:651][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/FantasyArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.18-16.15.41:651][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.18-16.15.41:651][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/FantasyArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.18-16.15.41:651][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.18-16.15.41:696][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.18-16.15.41:709][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.18-16.15.41:726][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.18-16.15.41:727][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.18-16.15.41:744][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.18-16.15.41:744][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.18-16.15.43:068][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.18-16.15.43:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.18-16.15.43:904][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.18-16.15.43:905][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.18-16.15.43:906][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.18-16.15.43:907][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.18-16.15.43:907][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.18-16.15.43:950][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.18-16.15.44:243][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2017.12.18-16.15.45:553][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.45:553][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.45:553][  0]LogPackageName: SearchForPackageOnDisk took   0.384s, but failed to resolve JW_FlameDungeon.
+[2017.12.18-16.15.45:553][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2017.12.18-16.15.45:553][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.45:553][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.45:553][  0]LogPackageName: SearchForPackageOnDisk took   0.518s, but failed to resolve JW_FlameDungeon.
+[2017.12.18-16.15.45:553][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2017.12.18-16.15.45:553][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.201753 seconds
+[2017.12.18-16.15.45:566][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.18-16.15.45:566][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.18-16.15.45:566][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.18-16.15.45:705][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.45:705][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.45:705][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.304s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.256s, but failed to resolve JW_Ice_Mountain.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.208s, but failed to resolve FX_Meshes.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.236s, but failed to resolve FX_Meshes.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.204s, but failed to resolve 'FX_Ambient.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.195s, but failed to resolve CastleEffects.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.177s, but failed to resolve StaticMesh'FX_Meshes.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.176s to resolve m_FogSheet_02.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.157s, but failed to resolve FX_Test_LAN.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.204s to resolve m_FogSheet_02.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.219s to resolve m_FogSheet_02.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.265s to resolve m_FogSheet_02.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.279s, but failed to resolve JW_Ice_Mountain.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.231s to resolve S_Survival_CA_Chicken_02.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.232s, but failed to resolve JW_Ice_Mountain.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.56:044][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.56:044][  0]LogPackageName: SearchForPackageOnDisk took   0.238s, but failed to resolve Env_ALL_Artifacts.
+[2017.12.18-16.15.56:045][  0]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2017.12.18-16.15.56:959][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.18-16.15.57:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.18-16.15.58:348][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.58:348][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.58:348][  0]LogPackageName: SearchForPackageOnDisk took   0.246s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.15.58:348][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.12.18-16.15.58:348][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.58:348][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.58:411][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.18-16.15.59:167][  0]LogPackageName: SearchForPackageOnDisk took   0.264s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.59:167][  0]LogPackageName: SearchForPackageOnDisk took   0.235s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.59:167][  0]LogPackageName: SearchForPackageOnDisk took   0.229s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.59:167][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.59:167][  0]SourceControl: Source control is disabled
+[2017.12.18-16.15.59:652][  0]LogPackageName: SearchForPackageOnDisk took   0.235s, but failed to resolve Fire_Fortress.
+[2017.12.18-16.15.59:652][  0]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
+[2017.12.18-16.15.59:652][  0]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.15.59:652][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.15.59:652][  0]LogPackageName: SearchForPackageOnDisk took   0.252s, but failed to resolve Fire_Fortress.
+[2017.12.18-16.15.59:652][  0]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
+[2017.12.18-16.16.01:092][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.18-16.16.01:362][  0]LogOcInput: OculusInput pre-init called
+[2017.12.18-16.16.01:687][  0]LogEngine: Initializing Engine...
+[2017.12.18-16.16.01:689][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.18-16.16.01:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.18-16.16.01:967][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.18-16.16.02:117][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.18-16.16.02:143][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.18-16.16.02:154][  0]LogInit: FAudioDevice initialized.
+[2017.12.18-16.16.02:268][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.18-16.16.02:290][  0]LogInit: Texture streaming: Enabled
+[2017.12.18-16.16.02:407][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.18-16.16.02:929][  0]LogInit: Transaction tracking system initialized
+[2017.12.18-16.16.03:377][  0]BlueprintLog: New page: Editor Load
+[2017.12.18-16.16.04:671][  0]LocalizationService: Localization service is disabled
+[2017.12.18-16.16.05:732][  0]LogConsoleResponse: Display: 
+[2017.12.18-16.16.06:273][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.18-16.16.06:273][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.18-16.16.06:273][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.18-16.16.06:543][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Content/' took 0.07s
+[2017.12.18-16.16.08:537][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.18-16.16.08:538][  0]LightingResults: New page: Lighting Build
+[2017.12.18-16.16.08:613][  0]MapCheck: New page: Map Check
+[2017.12.18-16.16.08:613][  0]LightingResults: New page: Lighting Build
+[2017.12.18-16.16.09:100][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.18-16.16.45:155][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.18-16.16.45:750][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.18-16.16.45:770][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.18-16.16.45:830][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.107ms to complete.
+[2017.12.18-16.16.45:830][  0]LogFileHelpers: Loading map 'Arena1' took 37.292
+[2017.12.18-16.16.46:045][  0]LogCollectionManager: Loaded 0 collections in 0.002330 seconds
+[2017.12.18-16.16.46:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Saved/Collections/' took 0.01s
+[2017.12.18-16.16.46:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Content/Developers/Jakub/Collections/' took 0.02s
+[2017.12.18-16.16.46:151][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Content/Collections/' took 0.01s
+[2017.12.18-16.16.46:151][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.18-16.16.46:168][  0]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2363 classes and 519 folders.
+[2017.12.18-16.16.46:276][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.18-16.16.46:727][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.18-16.16.46:776][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.18-16.16.46:805][  0]LogSlate: Took 0.010101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.18-16.16.46:815][  0]LogSlate: Took 0.007922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.18-16.16.46:829][  0]LogSlate: Took 0.008314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.18-16.16.47:002][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.18-16.16.47:262][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.18-16.16.47:262][  0]LogLoad: (Engine Initialization) Total time: 87.99 seconds
+[2017.12.18-16.16.47:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.18-16.16.47:262][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.18-16.16.47:262][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.18-16.16.47:618][  0]SourceControl: On branch master
+[2017.12.18-16.16.47:618][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.18-16.16.47:618][  0]SourceControl: Changes to be committed:
+[2017.12.18-16.16.47:618][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/AttachInfo.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/E_AttachPoint.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/InventoryManager.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/Weapons/BP_BaseWeapon.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/Weapons/BP_Crossbow.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/Weapons/BP_CurvedSword.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Equip/Weapons/BP_Sword.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/BP_Crossbow.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/BP_Curved_Sword.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/BP_Dagger.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/BP_MasterItem.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	deleted:    Content/Inventory/BaseInteract.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/Bolt.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/ENUM_ItemData.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Inventory/STR_ItemData.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Weapons/Crossbows/Crossbow_1/Crossbow_x12_default.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Weapons/OneHandedSwords/Sword_1/CurvedSword.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Weapons/OneHandedSwords/Sword_1/SM_CurvedSwordOriginal.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Weapons/OneHandedSwords/Sword_1/SM_CurvedSwordOriginal_CurvedSword.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Weapons/OneHandedSwords/Sword_1/SM_CurvedSwordOriginal_CurvedSword_PhysicsAsset.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	new file:   Content/Weapons/OneHandedSwords/Sword_1/SM_CurvedSwordOriginal_CurvedSword_Skeleton.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: Changes not staged for commit:
+[2017.12.18-16.16.47:619][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.18-16.16.47:619][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Config/DefaultInput.ini
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/GameBase/Player_One.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/Levels/Arena1.umap
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/Levels/Arena1_BuiltData.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/UI/UI_MainInventory.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/Weapons/Crossbows/Crossbow_1/Crossbow_x12.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Content/Weapons/OneHandedSwords/Sword_1/SM_CurvedSwordOriginal.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto2.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto0.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto1.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto6.uasset
+[2017.12.18-16.16.47:619][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto7.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto8.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto0.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto9.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-1EB7D8B545D2BCE93229DAA2E9F425DD/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6D1C0F8E4E23AA508E6462A45990CA94/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-7E969F76452F9B196912278E17450D30/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B26C13BB413A9D3D478A63B30700FF76/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B6F26A604F704818C4960FA0CD37F2F5/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C5ECC0CB4D04A6B612639DA48513F767/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C7A23C45424B4D2A52760DBE4330D987/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-E4F65C1042612E9107795BADB9DCCEF2/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F5AA406845EE1105CBFBAF8C742BF874/CrashReportClient.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Config/Windows/SourceControlSettings.ini
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.12-13.37.06.log
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.13-10.43.31.log
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.13-16.06.23.log
+[2017.12.18-16.16.47:620][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2017.12.12-16.41.41.log
+[2017.12.18-16.16.47:620][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2017.12.12-16.42.57.log
+[2017.12.18-16.16.47:620][  0]SourceControl: Untracked files:
+[2017.12.18-16.16.47:620][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Content/InfinityBladeEffects/
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Content/InfinityBladeFireLands/
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Content/InfinityBladeWeapons/
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Autosaves/Game/Equip/
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Autosaves/Game/Inventory/
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Autosaves/Game/Levels/Arena1_Auto1.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Autosaves/Game/Levels/Arena1_Auto6.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Autosaves/Game/Weapons/Crossbows/Crossbow_1/Crossbow_x12_default_Auto6.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Autosaves/Game/Weapons/OneHandedSwords/
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-17-22-53-56.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-17-23-34-01.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-17-23-56-50.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-00-02-55.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-11-28-21.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-15-53-14.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-15-58-39.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-24-01.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-37-00.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-47-23.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-57-46.umap
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-17-23-34-06.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-15-53-14.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-15-58-39.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/AttachInfo_2017-12-18-14-56-23.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/AttachInfo_2017-12-18-16-56-05.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-15-04-13.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-15-38-47.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-15-54-59.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-16-15-11.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-16-41-35.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-16-51-47.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-17-22-42-59.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-17-22-50-00.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-15-37-35.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-15-46-21.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-15-53-18.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-16-24-01.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-16-37-00.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-16-47-23.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-15-46-21.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-15-53-18.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-08-39.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-24-02.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-37-00.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-47-23.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Curved_Sword_2017-12-17-22-43-25.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Curved_Sword_2017-12-17-23-33-14.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Curved_Sword_2017-12-18-11-21-02.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Dagger_2017-12-17-22-43-25.uasset
+[2017.12.18-16.16.47:620][  0]SourceControl: 	Saved/Backup/BP_Dagger_2017-12-17-23-56-52.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/BP_Dagger_2017-12-18-00-02-54.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/BP_MasterItem_2017-12-17-22-32-09.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/BP_MasterItem_2017-12-17-22-37-49.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/BP_MasterItem_2017-12-17-22-44-32.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/BaseInteract_2017-12-17-20-45-06.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/BaseInteract_2017-12-17-22-06-42.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Bolt_2017-12-17-22-47-57.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Crossbow_x12_2017-12-18-15-53-18.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/ENUM_ItemData_2017-12-17-22-21-21.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/ENUM_ItemData_2017-12-17-22-44-14.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/ENUM_ItemData_2017-12-18-00-02-14.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-15-59-39.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-07-55.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-16-30.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-22-17.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-34-46.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-39-56.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-45-53.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-14-01-11-56.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-14-14-45-17.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-21-55-24.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-22-04-24.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-22-52-58.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-04-35.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-16-04.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-37-29.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-43-40.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-56-51.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-00-02-54.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-11-23-04.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-14-32-10.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-16-09-00.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-16-57-07.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/SM_CurvedSwordOriginal_2017-12-17-23-45-26.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/SM_CurvedSwordOriginal_2017-12-18-00-02-55.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/STR_ItemData_2017-12-17-22-20-55.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/STR_ItemData_2017-12-17-22-30-30.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/STR_ItemData_2017-12-17-22-40-49.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/UI_MainInventory_2017-12-17-21-52-59.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/ybot_2017-12-18-14-50-03.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2017-12-18-14-38-29.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2017-12-18-14-49-57.uasset
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-7AE38B23483EFC815022B1BABC703454/
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-94EF7DB545E55C9521A5328B81BE6CE5/
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-95D13F79413EB24DE9261A92832B9BD1/
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-BE256B1447B0F0CC9B73C0BC1D2CA16C/
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-94EF7DB545E55C9521A5328B81BE6CE5_0000/
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.14-00.58.12.log
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.14-13.49.02.log
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.14-15.10.19.log
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.17-20.07.17.log
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.17-21.44.31.log
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.18-11.17.13.log
+[2017.12.18-16.16.47:621][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.18-17.15.23.log
+[2017.12.18-16.16.47:622][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.18-16.16.47:643][  0]LogSlate: Took 0.004775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-16.16.48:940][  4]LogAssetRegistry: Asset discovery search completed in 64.7200 seconds
+[2017.12.18-16.16.48:949][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.18-16.16.48:949][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2017.12.18-16.17.23:679][709]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-16.17.51:101][131]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.12.18-16.18.08:211][131]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.18-16.18.08:322][131]SourceControl: [master 927ea59] another try
+[2017.12.18-16.18.08:322][131]SourceControl:  14 files changed, 0 insertions(+), 0 deletions(-)
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/AttachInfo.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/E_AttachPoint.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/InventoryManager.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/Weapons/BP_BaseWeapon.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/Weapons/BP_Crossbow.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/Weapons/BP_CurvedSword.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Equip/Weapons/BP_Sword.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/BP_Crossbow.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/BP_Curved_Sword.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/BP_Dagger.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/BP_MasterItem.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/Bolt.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/ENUM_ItemData.uasset
+[2017.12.18-16.18.08:322][131]SourceControl:  create mode 100644 Content/Inventory/STR_ItemData.uasset
+[2017.12.18-16.18.08:328][131]SourceControl: Commited [master 927ea59] another try.
+[2017.12.18-16.20.07:174][296]LogMaterial: Missing cached shader map for material M_Fire_TreasureChest, compiling. 
+[2017.12.18-16.20.07:346][297]LogActorFactory: Actor Factory created SM_Forge_Chest_Bottom
+[2017.12.18-16.20.09:208][407]LogActorFactory: Actor Factory created SM_Forge_Chest_Bottom
+[2017.12.18-16.20.12:136][519]LogActorFactory: Actor Factory created SM_Forge_Chest_Top
+[2017.12.18-16.20.15:094][644]LogActorFactory: Actor Factory created SM_Forge_Chest_Top
+[2017.12.18-16.20.30:726][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Forge_Chest_Bottom)
+[2017.12.18-16.20.50:287][ 60]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:107).
+[2017.12.18-16.22.23:612][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.12.18-16.22.24:652][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Forge_Chest_Bottom)
+[2017.12.18-16.22.28:664][292]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.18-16.22.39:759][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena1" FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.18-16.22.40:280][921]LogSavePackage: Save=436.06ms
+[2017.12.18-16.22.40:280][921]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/FantasyArena/Saved/Arena10A215A28430BF64E6E85618089F27210.tmp' to '../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap'
+[2017.12.18-16.22.40:283][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap
+[2017.12.18-16.22.40:461][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena1_BuiltData" FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1_BuiltData.uasset" SILENT=true
+[2017.12.18-16.22.40:580][921]LogSavePackage: Save=42.94ms
+[2017.12.18-16.22.40:581][921]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/FantasyArena/Saved/Arena1_BuiltData3A5D15DA481FF8B452BD28AAFE4BECC9.tmp' to '../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1_BuiltData.uasset'
+[2017.12.18-16.22.40:582][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1_BuiltData.uasset
+[2017.12.18-16.22.43:996][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Forge_Chest_Top)
+[2017.12.18-16.24.08:755][550]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2017.12.18-16.24.09:724][550]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.18-16.24.15:316][811]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.18-16.24.15:316][811]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.18-16.24.16:535][918]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.18-16.24.16:698][918]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.16:698][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.16:850][918]LogPackageName: SearchForPackageOnDisk took   0.152s, but failed to resolve JW_FlameDungeon.
+[2017.12.18-16.24.16:850][918]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2017.12.18-16.24.16:851][918]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.16:851][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:001][918]LogPackageName: SearchForPackageOnDisk took   0.150s, but failed to resolve JW_FlameDungeon.
+[2017.12.18-16.24.17:001][918]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2017.12.18-16.24.17:082][918]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.17:082][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:234][918]LogPackageName: SearchForPackageOnDisk took   0.152s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2017.12.18-16.24.17:234][918]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2017.12.18-16.24.17:241][918]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.17:241][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:384][918]LogPackageName: SearchForPackageOnDisk took   0.142s, but failed to resolve JW_Ice_Mountain.
+[2017.12.18-16.24.17:384][918]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.12.18-16.24.17:390][918]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.17:390][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:543][918]LogPackageName: SearchForPackageOnDisk took   0.154s, but failed to resolve FX_Meshes.
+[2017.12.18-16.24.17:543][918]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2017.12.18-16.24.17:544][918]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.17:544][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:690][918]LogPackageName: SearchForPackageOnDisk took   0.146s, but failed to resolve FX_Meshes.
+[2017.12.18-16.24.17:690][918]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2017.12.18-16.24.17:694][918]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.17:694][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:840][918]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve 'FX_Ambient.
+[2017.12.18-16.24.17:840][918]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2017.12.18-16.24.17:845][918]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.17:845][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.17:986][918]LogPackageName: SearchForPackageOnDisk took   0.141s, but failed to resolve CastleEffects.
+[2017.12.18-16.24.17:986][918]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2017.12.18-16.24.18:004][918]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.18:004][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.18:154][918]LogPackageName: SearchForPackageOnDisk took   0.150s, but failed to resolve StaticMesh'FX_Meshes.
+[2017.12.18-16.24.18:154][918]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2017.12.18-16.24.18:154][918]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.18:154][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.18:297][918]LogPackageName: SearchForPackageOnDisk took   0.143s to resolve m_FogSheet_02.
+[2017.12.18-16.24.18:304][918]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.18:304][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.18:448][918]LogPackageName: SearchForPackageOnDisk took   0.144s, but failed to resolve FX_Test_LAN.
+[2017.12.18-16.24.18:448][918]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2017.12.18-16.24.18:472][918]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.18:472][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.18:616][918]LogPackageName: SearchForPackageOnDisk took   0.144s to resolve m_FogSheet_02.
+[2017.12.18-16.24.18:616][918]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.18:616][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.18:757][918]LogPackageName: SearchForPackageOnDisk took   0.140s to resolve m_FogSheet_02.
+[2017.12.18-16.24.18:757][918]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.18:757][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.18:912][918]LogPackageName: SearchForPackageOnDisk took   0.155s to resolve m_FogSheet_02.
+[2017.12.18-16.24.19:252][918]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.19:252][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.19:397][918]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve JW_Ice_Mountain.
+[2017.12.18-16.24.19:397][918]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.12.18-16.24.19:398][918]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.19:398][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.19:539][918]LogPackageName: SearchForPackageOnDisk took   0.140s to resolve S_Survival_CA_Chicken_02.
+[2017.12.18-16.24.19:552][918]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.19:552][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.19:702][918]LogPackageName: SearchForPackageOnDisk took   0.150s, but failed to resolve JW_Ice_Mountain.
+[2017.12.18-16.24.19:702][918]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2017.12.18-16.24.19:703][918]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.19:703][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.19:849][918]LogPackageName: SearchForPackageOnDisk took   0.146s, but failed to resolve Env_ALL_Artifacts.
+[2017.12.18-16.24.19:849][918]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2017.12.18-16.24.19:995][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.19:995][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.20:145][918]LogPackageName: SearchForPackageOnDisk took   0.151s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.24.20:146][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.12.18-16.24.20:146][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.20:146][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.20:300][918]LogPackageName: SearchForPackageOnDisk took   0.153s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.24.20:300][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_MelancholicTroll01" could not be resolved.
+[2017.12.18-16.24.20:300][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.20:301][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.20:446][918]LogPackageName: SearchForPackageOnDisk took   0.146s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.24.20:446][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.12.18-16.24.20:447][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.20:447][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.20:584][918]LogPackageName: SearchForPackageOnDisk took   0.137s, but failed to resolve Env_Ice_Rocky.
+[2017.12.18-16.24.20:584][918]LogPackageName: Warning: String asset reference "Env_Ice_Rocky.Mesh.Env_Ice_NordHeed01" could not be resolved.
+[2017.12.18-16.24.20:585][918]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.20:585][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.20:748][918]LogPackageName: SearchForPackageOnDisk took   0.163s, but failed to resolve Fire_Fortress.
+[2017.12.18-16.24.20:748][918]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
+[2017.12.18-16.24.20:748][918]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2017.12.18-16.24.20:748][918]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2017.12.18-16.24.20:888][918]LogPackageName: SearchForPackageOnDisk took   0.140s, but failed to resolve Fire_Fortress.
+[2017.12.18-16.24.20:888][918]LogPackageName: Warning: String asset reference "Fire_Fortress.SM.SM_Fire_Furnace_01" could not be resolved.
+[2017.12.18-16.24.21:238][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.18-16.24.21:238][918]PIE: New page: PIE session: Arena1 (Dec 18, 2017, 6:24:21 PM)
+[2017.12.18-16.24.21:238][918]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.18-16.24.21:254][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016038s)
+[2017.12.18-16.24.21:256][918]LogAIModule: Creating AISystem for world Arena1
+[2017.12.18-16.24.21:256][918]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2017.12.18-16.24.21:256][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.018254s)
+[2017.12.18-16.24.21:297][918]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.18-16.24.21:308][918]LogInit: FAudioDevice initialized.
+[2017.12.18-16.24.21:855][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards
+[2017.12.18-16.24.21:856][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:858][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward
+[2017.12.18-16.24.21:858][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:860][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward
+[2017.12.18-16.24.21:860][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:861][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_1.Crossbow_Idle_1
+[2017.12.18-16.24.21:861][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_1.Crossbow_Idle_1) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:867][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left
+[2017.12.18-16.24.21:867][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:902][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward
+[2017.12.18-16.24.21:903][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:904][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle
+[2017.12.18-16.24.21:904][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:912][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle
+[2017.12.18-16.24.21:912][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:914][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade.Crossbow_Stand_Idle_Remade
+[2017.12.18-16.24.21:914][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade.Crossbow_Stand_Idle_Remade) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:922][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle
+[2017.12.18-16.24.21:922][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:925][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2017.12.18-16.24.21:925][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:929][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right
+[2017.12.18-16.24.21:929][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:931][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left
+[2017.12.18-16.24.21:931][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:933][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back
+[2017.12.18-16.24.21:933][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:938][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards
+[2017.12.18-16.24.21:938][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:940][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle
+[2017.12.18-16.24.21:940][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:948][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left
+[2017.12.18-16.24.21:948][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:949][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right
+[2017.12.18-16.24.21:949][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:970][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right
+[2017.12.18-16.24.21:970][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:971][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right
+[2017.12.18-16.24.21:971][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:973][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right
+[2017.12.18-16.24.21:973][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:975][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward
+[2017.12.18-16.24.21:976][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:978][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left
+[2017.12.18-16.24.21:978][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:979][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left
+[2017.12.18-16.24.21:979][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:981][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right
+[2017.12.18-16.24.21:981][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:982][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left
+[2017.12.18-16.24.21:982][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:983][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward
+[2017.12.18-16.24.21:984][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.21:985][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left
+[2017.12.18-16.24.21:985][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:006][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right
+[2017.12.18-16.24.22:006][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:014][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back
+[2017.12.18-16.24.22:014][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:015][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right
+[2017.12.18-16.24.22:015][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:046][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left
+[2017.12.18-16.24.22:046][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:069][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right
+[2017.12.18-16.24.22:069][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:070][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back
+[2017.12.18-16.24.22:070][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:072][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left
+[2017.12.18-16.24.22:072][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:073][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight
+[2017.12.18-16.24.22:073][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:076][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight
+[2017.12.18-16.24.22:076][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:090][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right
+[2017.12.18-16.24.22:090][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:092][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back
+[2017.12.18-16.24.22:092][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:093][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left
+[2017.12.18-16.24.22:093][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:095][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right
+[2017.12.18-16.24.22:095][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:096][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left
+[2017.12.18-16.24.22:097][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:098][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2017.12.18-16.24.22:098][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:100][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2017.12.18-16.24.22:100][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:101][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight
+[2017.12.18-16.24.22:102][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:103][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back
+[2017.12.18-16.24.22:103][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:105][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right
+[2017.12.18-16.24.22:105][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:116][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward
+[2017.12.18-16.24.22:116][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:121][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left
+[2017.12.18-16.24.22:121][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:122][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left
+[2017.12.18-16.24.22:123][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:134][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right
+[2017.12.18-16.24.22:134][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:297][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left
+[2017.12.18-16.24.22:297][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:301][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back
+[2017.12.18-16.24.22:302][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:340][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right
+[2017.12.18-16.24.22:340][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:370][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right
+[2017.12.18-16.24.22:370][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:392][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left
+[2017.12.18-16.24.22:392][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:393][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left
+[2017.12.18-16.24.22:393][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:394][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right
+[2017.12.18-16.24.22:394][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:397][918]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward
+[2017.12.18-16.24.22:397][918]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.18-16.24.22:463][918]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.18-16.24.22:477][918]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.18-17.24.22
+[2017.12.18-16.24.22:479][918]LogWorld: Bringing up level for play took: 0.014472
+[2017.12.18-16.24.22:548][918]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.12.18-16.24.22:557][918]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 2.094
+[2017.12.18-16.24.49:538][130]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.237 s
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: 
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: Ensure condition failed: LevelViewport.IsValid() [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp] [Line: 3401]
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: 
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: Stack: 
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x0000000087702786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000874A123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000874BB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x0000000081B5512D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000815A6034 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x0000000081E54AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000F16A5A26 UE4Editor.exe!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000F16B5430 UE4Editor.exe!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000F16B54AA UE4Editor.exe!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000F16C2379 UE4Editor.exe!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000F16C3D57 UE4Editor.exe!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000A74C13D2 KERNEL32.DLL!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: [Callstack] 0x00000000A98454F4 ntdll.dll!UnknownFunction []
+[2017.12.18-16.24.49:538][130]LogOutputDevice: Error: 
+[2017.12.18-16.24.49:540][130]LogStats:                SubmitErrorReport -  0.000 s

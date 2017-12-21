@@ -1,0 +1,1641 @@
+﻿Log file open, 12/20/17 11:57:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1911457175) SRandInit(-1911457175).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.107258
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.20-10.57.42:544][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.20-10.57.42:544][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.20-10.57.42:565][  0]LogInit: Computer: KLOBUK
+[2017.12.20-10.57.42:565][  0]LogInit: User: Jakub
+[2017.12.20-10.57.42:565][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.20-10.57.42:565][  0]LogInit: High frequency timer resolution =3.514611 MHz
+[2017.12.20-10.57.42:566][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.20-10.57.42:566][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.20-10.57.42:566][  0]LogMemory: Process Physical Memory: 269.82 MB used, 269.82 MB peak
+[2017.12.20-10.57.42:566][  0]LogMemory: Process Virtual Memory: 269.23 MB used, 269.23 MB peak
+[2017.12.20-10.57.42:566][  0]LogMemory: Physical Memory: 3509.73 MB used,  4622.05 MB free, 8131.79 MB total
+[2017.12.20-10.57.42:566][  0]LogMemory: Virtual Memory: 622.42 MB used,  4622.05 MB free, 134217728.00 MB total
+[2017.12.20-10.57.42:749][  0]LogInit: Using OS detected language (en-US).
+[2017.12.20-10.57.42:749][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.20-10.57.42:751][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.20-10.57.42:751][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.20-10.57.43:220][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.20-10.57.43:503][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.20-10.57.43:528][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.20-10.57.43:528][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.20-10.57.43:529][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.20-10.57.43:529][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.20-10.57.43:529][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.20-10.57.43:532][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.20-10.57.43:532][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.20-10.57.43:532][  0]LogWindows: EnumDisplayDevices:
+[2017.12.20-10.57.43:532][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.20-10.57.43:533][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.20-10.57.43:533][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.20-10.57.43:533][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.20-10.57.43:533][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.20-10.57.43:533][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.20-10.57.43:533][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.20-10.57.43:533][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.20-10.57.43:533][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.20-10.57.43:544][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.20-10.57.43:563][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.20-10.57.43:565][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/FantasyArena/Intermediate/Shaders/WorkingDirectory/5224/).
+[2017.12.20-10.57.43:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/AD529FF0461AB232ECA754907FB6AB31/'.
+[2017.12.20-10.57.43:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.20-10.57.44:600][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.20-10.57.44:648][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.20-10.57.44:698][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.20-10.57.44:762][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.20-10.57.44:817][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.20-10.57.44:869][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.20-10.57.44:925][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.20-10.57.44:980][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.20-10.57.45:026][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.20-10.57.45:081][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.20-10.57.45:132][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.20-10.57.45:182][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.20-10.57.45:235][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.20-10.57.45:284][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.20-10.57.45:380][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.20-10.57.45:380][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.20-10.57.45:434][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.20-10.57.45:471][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.20-10.57.45:564][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.20-10.57.45:589][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.20-10.57.45:643][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.20-10.57.45:693][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.20-10.57.45:746][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.20-10.57.45:795][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.20-10.57.45:795][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.20-10.57.46:296][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.20-10.57.46:423][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.20-10.57.46:423][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.20-10.57.46:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/FantasyArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.20-10.57.46:423][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.20-10.57.46:424][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/FantasyArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.20-10.57.46:424][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.20-10.57.46:446][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.20-10.57.46:458][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.20-10.57.46:473][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.20-10.57.46:473][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.20-10.57.46:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.20-10.57.46:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.20-10.57.46:918][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.20-10.57.47:262][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.20-10.57.47:302][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.20-10.57.47:302][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.20-10.57.47:302][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.20-10.57.47:302][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.20-10.57.47:302][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.20-10.57.47:326][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.20-10.57.47:498][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2017.12.20-10.57.48:159][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.105251 seconds
+[2017.12.20-10.57.48:167][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.20-10.57.48:167][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.20-10.57.48:167][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.20-10.57.48:224][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.20-10.57.50:956][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.20-10.57.50:996][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.20-10.57.51:651][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.20-10.57.52:070][  0]SourceControl: Source control is disabled
+[2017.12.20-10.57.53:145][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.20-10.57.53:390][  0]LogOcInput: OculusInput pre-init called
+[2017.12.20-10.57.53:673][  0]LogEngine: Initializing Engine...
+[2017.12.20-10.57.53:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.20-10.57.53:942][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.20-10.57.53:942][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.20-10.57.54:084][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.20-10.57.54:090][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-10.57.54:111][  0]LogInit: FAudioDevice initialized.
+[2017.12.20-10.57.54:233][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.20-10.57.54:253][  0]LogInit: Texture streaming: Enabled
+[2017.12.20-10.57.54:355][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.20-10.57.54:474][  0]LogInit: Transaction tracking system initialized
+[2017.12.20-10.57.54:776][  0]BlueprintLog: New page: Editor Load
+[2017.12.20-10.57.55:652][  0]LocalizationService: Localization service is disabled
+[2017.12.20-10.57.56:399][  0]LogConsoleResponse: Display: 
+[2017.12.20-10.57.56:612][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.20-10.57.56:612][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.20-10.57.56:612][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.20-10.57.57:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Content/' took 0.06s
+[2017.12.20-10.57.58:059][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.20-10.57.58:063][  0]LightingResults: New page: Lighting Build
+[2017.12.20-10.57.58:118][  0]MapCheck: New page: Map Check
+[2017.12.20-10.57.58:118][  0]LightingResults: New page: Lighting Build
+[2017.12.20-10.57.58:540][  0]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_PhysicsAsset'
+[2017.12.20-10.57.58:540][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:540][  0]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_PhysicsAsset' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.57.58:540][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:540][  0]LoadErrors: Error: /Game/Characters/Man/Man : Can't find file for asset. /Game/Characters/Man/Man_Eyes_PhysicsAsset
+[2017.12.20-10.57.58:541][  0]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_Skeleton'
+[2017.12.20-10.57.58:541][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:541][  0]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_Skeleton' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.57.58:541][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:541][  0]LoadErrors: Error: /Game/Characters/Man/Man : Can't find file for asset. /Game/Characters/Man/Man_Eyes_Skeleton
+[2017.12.20-10.57.58:541][  0]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_PhysicsAsset'
+[2017.12.20-10.57.58:541][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:541][  0]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_PhysicsAsset' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.57.58:541][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:541][  0]LoadErrors: Error: /Game/Characters/Man/Man : Can't find file for asset. /Game/Characters/Man/Man_Eyes_PhysicsAsset
+[2017.12.20-10.57.58:541][  0]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_Skeleton'
+[2017.12.20-10.57.58:541][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:541][  0]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_Skeleton' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.57.58:541][  0]LoadErrors: Failed to load /Game/Characters/Man/Man.Man Referenced by CharacterMesh0
+[2017.12.20-10.57.58:541][  0]LoadErrors: Error: /Game/Characters/Man/Man : Can't find file for asset. /Game/Characters/Man/Man_Eyes_Skeleton
+[2017.12.20-10.57.58:820][  0]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_Skeleton'
+[2017.12.20-10.57.58:821][  0]LoadErrors: Failed to load /Game/Characters/Man/Man_Eyes_Skeleton.Man_Eyes_Skeleton Referenced by Man
+[2017.12.20-10.57.58:821][  0]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_Skeleton' while loading NULL.
+[2017.12.20-10.57.58:821][  0]LoadErrors: Failed to load /Game/Characters/Man/Man_Eyes_Skeleton.Man_Eyes_Skeleton Referenced by Man
+[2017.12.20-10.57.58:821][  0]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_PhysicsAsset'
+[2017.12.20-10.57.58:821][  0]LoadErrors: Failed to load /Game/Characters/Man/Man_Eyes_PhysicsAsset.Man_Eyes_PhysicsAsset Referenced by Man
+[2017.12.20-10.57.58:821][  0]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_PhysicsAsset' while loading NULL.
+[2017.12.20-10.57.58:821][  0]LoadErrors: Failed to load /Game/Characters/Man/Man_Eyes_PhysicsAsset.Man_Eyes_PhysicsAsset Referenced by Man
+[2017.12.20-10.57.59:151][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.20-10.58.18:304][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.20-10.58.18:355][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.20-10.58.18:378][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.20-10.58.18:447][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.962ms to complete.
+[2017.12.20-10.58.18:447][  0]LogFileHelpers: Loading map 'Arena1' took 20.387
+[2017.12.20-10.58.18:498][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.20-10.58.18:616][  0]LogCollectionManager: Loaded 0 collections in 0.002554 seconds
+[2017.12.20-10.58.18:710][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Saved/Collections/' took 0.01s
+[2017.12.20-10.58.18:710][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.20-10.58.18:710][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/FantasyArena/Content/Collections/' took 0.01s
+[2017.12.20-10.58.18:710][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.20-10.58.18:723][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2363 classes and 519 folders.
+[2017.12.20-10.58.18:791][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.20-10.58.18:863][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.20-10.58.18:905][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.20-10.58.18:927][  0]LogSlate: Took 0.002831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.20-10.58.18:933][  0]LogSlate: Took 0.000782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.20-10.58.18:937][  0]LogSlate: Took 0.000605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.20-10.58.19:055][  0]LogRenderer: Reallocating scene render targets to support 1112x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.20-10.58.19:299][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.20-10.58.19:299][  0]LogLoad: (Engine Initialization) Total time: 38.82 seconds
+[2017.12.20-10.58.19:299][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.20-10.58.19:299][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.20-10.58.19:299][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.20-10.58.19:327][  0]SourceControl: On branch master
+[2017.12.20-10.58.19:327][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.20-10.58.19:327][  0]SourceControl: Changes to be committed:
+[2017.12.20-10.58.19:327][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Animations/Breathing_Idle.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/BP_YBot_Movement.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Man.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Man_Eyes_Anim.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Man_Eyes_PhysicsAsset.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Man_Eyes_Skeleton.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Man_PhysicsAsset.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	new file:   Content/Characters/Man/Man_Skeleton.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: Changes not staged for commit:
+[2017.12.20-10.58.19:327][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.20-10.58.19:327][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.20-10.58.19:327][  0]SourceControl: 	deleted:    Content/Characters/Man/BP_YBot_Movement.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	deleted:    Content/Characters/Man/Man_Eyes_Anim.uasset
+[2017.12.20-10.58.19:327][  0]SourceControl: 	deleted:    Content/Characters/Man/Man_Eyes_PhysicsAsset.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Characters/Man/Man_Eyes_Skeleton.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Animations/Normal/Stand_Idle.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/AttachInfo.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/E_AttachPoint.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/InventoryManager.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/Weapons/BP_BaseWeapon.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/Weapons/BP_Crossbow.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/Weapons/BP_CurvedSword.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Equip/Weapons/BP_Sword.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/GameBase/Player_One.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_TreasureChest_Gold.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/BP_Crossbow.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/BP_Curved_Sword.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/BP_Dagger.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/BP_MasterItem.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/BaseInteract.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/Bolt.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/ENUM_ItemData.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Content/Inventory/STR_ItemData.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/Levels/Arena1.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/Levels/Arena1_BuiltData.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/UI/UI_MainInventory.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Content/Weapons/Crossbows/Crossbow_1/Crossbow_x12.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto2.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto0.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto1.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto2.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto3.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto4.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto6.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto7.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto8.uasset
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto0.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto2.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto3.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto5.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto7.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto9.umap
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-1EB7D8B545D2BCE93229DAA2E9F425DD/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6D1C0F8E4E23AA508E6462A45990CA94/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-7E969F76452F9B196912278E17450D30/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B26C13BB413A9D3D478A63B30700FF76/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B6F26A604F704818C4960FA0CD37F2F5/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C5ECC0CB4D04A6B612639DA48513F767/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C7A23C45424B4D2A52760DBE4330D987/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-E4F65C1042612E9107795BADB9DCCEF2/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F5AA406845EE1105CBFBAF8C742BF874/CrashReportClient.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Config/Windows/SourceControlSettings.ini
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.12-13.37.06.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.13-10.43.31.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.13-16.06.23.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.13-23.20.29.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.14-00.32.03.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.14-00.36.53.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2017.12.12-16.41.41.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2017.12.12-16.42.57.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2017.12.13-23.27.32.log
+[2017.12.20-10.58.19:328][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2017.12.13-23.32.11.log
+[2017.12.20-10.58.19:328][  0]SourceControl: Untracked files:
+[2017.12.20-10.58.19:328][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.20-10.58.19:328][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Elemental_Robot/
+[2017.12.20-10.58.19:328][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Bear/
+[2017.12.20-10.58.19:328][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Chicken/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Clot_Worm/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Creature_Spider/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Forge_King/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Frost_Giant/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Golem/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Avalanche/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Glacer/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Scud/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Weapons/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Robo_Golem/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Spiderling/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Task_Master/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Troll/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Enemy/Enemy_Wolf/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeAdversaries/Maps/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Ability/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Ambient/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Archive/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Breakables/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Cines/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Combat_Base/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Combat_Ice/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Combat_Lightning/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Forging/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Gates/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Materials/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Cines/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Enemy/
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_FireEngine_Blades.uasset
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_HealthShrine_01.uasset
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_Icicle.uasset
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_LeavesEdge.uasset
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_LeavesGround.uasset
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_Plains_Fountain_01_fountain.uasset
+[2017.12.20-10.58.19:329][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_Plains_Fountain_02.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_SnowHeavy.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_SnowMesh_Tight.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_Treasure_Coin.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_cracks_01.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireBall.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_FireSpiral.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_LavaSplash_Circlular.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_MagicSpray_Fire.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_MoltenFlow_Thick.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_MoltenFlow_Thin.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Fire/SM_MoltenFlow_Wide.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/IB/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/ICE/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Mobile/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/SM_Gold_Bag_Pickup.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/SM_Skill_Vortex_02.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Skills/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Smoke/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Terminus/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/Test/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/UI/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Meshes/rock/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Mobile/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Monsters/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Skill_Aura/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Skill_Leap/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Skill_RockBurst/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Skill_TeleCharge/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Skill_WeaponThrow/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Skill_Whirlwind/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Textures/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Textures_IB/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/FX_Treasure/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/Masters/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Effects/OLD/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Enemy/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Environments/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeEffects/Maps/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Background/Materials/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Engines/Materials/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Engines/Textures/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/Materials/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/StaticMesh/Pipes/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/StaticMesh/Walls/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_FlameDungeon/Textures/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_OddsnEnds/Materials/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_OddsnEnds/Textures/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Robot/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Materials/
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_01a.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_01b.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_02a.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_02b.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_03a.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_03b.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_03c.uasset
+[2017.12.20-10.58.19:330][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_05a.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_05b.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_06a.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_06b.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Env_Fire_Cliffs_CliffWall_06c.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_BlockWall001.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_BrickArch001.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_BrickArch002.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_BrickArch003.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Bricks_1.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Bricks_2.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Bricks_3.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_1.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3b.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3c.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3d.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3e.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3f.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3g.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3h.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Floor_3i.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Iron_Trim_9.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Penta_Plat_1.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Penta_Plat_2.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Penta_Plat_Fill.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_1b.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_1c.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_1d.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_1e.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_1f.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_2.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_2b.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_3.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_4.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_4b.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Pillar_4c.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_1.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_2.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_3.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_4.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_5.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_6.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Stair_8.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Trim_6.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Trim_7.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Trim_8.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Trim_9.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Wall_1.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Wall_2.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Wall_3.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Wall_5.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Fort_Wall_6.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_PillarArch001.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_PillarArch002.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_PillarArch002_Broken.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_PillarArch003_Broken.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RockTerrain01.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RockTerrain02.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Rocky2_Floor_01.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Rocky2_Floor_02.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RuinedAchWalls001.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RuinedSteps001.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RuinedWalls001.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RuinedWalls002.uasset
+[2017.12.20-10.58.19:331][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_RuinedWalls003.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Rune_Tiles_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Rune_Tiles_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Stump_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Stump_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_T3_Rock_Chunk_01.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_T3_Rock_Chunk_07.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Treasure001.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Treasure002.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Treasure003.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Tree_Stump_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Tree_Stump_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Tree_Stump_3.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Wing_Arch.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Wing_Pillar.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Wing_Pillar_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Wing_Pillar_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fire_Wing_Pillar_3.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fort_Bricks_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/StaticMesh/SM_Fort_Wall_5.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Rocky/Textures/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Terrain2/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_deco/Materials/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_deco/Textures/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/Fire_Fortress/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Fire/MasterMaterials/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/Materials/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Swords1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Swords2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_Tools_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Table_Tools_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Tools_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Tools_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Tools_3.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Weapon_Rack_1.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Weapon_Rack_1_Broken.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/StaticMesh/SM_Forge_Weapon_Rack_2.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge/Textures/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/Materials/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/StaticMesh/SM_Forge_FacesideL.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/StaticMesh/SM_Forge_FacesideR.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/StaticMesh/SM_Forge_FirepitDamaged.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/StaticMesh/SM_Forge_FloorDamaged.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Environments/Forge/Env_Forge_Damaged/Textures/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeFireLands/Maps/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Ambient/Fog/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Ambient/Snow/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Ambient/UI_MainMenu/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Materials/Gradient/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Materials/ICE/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Materials/Smoke/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Materials/Spark/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Textures/Clouds/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Textures/Fire/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Textures/Ice/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Textures/Smoke/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Effects/FX_Textures/Spark/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Fire/Env_Fire_OddsnEnds/Textures/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/DR_Ice_Mountain/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/Materials/
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/MountainGate_01.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/MountainGate_02.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/MountainGate_03.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_BackgroundLandscape.uasset
+[2017.12.20-10.58.19:332][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff01.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff01_Base.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff02.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff03.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff04.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff05.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_JaggedCliff06.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_Mountain.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_Mountain2.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_ICE_Outside_MountainGate.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/StaticMesh/SM_Sky.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_MountainSide/Textures/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/Materials/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_BrokenEnd_Side_Cap_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CoverBlocks_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CoverBlocks_Curved_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CoverBlocks_Curved_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CoverBlocks_Pillar_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CoverBlocks_Pillar_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CraggyArch_Arch_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CraggyArch_FlatChunk_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_EX_CraggyArch_FlatChunk_003.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Env_RockyRuins_Statue01Base.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Env_RockyRuins_Statue01gibA.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Env_RockyRuins_Statue01gibB.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Env_RockyRuins_Statue01gibC.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Env_RockyRuins_Statue01gibD.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Pillar_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Corner_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Corner_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Corner_003.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Corner_004.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Normal_1Tier.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Normal_2Tier.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Pillar_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Pillar_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Walls_Vault_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Window_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Window_003.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Ex_Window_Simple_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_003.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_004.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_Corner_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_Corner_002.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_Support_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_REL_Battlement_Support_Corner_001.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/StaticMesh/SM_Statue01.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EXO_RockyRuins/Textures/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EX_EnvAssets/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EX_Env_Ice_1/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/EX_Env_Ice_Artifacts/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Buildings/Materials/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Buildings/Textures/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cliffs/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cryopod/Materials/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cryopod/StaticMesh/Env_Ice_Cryopod.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cryopod/StaticMesh/Env_Ice_Cryopod_Fan.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cryopod/StaticMesh/Env_Ice_Cryopod_Pipe.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cryopod/StaticMesh/Env_Ice_Cryopod_Vent.uasset
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Cryopod/Textures/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Deco2/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_DecoDetailAssets/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Foliage/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Graveyard/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Ground/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Mountain/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_MountainPaths/
+[2017.12.20-10.58.19:333][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Rocky/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_T1_Rockchunks/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Terrain/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Env_Ice_Tree/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Ice_Castle/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Ice/Ice_Fortress/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Misc/Env_ALL_Artifacts/StaticMesh/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Misc/Env_ALL_Artifacts/Textures/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Misc/Exo_Deco01/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Misc/Exo_Deco02/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Plains/Env_Plains_Floors/Materials/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeIceLands/Environments/Plains/Env_Plains_Floors/Textures/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Maps/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_BohntaPick/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_CrudeAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_DeadlyAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_ExecutionerAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FissureBlade/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_FrostGiant/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_GreatBlade/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_Hatchet/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_Hatchet02/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_HeavyAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_IceElemental/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_RandorAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_Segmented/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_SegmentedB/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_SkexyAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_SmAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_Snarl/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_SpikeAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_TAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_TechAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_ThornAxe/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Silly_Weapons/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blade/Swords/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Blunt/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Dual_Blade/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Maps/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Staff/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/InfinityBladeWeapons/Weapons/Weapon_ForgingHammers/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/Weapons/Crossbows/Crossbow_1/Crossbow_x12_default.uasset
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Content/Weapons/OneHandedSwords/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Equip/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/InfinityBladeFireLands/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Interactables/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Inventory/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Levels/Arena1_Auto1.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Levels/Arena1_Auto4.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Levels/Arena1_Auto6.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Levels/Arena1_Auto8.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Weapons/Crossbows/Crossbow_1/Crossbow_x12_default_Auto6.uasset
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Autosaves/Game/Weapons/OneHandedSwords/
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-17-22-53-56.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-17-23-34-01.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-17-23-56-50.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-00-02-55.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-11-28-21.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-15-53-14.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-15-58-39.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-24-01.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-37-00.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-47-23.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-16-57-46.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-17-22-39.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-18-20-06.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-18-25-50.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-18-37-33.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-18-47-38.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-19-20-07.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-19-26-54.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-20-16-50.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-20-27-00.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-20-44-24.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-20-54-25.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-21-07-04.umap
+[2017.12.20-10.58.19:334][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-21-21-22.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-21-32-25.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-21-49-16.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-21-59-35.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-18-22-09-11.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-19-11-53-57.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-19-17-23-15.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-20-11-02-40.umap
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-17-23-34-06.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-15-53-14.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-15-58-39.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-17-22-40.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-18-20-06.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-18-19-23-23.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-19-11-53-57.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-19-17-23-15.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Arena1_BuiltData_2017-12-20-11-02-41.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/AttachInfo_2017-12-18-14-56-23.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/AttachInfo_2017-12-18-16-56-05.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BPI_Interact_2017-12-18-17-30-47.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseInteractable_2017-12-18-17-26-36.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseInteractable_2017-12-18-17-34-41.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseInteractable_2017-12-18-18-19-34.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseInteractable_2017-12-18-18-25-50.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseInteractable_2017-12-18-20-28-41.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-15-04-13.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-15-38-47.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-15-54-59.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-16-15-11.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-16-41-35.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-18-16-51-47.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-03-17.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-13-50.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-21-23.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-32-26.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-42-47.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-49-16.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-21-58-54.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Chest_2017-12-18-22-09-11.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-17-22-42-59.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-17-22-50-00.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-15-37-35.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-15-46-21.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-15-53-18.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-16-24-01.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-16-37-00.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2017-12-18-16-47-23.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-15-46-21.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-15-53-18.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-08-39.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-24-02.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-37-00.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_CurvedSword_2017-12-18-16-47-23.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Curved_Sword_2017-12-17-22-43-25.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Curved_Sword_2017-12-17-23-33-14.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Curved_Sword_2017-12-18-11-21-02.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Dagger_2017-12-17-22-43-25.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Dagger_2017-12-17-23-56-52.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_Dagger_2017-12-18-00-02-54.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_MasterItem_2017-12-17-22-32-09.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_MasterItem_2017-12-17-22-37-49.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BP_MasterItem_2017-12-17-22-44-32.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BaseInteract_2017-12-17-20-45-06.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/BaseInteract_2017-12-17-22-06-42.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Bolt_2017-12-17-22-47-57.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/Crossbow_x12_2017-12-18-15-53-18.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/ENUM_ItemData_2017-12-17-22-21-21.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/ENUM_ItemData_2017-12-17-22-44-14.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/ENUM_ItemData_2017-12-18-00-02-14.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/FInteractableVariables_2017-12-18-17-50-45.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-15-59-39.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-07-55.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-16-30.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-22-17.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-34-46.uasset
+[2017.12.20-10.58.19:335][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-39-56.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/InventoryManager_2017-12-18-16-45-53.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/M_InteractHighlight_2017-12-18-18-30-55.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Man_2017-12-20-11-18-12.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Man_Eyes_Anim_2017-12-20-11-18-37.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Man_Eyes_PhysicsAsset_2017-12-20-11-18-13.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Man_Eyes_Skeleton_2017-12-20-11-11-15.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-14-01-11-56.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-14-14-45-17.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-21-55-24.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-22-04-24.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-22-52-58.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-04-35.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-16-04.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-37-29.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-43-40.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-17-23-56-51.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-00-02-54.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-11-23-04.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-14-32-10.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-16-09-00.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-16-57-07.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-17-36-20.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-17-41-32.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-17-49-04.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-17-58-11.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-18-04-19.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-18-13-38.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-18-18-46.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-18-38-13.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-18-47-38.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-19-18-29.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-19-26-35.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-20-16-09.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-18-20-24-29.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-20-11-05-49.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-20-11-18-13.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_CurvedSwordOriginal_2017-12-17-23-45-26.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_CurvedSwordOriginal_2017-12-18-00-02-55.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_Env_Fire_Jagged_Rock_2_2017-12-18-20-40-53.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_Forge_Chest_Top_2017-12-18-21-21-22.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_Forge_Chest_Top_2017-12-18-21-58-54.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_SkySphere_2017-12-19-17-22-38.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/SM_SkySphere_2017-12-20-11-03-21.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/STR_ItemData_2017-12-17-22-20-55.uasset
+[2017.12.20-10.58.19:336][  0]SourceControl: 	Saved/Backup/STR_ItemData_2017-12-17-22-30-30.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Backup/STR_ItemData_2017-12-17-22-40-49.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Backup/Stand_Idle_2017-12-20-11-19-10.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Backup/UI_MainInventory_2017-12-17-21-52-59.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Backup/ybot_2017-12-18-14-50-03.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2017-12-18-14-38-29.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2017-12-18-14-49-57.uasset
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-4848B4F8431D5D5465D73D9D1C16FCDE/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-6775E5CB406ED49DA80EF8B2452D21FC/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-70E2B80B4A16D8A9552CD584B09D5891/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-7AE38B23483EFC815022B1BABC703454/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-C982847F40F22E1B172748BCE988C456/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-D400FA6D4244B9C6BD5B48A4FE383D7D/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-F6BCA7574825762E70BA408E2833863C/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-7AE38B23483EFC815022B1BABC703454_0000/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-94EF7DB545E55C9521A5328B81BE6CE5_0000/
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.17-20.07.17.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.17-21.44.31.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.18-11.17.13.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.18-17.15.23.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.18-18.28.27.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.19-11.25.58.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.20-10.33.14.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.20-11.00.19.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.20-11.07.04.log
+[2017.12.20-10.58.19:337][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.20-11.57.41.log
+[2017.12.20-10.58.19:337][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.20-10.58.19:389][  0]LogSlate: Took 0.000649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.20-10.58.19:403][  1]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.19:761][  6]LogAssetRegistry: Asset discovery search completed in 32.2864 seconds
+[2017.12.20-10.58.19:771][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.20-10.58.19:771][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2017.12.20-10.58.24:606][513]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:617][514]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:626][515]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:637][516]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:646][517]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:658][518]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:670][519]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:680][520]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:692][521]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:705][522]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:713][523]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:722][524]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:731][525]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:740][526]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:752][527]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:762][528]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:774][529]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:785][530]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:796][531]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:807][532]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:818][533]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:829][534]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:840][535]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:851][536]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:862][537]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:873][538]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:885][539]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:894][540]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:906][541]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:916][542]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:927][543]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:938][544]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:949][545]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:960][546]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:970][547]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:981][548]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.24:992][549]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:003][550]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:014][551]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:024][552]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:035][553]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:046][554]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:057][555]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:068][556]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:079][557]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:090][558]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:101][559]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:112][560]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:122][561]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:134][562]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:144][563]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:155][564]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:166][565]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:177][566]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:188][567]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:199][568]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:210][569]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:221][570]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:232][571]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:242][572]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:253][573]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:264][574]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:276][575]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:286][576]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:297][577]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:308][578]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:319][579]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:329][580]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:340][581]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:351][582]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:362][583]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:373][584]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:384][585]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:395][586]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:406][587]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:417][588]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:427][589]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:438][590]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:450][591]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:461][592]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:472][593]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:482][594]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:494][595]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:505][596]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:516][597]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:527][598]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:540][599]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:566][600]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:582][601]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:593][602]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:603][603]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:612][604]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:621][605]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:631][606]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:642][607]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:653][608]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:664][609]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:675][610]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:686][611]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:697][612]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:708][613]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:720][614]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:731][615]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:742][616]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:754][617]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:765][618]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:774][619]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:786][620]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:797][621]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:808][622]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:819][623]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:829][624]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:841][625]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:852][626]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:863][627]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:873][628]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:885][629]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:896][630]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:907][631]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:918][632]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:929][633]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:952][635]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:962][636]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:970][637]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:980][638]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.25:991][639]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:002][640]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:012][641]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:024][642]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:035][643]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:045][644]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:056][645]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:068][646]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:078][647]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:089][648]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:100][649]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:111][650]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:122][651]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:133][652]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:143][653]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:154][654]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:165][655]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:176][656]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:187][657]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:198][658]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:209][659]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:220][660]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:230][661]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:241][662]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:252][663]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:263][664]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:274][665]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:285][666]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:296][667]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:307][668]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:318][669]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:329][670]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:340][671]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:351][672]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:362][673]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:373][674]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:384][675]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:394][676]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:406][677]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:417][678]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:428][679]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:439][680]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:450][681]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:461][682]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:472][683]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:483][684]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:494][685]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:506][686]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:518][687]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:529][688]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:540][689]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:551][690]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:562][691]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:573][692]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:584][693]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:594][694]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:605][695]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:616][696]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:629][697]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:639][698]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:650][699]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:660][700]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:671][701]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:682][702]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:693][703]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:704][704]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:715][705]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:726][706]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:737][707]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:748][708]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:759][709]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:770][710]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:781][711]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:792][712]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:803][713]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:814][714]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:825][715]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:836][716]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:847][717]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:860][718]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:892][719]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:902][720]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:911][721]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:920][722]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:928][723]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:937][724]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:948][725]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:958][726]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:968][727]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:977][728]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:988][729]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.26:999][730]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:010][731]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:021][732]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:033][733]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:045][734]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:058][735]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:071][736]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:081][737]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:089][738]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:099][739]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:109][740]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:120][741]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:132][742]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:142][743]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:153][744]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:164][745]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:175][746]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:186][747]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:196][748]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:207][749]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:218][750]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:229][751]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:240][752]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:251][753]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:262][754]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:273][755]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:284][756]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:294][757]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:305][758]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:316][759]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:327][760]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:339][761]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:349][762]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:359][763]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:370][764]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:381][765]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:392][766]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:403][767]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:413][768]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:424][769]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:435][770]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:446][771]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:457][772]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:468][773]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:479][774]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:490][775]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:501][776]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:511][777]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:522][778]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:533][779]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:544][780]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:554][781]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:566][782]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:577][783]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:587][784]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:598][785]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:609][786]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.27:684][794]LogAnimation: Warning: SkeletalMesh Man has no skeleton. This needs to fixed before an animation can be set
+[2017.12.20-10.58.33:010][181]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.20-10.58.40:212][809]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2017.12.20-10.58.40:944][809]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.20-10.58.41:086][809]LogSlate: Took 0.000769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.20-10.58.41:205][810]LogSlate: Took 0.002412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.20-10.58.49:967][683]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.20-10.58.51:206][759]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2017.12.20-10.58.59:300][491]BlueprintLog: New page: Compile Player_One
+[2017.12.20-10.59.00:624][578]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.20-10.59.00:950][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.20-10.59.00:951][578]PIE: New page: PIE session: Arena1 (Dec 20, 2017, 12:59:00 PM)
+[2017.12.20-10.59.00:951][578]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.20-10.59.00:961][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009741s)
+[2017.12.20-10.59.00:961][578]LogAIModule: Creating AISystem for world Arena1
+[2017.12.20-10.59.00:962][578]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2017.12.20-10.59.00:962][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.011073s)
+[2017.12.20-10.59.00:993][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-10.59.01:001][578]LogInit: FAudioDevice initialized.
+[2017.12.20-10.59.01:200][578]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_PhysicsAsset'
+[2017.12.20-10.59.01:200][578]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_PhysicsAsset' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.59.01:200][578]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_Skeleton'
+[2017.12.20-10.59.01:200][578]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_Skeleton' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.59.01:201][578]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_PhysicsAsset'
+[2017.12.20-10.59.01:201][578]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_PhysicsAsset' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.59.01:201][578]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_Skeleton'
+[2017.12.20-10.59.01:201][578]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_Skeleton' while loading ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Characters/Man/Man.uasset.
+[2017.12.20-10.59.01:210][578]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_Skeleton'
+[2017.12.20-10.59.01:210][578]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_Skeleton' while loading NULL.
+[2017.12.20-10.59.01:210][578]LogLinker: Warning: Can't find file '/Game/Characters/Man/Man_Eyes_PhysicsAsset'
+[2017.12.20-10.59.01:211][578]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/Man_Eyes_PhysicsAsset' while loading NULL.
+[2017.12.20-10.59.01:225][578]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.20-10.59.01:229][578]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.20-11.59.01
+[2017.12.20-10.59.01:230][578]LogWorld: Bringing up level for play took: 0.003107
+[2017.12.20-10.59.01:271][578]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.20-10.59.01:276][578]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.339
+[2017.12.20-10.59.01:316][578]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.12.20-10.59.20:487][495]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2017.12.20-10.59.21:717][606]LogEditorViewport: Clicking on Actor (LMB): BP_Chest_C (BP_Chest)
+[2017.12.20-10.59.21:804][611]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Lid)
+[2017.12.20-10.59.38:590][ 96]LogScript: Warning: Accessed None trying to read property ChestHUD
+	BP_Chest_C /Engine/Transient.World_7:PersistentLevel.BP_Chest_C_1
+	Function /Game/Interactables/Chest/BP_Chest.BP_Chest_C:ExecuteUbergraph_BP_Chest:008E
+[2017.12.20-10.59.38:590][ 96]LogScript: Warning: Accessed None trying to read property ChestHUD
+	BP_Chest_C /Engine/Transient.World_7:PersistentLevel.BP_Chest_C_1
+	Function /Game/Interactables/Chest/BP_Chest.BP_Chest_C:ExecuteUbergraph_BP_Chest:008E
+[2017.12.20-10.59.49:604][225]LogScript: Warning: Accessed None trying to read property ChestHUD
+	BP_Chest_C /Engine/Transient.World_7:PersistentLevel.BP_Chest_C_1
+	Function /Game/Interactables/Chest/BP_Chest.BP_Chest_C:ExecuteUbergraph_BP_Chest:0015
+[2017.12.20-10.59.49:604][225]LogScript: Warning: Accessed None trying to read property ChestHUD
+	BP_Chest_C /Engine/Transient.World_7:PersistentLevel.BP_Chest_C_1
+	Function /Game/Interactables/Chest/BP_Chest.BP_Chest_C:ExecuteUbergraph_BP_Chest:0015
+[2017.12.20-10.59.58:591][283]BlueprintLog: New page: Compile BP_Chest
+[2017.12.20-11.00.00:322][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Chest/BP_Chest" FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/Interactables/Chest/BP_Chest.uasset" SILENT=true
+[2017.12.20-11.00.00:407][417]LogSavePackage: Save=56.05ms
+[2017.12.20-11.00.00:407][417]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/FantasyArena/Saved/BP_Chest25A84A554F326CAFA15D0AB8675DAD8D.tmp' to '../../../../../../Users/Jakub/Documents/FantasyArena/Content/Interactables/Chest/BP_Chest.uasset'
+[2017.12.20-11.00.00:411][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Interactables/Chest/BP_Chest.uasset
+[2017.12.20-11.00.03:390][720]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.20-11.00.03:440][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.20-11.00.03:441][720]PIE: New page: PIE session: Arena1 (Dec 20, 2017, 1:00:03 PM)
+[2017.12.20-11.00.03:441][720]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.20-11.00.03:453][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012522s)
+[2017.12.20-11.00.03:454][720]LogAIModule: Creating AISystem for world Arena1
+[2017.12.20-11.00.03:454][720]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2017.12.20-11.00.03:454][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.013790s)
+[2017.12.20-11.00.03:491][720]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.20-11.00.03:500][720]LogInit: FAudioDevice initialized.
+[2017.12.20-11.00.03:537][720]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.20-11.00.03:540][720]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.20-12.00.03
+[2017.12.20-11.00.03:540][720]LogWorld: Bringing up level for play took: 0.002590
+[2017.12.20-11.00.03:543][720]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.606
+[2017.12.20-11.00.17:871][359]Cmd: SELECT NONE
+[2017.12.20-11.00.27:719][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena1" FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.20-11.00.27:970][461]LogSavePackage: Save=194.99ms
+[2017.12.20-11.00.27:970][461]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/FantasyArena/Saved/Arena19A02C84342A227B18B7CC0AF26D238C5.tmp' to '../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap'
+[2017.12.20-11.00.27:974][461]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/FantasyArena/Content/Levels/Arena1.umap
+[2017.12.20-11.00.28:013][461]LogFileHelpers: Saving map 'Arena1' took 0.358
+[2017.12.20-11.00.28:037][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/FantasyArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2017.12.20-11.00.28:302][461]LogSavePackage: Save=233.89ms
+[2017.12.20-11.00.28:302][461]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/FantasyArena/Saved/Player_One27FE9F544EAC9310FDB1038DE74C7567.tmp' to '../../../../../../Users/Jakub/Documents/FantasyArena/Content/GameBase/Player_One.uasset'
+[2017.12.20-11.00.28:304][461]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/FantasyArena/Content/GameBase/Player_One.uasset
+[2017.12.20-11.00.30:607][709]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.20-11.00.30:798][710]Cmd: QUIT_EDITOR
+[2017.12.20-11.00.31:675][710]LogExit: Preparing to exit.
+[2017.12.20-11.00.32:063][710]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/FantasyArena/Content/' was aborted.
+[2017.12.20-11.00.32:105][710]LogExit: Editor shut down
+[2017.12.20-11.00.32:109][710]LogExit: Transaction tracking system shut down
+[2017.12.20-11.00.32:306][710]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.20-11.00.32:306][710]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jakub/Documents/FantasyArena/Content/' was aborted.
+[2017.12.20-11.00.32:306][710]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.20-11.00.32:306][710]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.20-11.00.32:306][710]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.20-11.00.32:307][710]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.20-11.00.32:307][710]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.20-11.00.32:427][710]LogExit: Object subsystem successfully closed.
+[2017.12.20-11.00.32:440][710]LogD3D11RHI: Shutdown
+[2017.12.20-11.00.32:440][710]LogD3D11RHI: CleanupD3DDevice
+[2017.12.20-11.00.32:442][710]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.20-11.00.32:455][710]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.12.20-11.00.32:455][710]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2017.12.20-11.00.32:455][710]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.20-11.00.32:455][710]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.20-11.00.32:455][710]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.20-11.00.32:455][710]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.20-11.00.32:457][710]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/FantasyArena/Content/Collections/' was aborted.
+[2017.12.20-11.00.32:457][710]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/FantasyArena/Content/Developers/Jakub/Collections/' was aborted.
+[2017.12.20-11.00.32:457][710]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/FantasyArena/Saved/Collections/' was aborted.
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.20-11.00.32:457][710]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.20-11.00.32:458][710]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.20-11.00.33:076][710]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.20-11.00.33:077][710]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.20-11.00.33:121][710]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.20-11.00.33:129][710]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.20-11.00.33:130][710]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.20-11.00.33:314][710]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.20-11.00.33:315][710]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.20-11.00.33:316][710]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.20-11.00.33:317][710]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.20-11.00.33:317][710]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.20-11.00.33:417][710]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.20-11.00.33:517][710]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.20-11.00.33:517][710]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.20-11.00.33:517][710]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.20-11.00.33:517][710]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.20-11.00.33:517][710]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.20-11.00.33:517][710]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.20-11.00.33:518][710]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.20-11.00.33:518][710]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.20-11.00.33:518][710]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.20-11.00.33:518][710]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.20-11.00.33:519][710]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.20-11.00.33:519][710]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.20-11.00.33:519][710]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.20-11.00.33:519][710]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.20-11.00.33:519][710]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.20-11.00.33:519][710]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.20-11.00.33:525][710]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.20-11.00.33:525][710]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.20-11.00.33:525][710]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.20-11.00.33:525][710]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.20-11.00.33:525][710]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.20-11.00.33:525][710]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.20-11.00.33:526][710]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.20-11.00.33:529][710]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.20-11.00.33:530][710]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.20-11.00.33:531][710]LogDerivedDataCache: Shutdown
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.20-11.00.33:531][710]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.20-11.00.33:532][710]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.20-11.00.33:532][710]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.20-11.00.33:532][710]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35BD9DF9-4672-90D4-B1F1-B3B70F2E15E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0f819dde4a3301700e3c92be97adbf7c%7C7fb0b03c6dec40ebb9abf228ffb5ef91%7C16f2fa0e-04fd-479c-a6bc-11ed19de6989&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.20-11.00.33:543][710]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.20-11.00.33:544][710]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.20-11.00.33:545][710]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.20-11.00.33:548][710]LogExit: Exiting.
+[2017.12.20-11.00.33:567][710]Log file closed, 12/20/17 12:00:33
