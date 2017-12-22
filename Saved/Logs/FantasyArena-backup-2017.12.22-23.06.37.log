@@ -1,0 +1,1574 @@
+﻿Log file open, 12/22/17 22:44:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(826551542) SRandInit(826551542).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.106251
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.22-21.44.33:584][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.22-21.44.33:584][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.22-21.44.33:598][  0]LogInit: Computer: KLOBUK
+[2017.12.22-21.44.33:598][  0]LogInit: User: Jakub
+[2017.12.22-21.44.33:598][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.22-21.44.33:598][  0]LogInit: High frequency timer resolution =3.514609 MHz
+[2017.12.22-21.44.33:598][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.22-21.44.33:598][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.22-21.44.33:598][  0]LogMemory: Process Physical Memory: 270.44 MB used, 270.44 MB peak
+[2017.12.22-21.44.33:598][  0]LogMemory: Process Virtual Memory: 269.09 MB used, 269.09 MB peak
+[2017.12.22-21.44.33:598][  0]LogMemory: Physical Memory: 3017.39 MB used,  5114.40 MB free, 8131.79 MB total
+[2017.12.22-21.44.33:598][  0]LogMemory: Virtual Memory: 622.42 MB used,  5114.40 MB free, 134217728.00 MB total
+[2017.12.22-21.44.33:757][  0]LogInit: Using OS detected language (en-US).
+[2017.12.22-21.44.33:757][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.22-21.44.33:760][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.22-21.44.33:760][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.22-21.44.34:218][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.22-21.44.34:495][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.22-21.44.34:523][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.22-21.44.34:523][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.22-21.44.34:525][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.22-21.44.34:525][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.22-21.44.34:525][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.22-21.44.34:528][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.22-21.44.34:528][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.22-21.44.34:528][  0]LogWindows: EnumDisplayDevices:
+[2017.12.22-21.44.34:529][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.22-21.44.34:529][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.22-21.44.34:529][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.22-21.44.34:529][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.22-21.44.34:529][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.22-21.44.34:529][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.22-21.44.34:529][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.22-21.44.34:529][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.22-21.44.34:529][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.22-21.44.34:542][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.22-21.44.34:559][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.22-21.44.34:560][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/4012/).
+[2017.12.22-21.44.34:561][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/304C7BDA49AF61E0BE647086773BF53E/'.
+[2017.12.22-21.44.34:561][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.22-21.44.35:668][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.22-21.44.35:720][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.22-21.44.35:769][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.22-21.44.35:825][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.22-21.44.35:878][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.22-21.44.35:935][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.22-21.44.35:995][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.22-21.44.36:050][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.22-21.44.36:092][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.22-21.44.36:141][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.22-21.44.36:193][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.22-21.44.36:236][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.22-21.44.36:284][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.22-21.44.36:335][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.22-21.44.36:449][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.22-21.44.36:449][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.22-21.44.36:505][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.22-21.44.36:548][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.22-21.44.36:645][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.22-21.44.36:680][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.22-21.44.36:736][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.22-21.44.36:792][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.22-21.44.36:850][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.22-21.44.36:903][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.22-21.44.36:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.22-21.44.37:401][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.22-21.44.37:503][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.22-21.44.37:503][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.22-21.44.37:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.22-21.44.37:503][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.22-21.44.37:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.22-21.44.37:503][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.22-21.44.37:529][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.22-21.44.37:542][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.22-21.44.37:552][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.22-21.44.37:553][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.22-21.44.37:553][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-21.44.37:553][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-21.44.37:953][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.22-21.44.38:288][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.22-21.44.38:325][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.22-21.44.38:325][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.22-21.44.38:325][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.22-21.44.38:325][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.22-21.44.38:325][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.22-21.44.38:348][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.22-21.44.38:517][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2017.12.22-21.44.39:084][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.082710 seconds
+[2017.12.22-21.44.39:090][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.22-21.44.39:090][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.22-21.44.39:090][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.22-21.44.39:146][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.22-21.44.41:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.22-21.44.41:990][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.22-21.44.42:649][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.22-21.44.43:079][  0]SourceControl: Source control is disabled
+[2017.12.22-21.44.44:212][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.22-21.44.44:477][  0]LogOcInput: OculusInput pre-init called
+[2017.12.22-21.44.44:761][  0]LogEngine: Initializing Engine...
+[2017.12.22-21.44.44:763][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.22-21.44.45:016][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.22-21.44.45:016][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.22-21.44.45:150][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.22-21.44.45:155][  0]LogInit: No audio devices found!
+[2017.12.22-21.44.45:271][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.22-21.44.45:287][  0]LogInit: Texture streaming: Enabled
+[2017.12.22-21.44.45:390][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.22-21.44.45:515][  0]LogInit: Transaction tracking system initialized
+[2017.12.22-21.44.45:829][  0]BlueprintLog: New page: Editor Load
+[2017.12.22-21.44.46:691][  0]LocalizationService: Localization service is disabled
+[2017.12.22-21.44.47:409][  0]LogConsoleResponse: Display: 
+[2017.12.22-21.44.47:627][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.22-21.44.47:627][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.22-21.44.47:627][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.22-21.44.47:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.01s
+[2017.12.22-21.44.48:784][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.22-21.44.48:785][  0]LightingResults: New page: Lighting Build
+[2017.12.22-21.44.48:821][  0]MapCheck: New page: Map Check
+[2017.12.22-21.44.48:821][  0]LightingResults: New page: Lighting Build
+[2017.12.22-21.44.49:754][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.22-21.45.10:467][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.22-21.45.10:501][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.22-21.45.10:533][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.22-21.45.10:595][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.541ms to complete.
+[2017.12.22-21.45.10:595][  0]LogFileHelpers: Loading map 'Arena1' took 21.811
+[2017.12.22-21.45.10:647][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.22-21.45.10:770][  0]LogCollectionManager: Loaded 0 collections in 0.002695 seconds
+[2017.12.22-21.45.10:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
+[2017.12.22-21.45.10:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.22-21.45.10:877][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.01s
+[2017.12.22-21.45.10:877][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.22-21.45.10:894][  0]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2363 classes and 519 folders.
+[2017.12.22-21.45.11:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.22-21.45.11:060][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.22-21.45.11:131][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.22-21.45.11:153][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-21.45.11:157][  0]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.22-21.45.11:165][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.22-21.45.11:285][  0]LogRenderer: Reallocating scene render targets to support 820x540 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-21.45.11:550][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.22-21.45.11:550][  0]LogLoad: (Engine Initialization) Total time: 40.09 seconds
+[2017.12.22-21.45.11:551][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.22-21.45.11:551][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.22-21.45.11:551][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.22-21.45.11:578][  0]SourceControl: On branch master
+[2017.12.22-21.45.11:578][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-21.45.11:578][  0]SourceControl: Changes to be committed:
+[2017.12.22-21.45.11:578][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-21.45.11:578][  0]SourceControl: 	deleted:    Content/Characters/Man/Body.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	copied:     Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Anim.uasset -> Content/Characters/Man/Breathing_Idle_Man.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Anim.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle_Teeth_Group17575_PhysicsAsset.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Skeleton.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	copied:     Content/Characters/Man/Breathing_Idle.uasset -> Content/Characters/Man/Man_Skeletal_Mesh.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Man_Skeleton.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Man_physical_asset.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Man_skeletalmesh.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Eyeball_IDs.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Eyeball__AlbedoM_.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Eyeball__Normal_.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/FullBody_IDs.uasset
+[2017.12.22-21.45.11:578][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/FullBody__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/FullBody__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Lacrimal_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Lacrimal__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Lacrimal__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Teeth_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Teeth__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/Teeth__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/eyelash_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/eyelash__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/eyelash__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/lowerezelid_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/lowerezelid__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	new file:   Content/Characters/Man/Textures/lowerezelid__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: Changes not staged for commit:
+[2017.12.22-21.45.11:579][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.22-21.45.11:579][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Man.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Anim.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Teeth_Group17575_PhysicsAsset.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Skeleton.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Man_Skeletal_Mesh.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Man_Skeleton.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Man_physical_asset.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Eyeball_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Eyeball__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Eyeball__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/FullBody_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/FullBody__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/FullBody__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Lacrimal_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Lacrimal__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Lacrimal__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Teeth_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Teeth__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/Teeth__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/eyelash_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/eyelash__AlbedoM_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/eyelash__Normal_.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/lowerezelid_IDs.uasset
+[2017.12.22-21.45.11:579][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/lowerezelid__AlbedoM_.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Content/Characters/Man/Textures/lowerezelid__Normal_.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Content/Levels/Arena1.umap
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-12-21-30-39.umap
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-12-21-42-16.umap
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-12-21-52-51.umap
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_Crossbow_1_2017-12-12-21-41-08.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_MasterCrossbow_2017-12-12-21-07-25.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_MasterCrossbow_2017-12-12-21-18-17.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_MasterCrossbow_2017-12-12-21-30-39.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_YBot_Movement_2017-12-12-20-08-07.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_YBot_Movement_2017-12-12-20-30-07.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/BP_YBot_Movement_2017-12-12-20-36-33.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Crossbow_2017-12-12-21-27-49.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Crossbow_2017-12-12-21-42-16.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-20-08-07.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-20-30-07.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-07-25.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-30-39.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-42-15.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-52-51.uasset
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-4848B4F8431D5D5465D73D9D1C16FCDE/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6775E5CB406ED49DA80EF8B2452D21FC/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-7E453D254D1801FA4377A1A6D5ABE969/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C982847F40F22E1B172748BCE988C456/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-CEFCEB78416CBF7BFDAEE785C6AA4596/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-DDEF79204CF81E658407D8A192E9605C/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F1EAB87E43B3F6057B016490CE87A5C9/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F6BCA7574825762E70BA408E2833863C/CrashReportClient.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.20-21.04.12.log
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.21-12.18.51.log
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.21-12.50.59.log
+[2017.12.22-21.45.11:580][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.21-12.57.27.log
+[2017.12.22-21.45.11:580][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.22-21.45.11:580][  0]SourceControl: Untracked files:
+[2017.12.22-21.45.11:580][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-21.45.11:580][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-22-21-12-46.umap
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Backup/Breathing_Idle_2017-12-22-21-11-17.uasset
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Backup/Breathing_Idle_2017-12-22-22-14-21.uasset
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Backup/Breathing_Idle_Teeth_Group17575_Anim_2017-12-22-22-14-09.uasset
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Backup/Breathing_Idle_Teeth_Group17575_PhysicsAsset_2017-12-22-22-14-38.uasset
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Backup/Breathing_Idle_Teeth_Group17575_Skeleton_2017-12-22-22-14-54.uasset
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-02C05661451EF8BCB5000A8983E79D1B/
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-4E2563684CE79DE50DEC09BB24B12EAD/
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-AA03213A48459B311E582FA724AB4D01/
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-F0FA76C44E69732CB07BBA9AF5D5AD77/
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-20.51.57.log
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-22.07.27.log
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-22.35.36.log
+[2017.12.22-21.45.11:581][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-22.44.32.log
+[2017.12.22-21.45.11:581][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.22-21.45.11:637][  1]LogAssetRegistry: Asset discovery search completed in 33.1427 seconds
+[2017.12.22-21.45.11:639][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.22-21.45.11:639][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2017.12.22-21.45.15:952][413]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-21.45.25:945][443]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-21.45.26:019][443]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\3D\Game_content\Characters\Human\Male\Animations\ManLP_Rigged.fbx)
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: NodeAttribute, ItemCount : 57
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: Model, ItemCount : 63
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: Material, ItemCount : 10
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: Geometry, ItemCount : 6
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: Deformer, ItemCount : 63
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: AnimationCurveNode, ItemCount : 59
+[2017.12.22-21.45.26:037][443]LogFbx: ItemName: AnimationCurve, ItemCount : 312
+[2017.12.22-21.45.26:044][443]LogFbx: Loading FBX Scene from E:\3D\Game_content\Characters\Human\Male\Animations\ManLP_Rigged.fbx
+[2017.12.22-21.45.26:099][443]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-21.45.31:320][443]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-21.45.55:359][443]LogFbx: Loading FBX Scene from E:\3D\Game_content\Characters\Human\Male\Animations\ManLP_Rigged.fbx
+[2017.12.22-21.45.55:417][443]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node START [Teeth] 
+[2017.12.22-21.45.55:421][443]LogFbx: 	Total Deformer Count -1432914368.
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: 	Attribute (Group17575) Type (4).
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node Attribute Child 1] Teeth (Type Mesh).
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node END [Teeth]
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node START [lowerezelid wetness] 
+[2017.12.22-21.45.55:421][443]LogFbx: 	Total Deformer Count -1462633504.
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: 	Attribute (Group1.004) Type (4).
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node Attribute Child 1] lowerezelid wetness (Type Mesh).
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node END [lowerezelid wetness]
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node START [Lacrimal] 
+[2017.12.22-21.45.55:421][443]LogFbx: 	Total Deformer Count -1512319936.
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: 	Attribute (Group1.003) Type (4).
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node Attribute Child 1] Lacrimal (Type Mesh).
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node END [Lacrimal]
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node START [eyelash] 
+[2017.12.22-21.45.55:421][443]LogFbx: 	Total Deformer Count -1512319936.
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: 	Attribute (Group1.002) Type (4).
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node Attribute Child 1] eyelash (Type Mesh).
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node END [eyelash]
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node START [Eyeball] 
+[2017.12.22-21.45.55:421][443]LogFbx: 	Total Deformer Count -1512319936.
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: 	Attribute (Group1.001) Type (4).
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node Attribute Child 1] Eyeball (Type Mesh).
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node END [Eyeball]
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node START [FullBody] 
+[2017.12.22-21.45.55:421][443]LogFbx: 	Total Deformer Count -1512319936.
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:421][443]LogFbx: =================================================
+[2017.12.22-21.45.55:421][443]LogFbx: 	Attribute (Group57016) Type (4).
+[2017.12.22-21.45.55:421][443]LogFbx: 		[Node Attribute Child 1] FullBody (Type Mesh).
+[2017.12.22-21.45.55:421][443]LogFbx: Dumping Node END [FullBody]
+[2017.12.22-21.45.55:423][443]LogFbx: =================================================
+[2017.12.22-21.45.55:423][443]LogFbx: Dumping Node START [Teeth] 
+[2017.12.22-21.45.55:423][443]LogFbx: 	Total Deformer Count -1432914368.
+[2017.12.22-21.45.55:423][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:423][443]LogFbx: =================================================
+[2017.12.22-21.45.55:423][443]LogFbx: 	Attribute (Group17575) Type (4).
+[2017.12.22-21.45.55:423][443]LogFbx: 		[Node Attribute Child 1] Teeth (Type Mesh).
+[2017.12.22-21.45.55:423][443]LogFbx: Dumping Node END [Teeth]
+[2017.12.22-21.45.55:423][443]LogFbx: =================================================
+[2017.12.22-21.45.55:423][443]LogFbx: Dumping Node START [lowerezelid wetness] 
+[2017.12.22-21.45.55:423][443]LogFbx: 	Total Deformer Count -1462647808.
+[2017.12.22-21.45.55:423][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: 	Attribute (Group1.004) Type (4).
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node Attribute Child 1] lowerezelid wetness (Type Mesh).
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node END [lowerezelid wetness]
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node START [Lacrimal] 
+[2017.12.22-21.45.55:424][443]LogFbx: 	Total Deformer Count -1512320104.
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: 	Attribute (Group1.003) Type (4).
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node Attribute Child 1] Lacrimal (Type Mesh).
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node END [Lacrimal]
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node START [eyelash] 
+[2017.12.22-21.45.55:424][443]LogFbx: 	Total Deformer Count -1512320104.
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: 	Attribute (Group1.002) Type (4).
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node Attribute Child 1] eyelash (Type Mesh).
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node END [eyelash]
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node START [Eyeball] 
+[2017.12.22-21.45.55:424][443]LogFbx: 	Total Deformer Count -1512320104.
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: 	Attribute (Group1.001) Type (4).
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node Attribute Child 1] Eyeball (Type Mesh).
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node END [Eyeball]
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node START [FullBody] 
+[2017.12.22-21.45.55:424][443]LogFbx: 	Total Deformer Count -1512320104.
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.55:424][443]LogFbx: =================================================
+[2017.12.22-21.45.55:424][443]LogFbx: 	Attribute (Group57016) Type (4).
+[2017.12.22-21.45.55:424][443]LogFbx: 		[Node Attribute Child 1] FullBody (Type Mesh).
+[2017.12.22-21.45.55:424][443]LogFbx: Dumping Node END [FullBody]
+[2017.12.22-21.45.55:425][443]LogFbx: Valid bind pose for Pose (BindPose) - Teeth
+[2017.12.22-21.45.55:427][443]LogFbx: Triangulating skeletal mesh Teeth
+[2017.12.22-21.45.55:462][443]LogFbx: Triangulating skeletal mesh lowerezelid wetness
+[2017.12.22-21.45.55:463][443]LogFbx: Triangulating skeletal mesh eyelash
+[2017.12.22-21.45.55:509][443]LogFbx: Triangulating skeletal mesh Eyeball
+[2017.12.22-21.45.55:516][443]LogFbx: Triangulating skeletal mesh FullBody
+[2017.12.22-21.45.55:776][443]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2017.12.22-21.45.56:488][443]LogSkeletalMesh: Section 0: 1704 vertices, 2 active bones
+[2017.12.22-21.45.56:488][443]LogSkeletalMesh: Section 1: 213 vertices, 2 active bones
+[2017.12.22-21.45.56:488][443]LogSkeletalMesh: Section 2: 76 vertices, 2 active bones
+[2017.12.22-21.45.56:489][443]LogSkeletalMesh: Section 3: 9256 vertices, 2 active bones
+[2017.12.22-21.45.56:489][443]LogSkeletalMesh: Section 4: 182 vertices, 2 active bones
+[2017.12.22-21.45.56:489][443]LogSkeletalMesh: Section 5: 42 vertices, 2 active bones
+[2017.12.22-21.45.56:489][443]LogSkeletalMesh: Section 6: 40 vertices, 2 active bones
+[2017.12.22-21.45.56:490][443]LogSkeletalMesh: Section 7: 6555 vertices, 46 active bones
+[2017.12.22-21.45.56:490][443]LogSkeletalMesh: Section 8: 5945 vertices, 2 active bones
+[2017.12.22-21.45.56:491][443]LogSkeletalMesh: Section 9: 72 vertices, 2 active bones
+[2017.12.22-21.45.56:546][443]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 0: Material=0, 2456 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 1: Material=1, 325 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 2: Material=2, 72 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 3: Material=3, 4272 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 4: Material=4, 340 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 5: Material=5, 60 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 6: Material=6, 40 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 7: Material=7, 11092 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 8: Material=8, 10973 triangles
+[2017.12.22-21.45.56:553][443]LogSkeletalMesh: Section 9: Material=9, 92 triangles
+[2017.12.22-21.45.56:573][443]LogLinker: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset'
+[2017.12.22-21.45.56:574][443]LogLinker: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset'
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node START [Teeth] 
+[2017.12.22-21.45.56:584][443]LogFbx: 	Total Deformer Count -1432917200.
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: 	Attribute (Group17575) Type (4).
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node Attribute Child 1] Teeth (Type Mesh).
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node END [Teeth]
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node START [lowerezelid wetness] 
+[2017.12.22-21.45.56:584][443]LogFbx: 	Total Deformer Count -1567181056.
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: 	Attribute (Group1.004) Type (4).
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node Attribute Child 1] lowerezelid wetness (Type Mesh).
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node END [lowerezelid wetness]
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node START [Lacrimal] 
+[2017.12.22-21.45.56:584][443]LogFbx: 	Total Deformer Count -1512319208.
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: 	Attribute (Group1.003) Type (4).
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node Attribute Child 1] Lacrimal (Type Mesh).
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node END [Lacrimal]
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node START [eyelash] 
+[2017.12.22-21.45.56:584][443]LogFbx: 	Total Deformer Count -1512319208.
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: 	Attribute (Group1.002) Type (4).
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node Attribute Child 1] eyelash (Type Mesh).
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node END [eyelash]
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node START [Eyeball] 
+[2017.12.22-21.45.56:584][443]LogFbx: 	Total Deformer Count -1512319208.
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: 	Attribute (Group1.001) Type (4).
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node Attribute Child 1] Eyeball (Type Mesh).
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node END [Eyeball]
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:584][443]LogFbx: Dumping Node START [FullBody] 
+[2017.12.22-21.45.56:584][443]LogFbx: 	Total Deformer Count -1512319208.
+[2017.12.22-21.45.56:584][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:584][443]LogFbx: =================================================
+[2017.12.22-21.45.56:585][443]LogFbx: 	Attribute (Group57016) Type (4).
+[2017.12.22-21.45.56:585][443]LogFbx: 		[Node Attribute Child 1] FullBody (Type Mesh).
+[2017.12.22-21.45.56:585][443]LogFbx: Dumping Node END [FullBody]
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node START [Teeth] 
+[2017.12.22-21.45.56:586][443]LogFbx: 	Total Deformer Count -1432917200.
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: 	Attribute (Group17575) Type (4).
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node Attribute Child 1] Teeth (Type Mesh).
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node END [Teeth]
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node START [lowerezelid wetness] 
+[2017.12.22-21.45.56:586][443]LogFbx: 	Total Deformer Count -1567182880.
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: 	Attribute (Group1.004) Type (4).
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node Attribute Child 1] lowerezelid wetness (Type Mesh).
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node END [lowerezelid wetness]
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node START [Lacrimal] 
+[2017.12.22-21.45.56:586][443]LogFbx: 	Total Deformer Count -1512319040.
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: 	Attribute (Group1.003) Type (4).
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node Attribute Child 1] Lacrimal (Type Mesh).
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node END [Lacrimal]
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node START [eyelash] 
+[2017.12.22-21.45.56:586][443]LogFbx: 	Total Deformer Count -1512319040.
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: 	Attribute (Group1.002) Type (4).
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node Attribute Child 1] eyelash (Type Mesh).
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node END [eyelash]
+[2017.12.22-21.45.56:586][443]LogFbx: =================================================
+[2017.12.22-21.45.56:586][443]LogFbx: Dumping Node START [Eyeball] 
+[2017.12.22-21.45.56:586][443]LogFbx: 	Total Deformer Count -1512319040.
+[2017.12.22-21.45.56:586][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:587][443]LogFbx: =================================================
+[2017.12.22-21.45.56:587][443]LogFbx: 	Attribute (Group1.001) Type (4).
+[2017.12.22-21.45.56:587][443]LogFbx: 		[Node Attribute Child 1] Eyeball (Type Mesh).
+[2017.12.22-21.45.56:587][443]LogFbx: Dumping Node END [Eyeball]
+[2017.12.22-21.45.56:587][443]LogFbx: =================================================
+[2017.12.22-21.45.56:587][443]LogFbx: Dumping Node START [FullBody] 
+[2017.12.22-21.45.56:587][443]LogFbx: 	Total Deformer Count -1512319040.
+[2017.12.22-21.45.56:587][443]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.45.56:587][443]LogFbx: =================================================
+[2017.12.22-21.45.56:587][443]LogFbx: 	Attribute (Group57016) Type (4).
+[2017.12.22-21.45.56:587][443]LogFbx: 		[Node Attribute Child 1] FullBody (Type Mesh).
+[2017.12.22-21.45.56:587][443]LogFbx: Dumping Node END [FullBody]
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(0) Hips
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(1) Spine
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(2) Spine1
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(3) Spine2
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(4) Neck
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(5) Head
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(7) LeftShoulder
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(8) LeftArm
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(9) LeftForeArm
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(10) LeftHand
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2017.12.22-21.45.56:587][443]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(23) LeftHandRing1
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(24) LeftHandRing2
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(25) LeftHandRing3
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(26) LeftHandRing4
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(27) RightShoulder
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(28) RightArm
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(29) RightForeArm
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(30) RightHand
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(31) RightHandThumb1
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(32) RightHandThumb2
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(33) RightHandThumb3
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(34) RightHandThumb4
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(35) RightHandIndex1
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(36) RightHandIndex2
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(37) RightHandIndex3
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(38) RightHandIndex4
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(43) RightHandRing1
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(44) RightHandRing2
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(45) RightHandRing3
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(46) RightHandRing4
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(47) LeftUpLeg
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(48) LeftLeg
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(49) LeftFoot
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(50) LeftToeBase
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(51) LeftToe_End
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(52) RightUpLeg
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(53) RightLeg
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(54) RightFoot
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(55) RightToeBase
+[2017.12.22-21.45.56:588][443]LogFbx: SortedLinks :(56) RightToe_End
+[2017.12.22-21.45.56:589][443]LogFbx: Parsing AnimStack mixamo.com
+[2017.12.22-21.45.56:590][443]LogLinker: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_Anim'
+[2017.12.22-21.45.56:590][443]LogLinker: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_Anim'
+[2017.12.22-21.45.56:671][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Man/ManLP_Rigged_Teeth_Anim.ManLP_Rigged_Teeth_Anim
+[2017.12.22-21.45.56:672][443]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ManLP_Rigged_Teeth_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2017.12.22-21.45.56:684][443]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.22-21.46.15:826][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/dasna'
+[2017.12.22-21.46.15:826][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/dasna' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:826][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/dasna
+[2017.12.22-21.46.15:827][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/eyewhite'
+[2017.12.22-21.46.15:827][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/eyewhite' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:827][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/eyewhite
+[2017.12.22-21.46.15:827][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/inlips'
+[2017.12.22-21.46.15:827][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/inlips' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:827][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/inlips
+[2017.12.22-21.46.15:827][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/iris'
+[2017.12.22-21.46.15:828][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/iris' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:828][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/iris
+[2017.12.22-21.46.15:828][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/krajicekoka'
+[2017.12.22-21.46.15:828][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/krajicekoka' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:828][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/krajicekoka
+[2017.12.22-21.46.15:828][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/lips'
+[2017.12.22-21.46.15:828][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/lips' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:828][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/lips
+[2017.12.22-21.46.15:829][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/riasy'
+[2017.12.22-21.46.15:829][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/riasy' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:829][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/riasy
+[2017.12.22-21.46.15:829][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/skin'
+[2017.12.22-21.46.15:829][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/skin' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:829][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/skin
+[2017.12.22-21.46.15:829][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/zrenicka'
+[2017.12.22-21.46.15:829][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/zrenicka' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:829][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/zrenicka
+[2017.12.22-21.46.15:830][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/zuby'
+[2017.12.22-21.46.15:830][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/zuby' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:830][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/zuby
+[2017.12.22-21.46.15:830][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/dasna'
+[2017.12.22-21.46.15:830][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/dasna' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:831][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/eyewhite'
+[2017.12.22-21.46.15:831][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/eyewhite' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:831][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/inlips'
+[2017.12.22-21.46.15:831][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/inlips' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:831][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/iris'
+[2017.12.22-21.46.15:831][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/iris' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:832][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/krajicekoka'
+[2017.12.22-21.46.15:832][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/krajicekoka' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:832][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/lips'
+[2017.12.22-21.46.15:832][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/lips' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:833][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton'
+[2017.12.22-21.46.15:833][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:833][992]LoadErrors: Error: /Game/Characters/Man/Man_skeletalmesh : Can't find file for asset. /Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton
+[2017.12.22-21.46.15:833][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/riasy'
+[2017.12.22-21.46.15:833][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/riasy' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:833][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/skin'
+[2017.12.22-21.46.15:834][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/skin' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:834][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/zrenicka'
+[2017.12.22-21.46.15:834][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/zrenicka' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:834][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/zuby'
+[2017.12.22-21.46.15:835][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/zuby' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:835][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton'
+[2017.12.22-21.46.15:835][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Man_skeletalmesh.uasset.
+[2017.12.22-21.46.15:837][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton'
+[2017.12.22-21.46.15:837][992]LoadErrors: Failed to load /Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton.ManLP_Rigged_Teeth_Skeleton Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:837][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/ManLP_Rigged_Teeth_Skeleton' while loading NULL.
+[2017.12.22-21.46.15:838][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/zuby'
+[2017.12.22-21.46.15:838][992]LoadErrors: Failed to load /Game/Characters/Man/zuby.zuby Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:838][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/zuby' while loading NULL.
+[2017.12.22-21.46.15:838][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/dasna'
+[2017.12.22-21.46.15:838][992]LoadErrors: Failed to load /Game/Characters/Man/dasna.dasna Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:838][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/dasna' while loading NULL.
+[2017.12.22-21.46.15:839][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/krajicekoka'
+[2017.12.22-21.46.15:839][992]LoadErrors: Failed to load /Game/Characters/Man/krajicekoka.krajicekoka Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:839][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/krajicekoka' while loading NULL.
+[2017.12.22-21.46.15:839][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/riasy'
+[2017.12.22-21.46.15:839][992]LoadErrors: Failed to load /Game/Characters/Man/riasy.riasy Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:839][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/riasy' while loading NULL.
+[2017.12.22-21.46.15:840][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/eyewhite'
+[2017.12.22-21.46.15:840][992]LoadErrors: Failed to load /Game/Characters/Man/eyewhite.eyewhite Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:840][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/eyewhite' while loading NULL.
+[2017.12.22-21.46.15:841][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/zrenicka'
+[2017.12.22-21.46.15:841][992]LoadErrors: Failed to load /Game/Characters/Man/zrenicka.zrenicka Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:841][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/zrenicka' while loading NULL.
+[2017.12.22-21.46.15:841][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/iris'
+[2017.12.22-21.46.15:841][992]LoadErrors: Failed to load /Game/Characters/Man/iris.iris Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:841][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/iris' while loading NULL.
+[2017.12.22-21.46.15:842][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/skin'
+[2017.12.22-21.46.15:842][992]LoadErrors: Failed to load /Game/Characters/Man/skin.skin Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:842][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/skin' while loading NULL.
+[2017.12.22-21.46.15:842][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/inlips'
+[2017.12.22-21.46.15:842][992]LoadErrors: Failed to load /Game/Characters/Man/inlips.inlips Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:842][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/inlips' while loading NULL.
+[2017.12.22-21.46.15:842][992]LogLinker: Warning: Can't find file '/Game/Characters/Man/lips'
+[2017.12.22-21.46.15:842][992]LoadErrors: Failed to load /Game/Characters/Man/lips.lips Referenced by Man_skeletalmesh
+[2017.12.22-21.46.15:843][992]LogLinker: Warning: Can't find file for asset '/Game/Characters/Man/lips' while loading NULL.
+[2017.12.22-21.47.50:434][701]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.22-21.47.50:730][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.22-21.47.50:767][701]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.22-21.47.51:284][701]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2017.12.22-21.47.51:289][701]LogRenderer: Reallocating scene render targets to support 820x832 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-21.49.22:995][403]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [AlbedoM].psd)
+[2017.12.22-21.49.23:719][403]LogTexture: Display: Building textures: FullBody__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-21.49.56:125][449]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Metalness].psd)
+[2017.12.22-21.49.56:292][449]Format of this PSD is not supported
+[2017.12.22-21.49.56:304][449]Error: Texture import failed
+[2017.12.22-21.50.05:685][449]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Metalness].psd'. Failed to create asset '/Game/Characters/Man/Textures/FullBody__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-21.50.19:166][859]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Normal].psd)
+[2017.12.22-21.50.19:965][859]LogTexture: Display: Building textures: FullBody__Normal_ (AutoDXT, 4096X4096)
+[2017.12.22-21.50.47:514][380]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Roughness].psd)
+[2017.12.22-21.50.47:708][380]Format of this PSD is not supported
+[2017.12.22-21.50.47:725][380]Error: Texture import failed
+[2017.12.22-21.50.50:312][380]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Roughness].psd'. Failed to create asset '/Game/Characters/Man/Textures/FullBody__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-21.51.02:481][597]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody_Mask.psd)
+[2017.12.22-21.51.02:720][597]Format of this PSD is not supported
+[2017.12.22-21.51.02:740][597]Error: Texture import failed
+[2017.12.22-21.51.04:659][597]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody_Mask.psd'. Failed to create asset '/Game/Characters/Man/Textures/FullBody_Mask'.
+Please see Output Log for details.
+[2017.12.22-21.51.16:528][876]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2017.12.22-21.51.16:531][876]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.16:608][876]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.16:629][876]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.16:693][876]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.22-21.51.25:895][307]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.22-21.51.25:895][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.12.22-21.51.25:895][307]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.12.22-21.51.25:895][307]MaterialEditorStats: Texture samplers: 2/16
+[2017.12.22-21.51.30:791][719]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.30:809][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.22-21.51.30:844][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.22-21.51.33:320][865]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.33:362][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.22-21.51.39:938][106]MaterialEditorStats: Base pass shader: 102 instructions
+[2017.12.22-21.51.39:938][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2017.12.22-21.51.39:938][106]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.22-21.51.39:938][106]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.22-21.51.39:939][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.22-21.51.44:405][438]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.44:427][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.22-21.51.44:461][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.22-21.51.44:469][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.22-21.51.48:775][682]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.51.48:820][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.22-21.51.57:681][872]MaterialEditorStats: Base pass shader: 103 instructions
+[2017.12.22-21.51.57:681][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2017.12.22-21.51.57:681][872]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.22-21.51.57:681][872]MaterialEditorStats: Texture samplers: 4/16
+[2017.12.22-21.51.57:681][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.22-21.52.26:430][958]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\Realistic_White_Male_OBJ\Body_occlusion.png)
+[2017.12.22-21.52.27:463][958]LogTexture: Display: Building textures: Body_occlusion (AutoDXT, 4096X4096)
+[2017.12.22-21.52.56:554][565]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.52.56:579][565]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.22-21.52.56:613][565]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.22-21.52.56:621][565]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.22-21.52.56:629][565]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.22-21.53.03:912][968]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.53.03:957][968]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.12.22-21.53.07:497][156]LogMaterialEditor: Saving and Compiling material Body
+[2017.12.22-21.53.08:559][156]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.53.08:666][156]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.53.08:733][156]LogMaterial: Missing cached shader map for material Body, compiling. 
+[2017.12.22-21.53.08:817][156]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Body, compiling. 
+[2017.12.22-21.53.12:234][156]TextureStreamingBuild: Display: Compiling optional shaders took 3.429 seconds.
+[2017.12.22-21.53.15:922][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/Textures/Body" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Textures/Body.uasset" SILENT=true
+[2017.12.22-21.53.15:947][156]LogSavePackage: Save=22.68ms
+[2017.12.22-21.53.15:947][156]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Body5FABE7F24D9FEACB7184358A02CCCB98.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Textures/Body.uasset'
+[2017.12.22-21.53.15:951][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Textures/Body.uasset
+[2017.12.22-21.53.16:082][156]MaterialEditorStats: Base pass shader: 103 instructions
+[2017.12.22-21.53.16:082][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2017.12.22-21.53.16:082][156]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.22-21.53.16:082][156]MaterialEditorStats: Texture samplers: 6/16
+[2017.12.22-21.53.16:082][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.22-21.54.33:024][ 41]SourceControl: On branch master
+[2017.12.22-21.54.33:024][ 41]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-21.54.33:024][ 41]SourceControl: Changes to be committed:
+[2017.12.22-21.54.33:024][ 41]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	deleted:    Content/Characters/Man/Body.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	copied:     Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Anim.uasset -> Content/Characters/Man/Breathing_Idle_Man.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Anim.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle_Teeth_Group17575_PhysicsAsset.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	modified:   Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Skeleton.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	copied:     Content/Characters/Man/Breathing_Idle.uasset -> Content/Characters/Man/Man_Skeletal_Mesh.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Man_Skeleton.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Man_physical_asset.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Man_skeletalmesh.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Body.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Eyeball_IDs.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Eyeball__AlbedoM_.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Eyeball__Normal_.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/FullBody_IDs.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/FullBody__AlbedoM_.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/FullBody__Normal_.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Lacrimal_IDs.uasset
+[2017.12.22-21.54.33:024][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Lacrimal__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Lacrimal__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Teeth_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Teeth__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/Teeth__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/eyelash_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/eyelash__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/eyelash__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/lowerezelid_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/lowerezelid__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	new file:   Content/Characters/Man/Textures/lowerezelid__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: Changes not staged for commit:
+[2017.12.22-21.54.33:025][ 41]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.22-21.54.33:025][ 41]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Man.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Anim.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Teeth_Group17575_PhysicsAsset.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Breathing_Idle_Teeth_Group17575_Skeleton.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Man_Skeletal_Mesh.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Man_Skeleton.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Man_physical_asset.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Man_skeletalmesh.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Eyeball_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Eyeball__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Eyeball__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/FullBody_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/FullBody__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/FullBody__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Lacrimal_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Lacrimal__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Lacrimal__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Teeth_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Teeth__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/Teeth__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/eyelash_IDs.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/eyelash__AlbedoM_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/eyelash__Normal_.uasset
+[2017.12.22-21.54.33:025][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/lowerezelid_IDs.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/lowerezelid__AlbedoM_.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Content/Characters/Man/Textures/lowerezelid__Normal_.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	modified:   Content/Levels/Arena1.umap
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-12-21-30-39.umap
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-12-21-42-16.umap
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-12-21-52-51.umap
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_Crossbow_1_2017-12-12-21-41-08.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_MasterCrossbow_2017-12-12-21-07-25.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_MasterCrossbow_2017-12-12-21-18-17.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_MasterCrossbow_2017-12-12-21-30-39.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_YBot_Movement_2017-12-12-20-08-07.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_YBot_Movement_2017-12-12-20-30-07.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/BP_YBot_Movement_2017-12-12-20-36-33.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Crossbow_2017-12-12-21-27-49.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Crossbow_2017-12-12-21-42-16.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-20-08-07.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-20-30-07.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-07-25.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-30-39.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-42-15.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-12-21-52-51.uasset
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-4848B4F8431D5D5465D73D9D1C16FCDE/CrashReportClient.ini
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-6775E5CB406ED49DA80EF8B2452D21FC/CrashReportClient.ini
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-7E453D254D1801FA4377A1A6D5ABE969/CrashReportClient.ini
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C982847F40F22E1B172748BCE988C456/CrashReportClient.ini
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-CEFCEB78416CBF7BFDAEE785C6AA4596/CrashReportClient.ini
+[2017.12.22-21.54.33:026][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-DDEF79204CF81E658407D8A192E9605C/CrashReportClient.ini
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F1EAB87E43B3F6057B016490CE87A5C9/CrashReportClient.ini
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F6BCA7574825762E70BA408E2833863C/CrashReportClient.ini
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.20-21.04.12.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.21-12.18.51.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.21-12.50.59.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.21-12.57.27.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: Untracked files:
+[2017.12.22-21.54.33:027][ 41]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Backup/Arena1_2017-12-22-21-12-46.umap
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Backup/Breathing_Idle_2017-12-22-21-11-17.uasset
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Backup/Breathing_Idle_2017-12-22-22-14-21.uasset
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Backup/Breathing_Idle_Teeth_Group17575_Anim_2017-12-22-22-14-09.uasset
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Backup/Breathing_Idle_Teeth_Group17575_PhysicsAsset_2017-12-22-22-14-38.uasset
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Backup/Breathing_Idle_Teeth_Group17575_Skeleton_2017-12-22-22-14-54.uasset
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-02C05661451EF8BCB5000A8983E79D1B/
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-4E2563684CE79DE50DEC09BB24B12EAD/
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-AA03213A48459B311E582FA724AB4D01/
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-F0FA76C44E69732CB07BBA9AF5D5AD77/
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-20.51.57.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-22.07.27.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-22.35.36.log
+[2017.12.22-21.54.33:027][ 41]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-22.44.32.log
+[2017.12.22-21.54.33:255][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/Textures/Mat_Man_Body" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Textures/Mat_Man_Body.uasset" SILENT=true
+[2017.12.22-21.54.33:278][ 41]LogSavePackage: Save=21.10ms
+[2017.12.22-21.54.33:278][ 41]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Mat_Man_Body49BEDF674079B7D9A9D396845B228D7B.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Textures/Mat_Man_Body.uasset'
+[2017.12.22-21.54.33:282][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/Textures/Mat_Man_Body.uasset
+[2017.12.22-21.55.14:611][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.017
+[2017.12.22-21.55.14:615][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/ManLP_Rigged] ([1] browsable assets)...
+[2017.12.22-21.55.14:631][971]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Man/ManLP_Rigged.ManLP_Rigged_Teeth]
+[2017.12.22-21.55.14:631][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/ManLP_Rigged]
+[2017.12.22-21.55.14:703][971]LogSavePackage: Save=69.19ms
+[2017.12.22-21.55.14:703][971]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_Rigged_Auto1B901509E426A08F6D7B48380D25ADAE6.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_Rigged_Auto1.uasset'
+[2017.12.22-21.55.14:705][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_Rigged_Auto1.uasset
+[2017.12.22-21.55.14:706][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset] ([1] browsable assets)...
+[2017.12.22-21.55.14:730][971]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset.ManLP_Rigged_Teeth_PhysicsAsset]
+[2017.12.22-21.55.14:730][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset]
+[2017.12.22-21.55.14:770][971]LogSavePackage: Save=37.71ms
+[2017.12.22-21.55.14:770][971]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_Rigged_Teeth_PhysicsAsset_14E92A734125EDAFE8BE19AE5B17960C.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset_Auto1.uasset'
+[2017.12.22-21.55.14:772][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_Rigged_Teeth_PhysicsAsset_Auto1.uasset
+[2017.12.22-21.55.14:773][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/ManLP_Rigged_Teeth_Anim] ([1] browsable assets)...
+[2017.12.22-21.55.14:790][971]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Man/ManLP_Rigged_Teeth_Anim.ManLP_Rigged_Teeth_Anim]
+[2017.12.22-21.55.14:790][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/ManLP_Rigged_Teeth_Anim]
+[2017.12.22-21.55.14:809][971]LogSavePackage: Save=17.27ms
+[2017.12.22-21.55.14:809][971]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_Rigged_Teeth_Anim_Auto19254ACBE4B05CD7BA1E99387FAD04069.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_Rigged_Teeth_Anim_Auto1.uasset'
+[2017.12.22-21.55.14:811][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_Rigged_Teeth_Anim_Auto1.uasset
+[2017.12.22-21.55.14:811][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Textures/FullBody__AlbedoM_] ([1] browsable assets)...
+[2017.12.22-21.55.14:826][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Textures/FullBody__AlbedoM_.FullBody__AlbedoM_]
+[2017.12.22-21.55.14:826][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Textures/FullBody__AlbedoM_]
+[2017.12.22-21.55.15:070][971]LogSavePackage: Save=241.90ms
+[2017.12.22-21.55.15:070][971]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/FullBody__AlbedoM__Auto1EE725E4543AA46C8BD53B98E9A96FFD1.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Textures/FullBody__AlbedoM__Auto1.uasset'
+[2017.12.22-21.55.15:072][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Textures/FullBody__AlbedoM__Auto1.uasset
+[2017.12.22-21.55.15:073][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Textures/FullBody__Normal_] ([1] browsable assets)...
+[2017.12.22-21.55.15:084][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Textures/FullBody__Normal_.FullBody__Normal_]
+[2017.12.22-21.55.15:084][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Textures/FullBody__Normal_]
+[2017.12.22-21.55.15:326][971]LogSavePackage: Save=240.69ms
+[2017.12.22-21.55.15:326][971]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/FullBody__Normal__Auto1786A372E48AB2CC2A0B4E7AC6FDC5D65.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Textures/FullBody__Normal__Auto1.uasset'
+[2017.12.22-21.55.15:329][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Textures/FullBody__Normal__Auto1.uasset
+[2017.12.22-21.55.15:329][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Textures/Body_occlusion] ([1] browsable assets)...
+[2017.12.22-21.55.15:339][971]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Textures/Body_occlusion.Body_occlusion]
+[2017.12.22-21.55.15:339][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Textures/Body_occlusion]
+[2017.12.22-21.55.15:584][971]LogSavePackage: Save=242.67ms
+[2017.12.22-21.55.15:584][971]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Body_occlusion_Auto1278C3B024D49F8B8D7634DABB4E860E2.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Textures/Body_occlusion_Auto1.uasset'
+[2017.12.22-21.55.15:586][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Textures/Body_occlusion_Auto1.uasset
+[2017.12.22-21.55.15:586][971]LogFileHelpers: Auto-saving content packages took 0.974
+[2017.12.22-21.55.52:006][ 52]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.22-21.55.52:062][ 52]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.12.22-21.56.09:337][734]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2017.12.22-21.56.09:337][734]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2017.12.22-21.56.09:337][734]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2017.12.22-21.56.09:337][734]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository
+[2017.12.22-21.56.11:971][900]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2017.12.22-21.56.11:971][900]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2017.12.22-21.56.11:971][900]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2017.12.22-21.56.11:971][900]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository
+[2017.12.22-21.56.13:640][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset' is outside repository
+[2017.12.22-21.56.13:640][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset' is outside repository
+[2017.12.22-21.56.13:640][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Materials/M_TilingPreviewMat_01.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Materials/M_TilingPreviewMat_01.uasset' is outside repository
+[2017.12.22-21.56.13:640][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack_Mat.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack_Mat.uasset' is outside repository
+[2017.12.22-21.56.13:640][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Matinee/MAT_EnableTrack_Mat.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Matinee/MAT_EnableTrack_Mat.uasset' is outside repository
+[2017.12.22-21.56.16:933][202]LogMaterial: Warning: Material /Game/Characters/Man/Textures/Mat_Man_Body.Mat_Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-21.56.16:944][202]LogMaterial: Missing cached shader map for material Mat_Man_Body, compiling. 
+[2017.12.22-21.56.53:823][108]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.22-21.57.21:628][638]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2017.12.22-21.57.21:628][638]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2017.12.22-21.57.21:628][638]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2017.12.22-21.57.21:628][638]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository
+[2017.12.22-21.57.49:325][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/ManLP_Rigged" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/ManLP_Rigged.uasset" SILENT=true
+[2017.12.22-21.57.49:423][321]LogSavePackage: Save=92.42ms
+[2017.12.22-21.57.49:423][321]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_Rigged59E4C6C74A5121C9588DD290D8D04D63.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/ManLP_Rigged.uasset'
+[2017.12.22-21.57.49:438][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Characters/Man/ManLP_Rigged.uasset
+[2017.12.22-21.58.03:047][259]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.12.22-21.58.13:914][107]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2017.12.22-21.58.47:272][573]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2017.12.22-21.58.47:272][573]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2017.12.22-21.59.02:876][ 26]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2017.12.22-21.59.03:695][104]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2017.12.22-21.59.40:068][687]LogEditorFactories: Performing atomic reimport of [E:/3D/Game_content/Characters/Human/Male/Animations/ManLP_Rigged.fbx]
+[2017.12.22-21.59.40:099][687]LogFbx: Loading FBX Scene from E:/3D/Game_content/Characters/Human/Male/Animations/ManLP_Rigged.fbx
+[2017.12.22-21.59.40:163][687]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-21.59.40:169][687]LogFbx: =================================================
+[2017.12.22-21.59.40:169][687]LogFbx: Dumping Node START [Teeth] 
+[2017.12.22-21.59.40:169][687]LogFbx: 	Total Deformer Count 922706144.
+[2017.12.22-21.59.40:169][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:169][687]LogFbx: =================================================
+[2017.12.22-21.59.40:169][687]LogFbx: 	Attribute (Group17575) Type (4).
+[2017.12.22-21.59.40:169][687]LogFbx: 		[Node Attribute Child 1] Teeth (Type Mesh).
+[2017.12.22-21.59.40:169][687]LogFbx: Dumping Node END [Teeth]
+[2017.12.22-21.59.40:169][687]LogFbx: =================================================
+[2017.12.22-21.59.40:169][687]LogFbx: Dumping Node START [lowerezelid wetness] 
+[2017.12.22-21.59.40:170][687]LogFbx: 	Total Deformer Count 761723296.
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: 	Attribute (Group1.004) Type (4).
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node Attribute Child 1] lowerezelid wetness (Type Mesh).
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node END [lowerezelid wetness]
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node START [Lacrimal] 
+[2017.12.22-21.59.40:170][687]LogFbx: 	Total Deformer Count 917726936.
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: 	Attribute (Group1.003) Type (4).
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node Attribute Child 1] Lacrimal (Type Mesh).
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node END [Lacrimal]
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node START [eyelash] 
+[2017.12.22-21.59.40:170][687]LogFbx: 	Total Deformer Count 917726936.
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: 	Attribute (Group1.002) Type (4).
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node Attribute Child 1] eyelash (Type Mesh).
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node END [eyelash]
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node START [Eyeball] 
+[2017.12.22-21.59.40:170][687]LogFbx: 	Total Deformer Count 917726936.
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: 	Attribute (Group1.001) Type (4).
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node Attribute Child 1] Eyeball (Type Mesh).
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node END [Eyeball]
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node START [FullBody] 
+[2017.12.22-21.59.40:170][687]LogFbx: 	Total Deformer Count 917726936.
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:170][687]LogFbx: =================================================
+[2017.12.22-21.59.40:170][687]LogFbx: 	Attribute (Group57016) Type (4).
+[2017.12.22-21.59.40:170][687]LogFbx: 		[Node Attribute Child 1] FullBody (Type Mesh).
+[2017.12.22-21.59.40:170][687]LogFbx: Dumping Node END [FullBody]
+[2017.12.22-21.59.40:172][687]LogFbx: =================================================
+[2017.12.22-21.59.40:172][687]LogFbx: Dumping Node START [Teeth] 
+[2017.12.22-21.59.40:172][687]LogFbx: 	Total Deformer Count 922706144.
+[2017.12.22-21.59.40:172][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:172][687]LogFbx: =================================================
+[2017.12.22-21.59.40:172][687]LogFbx: 	Attribute (Group17575) Type (4).
+[2017.12.22-21.59.40:172][687]LogFbx: 		[Node Attribute Child 1] Teeth (Type Mesh).
+[2017.12.22-21.59.40:172][687]LogFbx: Dumping Node END [Teeth]
+[2017.12.22-21.59.40:172][687]LogFbx: =================================================
+[2017.12.22-21.59.40:172][687]LogFbx: Dumping Node START [lowerezelid wetness] 
+[2017.12.22-21.59.40:172][687]LogFbx: 	Total Deformer Count 761720608.
+[2017.12.22-21.59.40:172][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: 	Attribute (Group1.004) Type (4).
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node Attribute Child 1] lowerezelid wetness (Type Mesh).
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node END [lowerezelid wetness]
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node START [Lacrimal] 
+[2017.12.22-21.59.40:173][687]LogFbx: 	Total Deformer Count 917723240.
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: 	Attribute (Group1.003) Type (4).
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node Attribute Child 1] Lacrimal (Type Mesh).
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node END [Lacrimal]
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node START [eyelash] 
+[2017.12.22-21.59.40:173][687]LogFbx: 	Total Deformer Count 917723240.
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: 	Attribute (Group1.002) Type (4).
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node Attribute Child 1] eyelash (Type Mesh).
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node END [eyelash]
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node START [Eyeball] 
+[2017.12.22-21.59.40:173][687]LogFbx: 	Total Deformer Count 917723240.
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: 	Attribute (Group1.001) Type (4).
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node Attribute Child 1] Eyeball (Type Mesh).
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node END [Eyeball]
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:173][687]LogFbx: Dumping Node START [FullBody] 
+[2017.12.22-21.59.40:173][687]LogFbx: 	Total Deformer Count 917723240.
+[2017.12.22-21.59.40:173][687]LogFbx: 		[Node 1] Skin (Type Skin).
+[2017.12.22-21.59.40:173][687]LogFbx: =================================================
+[2017.12.22-21.59.40:174][687]LogFbx: 	Attribute (Group57016) Type (4).
+[2017.12.22-21.59.40:174][687]LogFbx: 		[Node Attribute Child 1] FullBody (Type Mesh).
+[2017.12.22-21.59.40:174][687]LogFbx: Dumping Node END [FullBody]
+[2017.12.22-21.59.40:175][687]LogFbx: Valid bind pose for Pose (BindPose) - Teeth
+[2017.12.22-21.59.40:176][687]LogFbx: Triangulating skeletal mesh Teeth
+[2017.12.22-21.59.40:214][687]LogFbx: Triangulating skeletal mesh lowerezelid wetness
+[2017.12.22-21.59.40:216][687]LogFbx: Triangulating skeletal mesh eyelash
+[2017.12.22-21.59.40:283][687]LogFbx: Triangulating skeletal mesh Eyeball
+[2017.12.22-21.59.40:292][687]LogFbx: Triangulating skeletal mesh FullBody
+[2017.12.22-21.59.40:596][687]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2017.12.22-21.59.41:507][687]LogSkeletalMesh: Section 0: 1704 vertices, 2 active bones
+[2017.12.22-21.59.41:507][687]LogSkeletalMesh: Section 1: 213 vertices, 2 active bones
+[2017.12.22-21.59.41:507][687]LogSkeletalMesh: Section 2: 76 vertices, 2 active bones
+[2017.12.22-21.59.41:508][687]LogSkeletalMesh: Section 3: 9256 vertices, 2 active bones
+[2017.12.22-21.59.41:508][687]LogSkeletalMesh: Section 4: 182 vertices, 2 active bones
+[2017.12.22-21.59.41:508][687]LogSkeletalMesh: Section 5: 42 vertices, 2 active bones
+[2017.12.22-21.59.41:508][687]LogSkeletalMesh: Section 6: 40 vertices, 2 active bones
+[2017.12.22-21.59.41:509][687]LogSkeletalMesh: Section 7: 6555 vertices, 46 active bones
+[2017.12.22-21.59.41:510][687]LogSkeletalMesh: Section 8: 5945 vertices, 2 active bones
+[2017.12.22-21.59.41:510][687]LogSkeletalMesh: Section 9: 72 vertices, 2 active bones
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 0: Material=0, 2456 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 1: Material=1, 325 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 2: Material=2, 72 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 3: Material=3, 4272 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 4: Material=4, 340 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 5: Material=5, 60 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 6: Material=6, 40 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 7: Material=7, 11092 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 8: Material=8, 10973 triangles
+[2017.12.22-21.59.41:561][687]LogSkeletalMesh: Section 9: Material=9, 92 triangles
+[2017.12.22-21.59.41:580][687]LogEditorFactories: -- imported successfully
+[2017.12.22-21.59.41:596][687]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.12.22-22.00.05:879][635]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.22-22.00.05:925][635]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.22-22.00.50:584][188]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2017.12.22-22.01.11:989][339]Cmd: MODE SCALEGRID=0
+[2017.12.22-22.01.32:563][311]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.22-22.02.32:507][ 76]BlueprintLog: New page: Compile Player_One
+[2017.12.22-22.02.39:923][844]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.22-22.02.40:006][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.22-22.02.40:007][844]PIE: New page: PIE session: Arena1 (Dec 23, 2017, 12:02:40 AM)
+[2017.12.22-22.02.40:007][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2017.12.22-22.02.40:018][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011454s)
+[2017.12.22-22.02.40:019][844]LogAIModule: Creating AISystem for world Arena1
+[2017.12.22-22.02.40:019][844]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2017.12.22-22.02.40:020][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012813s)
+[2017.12.22-22.02.40:170][844]LogLoad: Game class is 'ArenaPlay_C'
+[2017.12.22-22.02.40:173][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2017.12.22-23.02.40
+[2017.12.22-22.02.40:173][844]LogWorld: Bringing up level for play took: 0.002568
+[2017.12.22-22.02.40:221][844]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.22-22.02.40:225][844]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 1.217
+[2017.12.22-22.02.40:256][844]LogRenderer: Reallocating scene render targets to support 1292x832 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-22.02.57:912][726]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2017.12.22-22.02.57:912][726]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2017.12.22-22.03.05:683][410]BlueprintLog: New page: Compile Player_One
+[2017.12.22-22.03.07:907][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2017.12.22-22.03.08:288][576]LogSavePackage: Save=345.38ms
+[2017.12.22-22.03.08:288][576]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_One9C0EF8A748F44A85AC1ED6910B608E6E.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset'
+[2017.12.22-22.03.08:292][576]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset
+[2017.12.22-22.03.18:191][325]Cmd: QUIT_EDITOR
+[2017.12.22-22.03.18:293][325]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.22-22.03.18:323][325]LogExit: Preparing to exit.
+[2017.12.22-22.03.19:389][325]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2017.12.22-22.03.19:443][325]LogExit: Editor shut down
+[2017.12.22-22.03.19:449][325]LogExit: Transaction tracking system shut down
+[2017.12.22-22.03.19:616][325]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.22-22.03.19:617][325]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2017.12.22-22.03.19:617][325]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.22-22.03.19:617][325]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.22-22.03.19:617][325]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.22-22.03.19:617][325]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.22-22.03.19:617][325]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.22-22.03.19:761][325]LogExit: Object subsystem successfully closed.
+[2017.12.22-22.03.19:779][325]LogD3D11RHI: Shutdown
+[2017.12.22-22.03.19:779][325]LogD3D11RHI: CleanupD3DDevice
+[2017.12.22-22.03.19:782][325]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (558)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module MaterialEditor (554)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (552)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module SkeletonEditor (550)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.22-22.03.19:798][325]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.22-22.03.19:798][325]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.22-22.03.19:824][325]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.22-22.03.19:824][325]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.22-22.03.19:824][325]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.22-22.03.19:825][325]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' was aborted.
+[2017.12.22-22.03.19:825][325]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' was aborted.
+[2017.12.22-22.03.19:825][325]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' was aborted.
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.22-22.03.19:825][325]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.22-22.03.19:826][325]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.22-22.03.20:417][325]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.22-22.03.20:418][325]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.22-22.03.20:462][325]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.22-22.03.20:462][325]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.22-22.03.20:462][325]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.22-22.03.20:462][325]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.22-22.03.20:462][325]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.22-22.03.20:462][325]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.22-22.03.20:463][325]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.22-22.03.20:463][325]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.22-22.03.20:463][325]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.22-22.03.20:463][325]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.22-22.03.20:473][325]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.22-22.03.20:476][325]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.22-22.03.20:682][325]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.22-22.03.20:682][325]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.22-22.03.20:682][325]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.22-22.03.20:682][325]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.22-22.03.20:683][325]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.22-22.03.20:684][325]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.22-22.03.20:685][325]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.22-22.03.20:685][325]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.22-22.03.20:685][325]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.22-22.03.20:686][325]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.22-22.03.20:787][325]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.22-22.03.20:887][325]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.22-22.03.20:887][325]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.22-22.03.20:887][325]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.22-22.03.20:887][325]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.22-22.03.20:887][325]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.22-22.03.20:887][325]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.22-22.03.20:888][325]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.22-22.03.20:888][325]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.22-22.03.20:888][325]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.22-22.03.20:888][325]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.22-22.03.20:889][325]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.22-22.03.20:889][325]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.22-22.03.20:889][325]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.22-22.03.20:889][325]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.22-22.03.20:889][325]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.22-22.03.20:889][325]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.22-22.03.20:895][325]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.22-22.03.20:895][325]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.22-22.03.20:896][325]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.22-22.03.20:898][325]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.22-22.03.20:898][325]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.22-22.03.20:898][325]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.22-22.03.20:898][325]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.22-22.03.20:898][325]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.22-22.03.20:899][325]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.22-22.03.20:986][325]LogDerivedDataCache: Shutdown
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.22-22.03.20:986][325]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.22-22.03.20:987][325]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.22-22.03.20:987][325]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.22-22.03.20:987][325]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B478C8E-4355-44FC-BCF5-E9BE079C9856%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0f819dde4a3301700e3c92be97adbf7c%7C7fb0b03c6dec40ebb9abf228ffb5ef91%7C16f2fa0e-04fd-479c-a6bc-11ed19de6989&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.22-22.03.20:998][325]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.22-22.03.20:999][325]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.22-22.03.21:002][325]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.22-22.03.21:002][325]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.22-22.03.21:002][325]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.22-22.03.21:002][325]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.22-22.03.21:002][325]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.22-22.03.21:002][325]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.22-22.03.21:003][325]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.22-22.03.21:004][325]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.22-22.03.21:004][325]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.22-22.03.21:004][325]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.22-22.03.21:006][325]LogExit: Exiting.
+[2017.12.22-22.03.21:039][325]Log file closed, 12/22/17 23:03:21
