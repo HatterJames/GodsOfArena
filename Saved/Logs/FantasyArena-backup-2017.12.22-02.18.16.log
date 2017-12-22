@@ -1,0 +1,1128 @@
+﻿Log file open, 12/22/17 01:55:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-626736031) SRandInit(-626736030).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.142161
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.22-00.55.20:100][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.22-00.55.20:100][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.22-00.55.20:134][  0]LogInit: Computer: KLOBUK
+[2017.12.22-00.55.20:134][  0]LogInit: User: Jakub
+[2017.12.22-00.55.20:134][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.22-00.55.20:134][  0]LogInit: High frequency timer resolution =3.514609 MHz
+[2017.12.22-00.55.20:135][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.22-00.55.20:135][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.22-00.55.20:135][  0]LogMemory: Process Physical Memory: 270.59 MB used, 270.59 MB peak
+[2017.12.22-00.55.20:135][  0]LogMemory: Process Virtual Memory: 271.15 MB used, 271.15 MB peak
+[2017.12.22-00.55.20:135][  0]LogMemory: Physical Memory: 1677.34 MB used,  6454.44 MB free, 8131.79 MB total
+[2017.12.22-00.55.20:135][  0]LogMemory: Virtual Memory: 624.48 MB used,  6454.44 MB free, 134217728.00 MB total
+[2017.12.22-00.55.21:276][  0]LogInit: Using OS detected language (en-US).
+[2017.12.22-00.55.21:276][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.22-00.55.21:522][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.22-00.55.21:523][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.22-00.55.23:050][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.22-00.55.27:980][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.22-00.55.28:007][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.22-00.55.28:007][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.22-00.55.28:011][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.22-00.55.28:011][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.22-00.55.28:011][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.22-00.55.28:016][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.22-00.55.28:017][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.22-00.55.28:017][  0]LogWindows: EnumDisplayDevices:
+[2017.12.22-00.55.28:017][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.22-00.55.28:018][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.22-00.55.28:018][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.22-00.55.28:018][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.22-00.55.28:018][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.22-00.55.28:018][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.22-00.55.28:018][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.22-00.55.28:018][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.22-00.55.28:018][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.22-00.55.28:033][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.22-00.55.28:063][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.22-00.55.28:069][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/5104/).
+[2017.12.22-00.55.28:070][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/89D24EDB4841F0ABCAC9A7801F7A729B/'.
+[2017.12.22-00.55.28:070][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.22-00.55.31:108][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.22-00.55.31:162][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.22-00.55.31:230][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.22-00.55.31:318][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.22-00.55.31:411][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.22-00.55.31:472][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.22-00.55.31:597][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.22-00.55.31:704][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.22-00.55.31:791][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.22-00.55.31:865][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.22-00.55.31:940][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.22-00.55.32:011][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.22-00.55.32:072][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.22-00.55.32:151][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.22-00.55.32:305][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.22-00.55.32:305][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.22-00.55.32:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.22-00.55.32:473][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.22-00.55.32:576][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.22-00.55.32:614][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.22-00.55.32:669][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.22-00.55.32:722][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.22-00.55.32:774][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.22-00.55.32:834][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.22-00.55.32:835][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.22-00.55.33:577][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.22-00.55.34:100][  0]LogDerivedDataCache: Loaded boot cache 0.52s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.22-00.55.34:101][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.22-00.55.34:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.22-00.55.34:101][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.22-00.55.34:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.22-00.55.34:101][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.22-00.55.34:137][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.22-00.55.34:149][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.22-00.55.34:162][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.22-00.55.34:165][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.22-00.55.34:186][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-00.55.34:186][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.22-00.55.35:302][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.22-00.55.35:972][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.22-00.55.36:023][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.22-00.55.36:023][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.22-00.55.36:023][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.22-00.55.36:023][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.22-00.55.36:023][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.22-00.55.36:097][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.22-00.55.36:533][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2017.12.22-00.55.37:758][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.094667 seconds
+[2017.12.22-00.55.37:766][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.22-00.55.37:766][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.22-00.55.37:766][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.22-00.55.37:829][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.22-00.55.45:135][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.22-00.55.45:178][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.22-00.55.46:366][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.22-00.55.47:133][  0]SourceControl: Source control is disabled
+[2017.12.22-00.55.49:130][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.22-00.55.49:419][  0]LogOcInput: OculusInput pre-init called
+[2017.12.22-00.55.49:811][  0]LogEngine: Initializing Engine...
+[2017.12.22-00.55.49:816][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.22-00.55.50:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.22-00.55.50:441][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.22-00.55.50:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.22-00.55.50:642][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.22-00.55.50:665][  0]LogInit: FAudioDevice initialized.
+[2017.12.22-00.55.50:783][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.22-00.55.50:804][  0]LogInit: Texture streaming: Enabled
+[2017.12.22-00.55.50:925][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.22-00.55.51:082][  0]LogInit: Transaction tracking system initialized
+[2017.12.22-00.55.51:483][  0]BlueprintLog: New page: Editor Load
+[2017.12.22-00.55.53:065][  0]LocalizationService: Localization service is disabled
+[2017.12.22-00.55.54:708][  0]LogConsoleResponse: Display: 
+[2017.12.22-00.55.55:777][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.22-00.55.55:778][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.22-00.55.55:778][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.22-00.55.55:843][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.02s
+[2017.12.22-00.55.58:850][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.22-00.55.58:852][  0]LightingResults: New page: Lighting Build
+[2017.12.22-00.55.58:960][  0]MapCheck: New page: Map Check
+[2017.12.22-00.55.58:960][  0]LightingResults: New page: Lighting Build
+[2017.12.22-00.56.02:372][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.22-00.56.59:446][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.22-00.56.59:782][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.22-00.56.59:809][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.22-00.56.59:884][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.957ms to complete.
+[2017.12.22-00.56.59:884][  0]LogFileHelpers: Loading map 'Arena1' took 61.036
+[2017.12.22-00.57.00:166][  0]LogCollectionManager: Loaded 0 collections in 0.002602 seconds
+[2017.12.22-00.57.00:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
+[2017.12.22-00.57.00:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.22-00.57.00:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.01s
+[2017.12.22-00.57.00:277][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.22-00.57.00:292][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2363 classes and 519 folders.
+[2017.12.22-00.57.00:374][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.22-00.57.00:953][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.22-00.57.01:023][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.22-00.57.01:080][  0]LogSlate: Took 0.012253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-00.57.01:089][  0]LogSlate: Took 0.006854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.22-00.57.01:104][  0]LogSlate: Took 0.007492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.22-00.57.01:361][  0]LogRenderer: Reallocating scene render targets to support 1112x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-00.57.01:707][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.22-00.57.01:707][  0]LogLoad: (Engine Initialization) Total time: 105.57 seconds
+[2017.12.22-00.57.01:707][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.22-00.57.01:707][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.22-00.57.01:708][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.22-00.57.02:066][  0]SourceControl: On branch master
+[2017.12.22-00.57.02:066][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.22-00.57.02:066][  0]SourceControl: Changes not staged for commit:
+[2017.12.22-00.57.02:066][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.22-00.57.02:066][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.22-00.57.02:066][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.22-00.57.02:066][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2017.12.22-00.57.02:066][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2017.12.22-00.57.02:066][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.20-12.54.26.log
+[2017.12.22-00.57.02:066][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.22-00.57.02:066][  0]SourceControl: Untracked files:
+[2017.12.22-00.57.02:066][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.22-00.57.02:066][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-A73D233749413685E8E210B6EF36C70F/
+[2017.12.22-00.57.02:066][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.22-01.55.18.log
+[2017.12.22-00.57.02:066][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.12.22-00.57.02:066][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.22-00.57.02:719][  2]LogAssetRegistry: Asset discovery search completed in 86.2097 seconds
+[2017.12.22-00.57.02:723][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.22-00.57.02:723][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2017.12.22-00.57.06:402][ 13]LogSlate: Took 0.008150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-01.04.14:320][480]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-01.04.14:410][480]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\3D\Game_content\Characters\Human\Male\ManLP_forMixamo.obj)
+[2017.12.22-01.04.14:462][480]LogFbx: Loading FBX Scene from E:\3D\Game_content\Characters\Human\Male\ManLP_forMixamo.obj
+[2017.12.22-01.04.14:951][480]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-01.04.19:324][480]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.22-01.04.24:605][480]LogFbx: Loading FBX Scene from E:\3D\Game_content\Characters\Human\Male\ManLP_forMixamo.obj
+[2017.12.22-01.04.25:139][480]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-01.04.25:141][480]LogFbx: =================================================
+[2017.12.22-01.04.25:142][480]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.04.25:142][480]LogFbx: 	Total Deformer Count 220482936.
+[2017.12.22-01.04.25:142][480]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.04.25:142][480]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.04.25:142][480]LogFbx: Dumping Node END [default]
+[2017.12.22-01.04.25:142][480]LogFbx: =================================================
+[2017.12.22-01.04.25:142][480]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.04.25:142][480]LogFbx: 	Total Deformer Count 220482824.
+[2017.12.22-01.04.25:142][480]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.04.25:142][480]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.04.25:142][480]LogFbx: Dumping Node END [default]
+[2017.12.22-01.04.25:142][480]LogFbx: =================================================
+[2017.12.22-01.04.25:142][480]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.04.25:142][480]LogFbx: 	Total Deformer Count 220482824.
+[2017.12.22-01.04.25:142][480]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.04.25:142][480]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.04.25:142][480]LogFbx: Dumping Node END [default]
+[2017.12.22-01.04.25:149][480]LogLinker: Can't find file '/Game/Characters/Man/zuby'
+[2017.12.22-01.04.25:149][480]LogLinker: Can't find file '/Game/Characters/Man/zuby'
+[2017.12.22-01.04.25:150][480]LogMaterial: Warning: Material /Game/Characters/Man/zuby.zuby needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.25:154][480]LogMaterial: Missing cached shader map for material zuby, compiling. 
+[2017.12.22-01.04.25:237][480]LogLinker: Can't find file '/Game/Characters/Man/Teeth_COL'
+[2017.12.22-01.04.25:238][480]LogLinker: Can't find file '/Game/Characters/Man/Teeth_COL'
+[2017.12.22-01.04.26:952][480]LogTexture: Display: Building textures: Teeth_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.04.30:565][480]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.22-01.04.30:593][480]LogMaterial: Missing cached shader map for material zuby, compiling. 
+[2017.12.22-01.04.30:710][480]LogLinker: Can't find file '/Game/Characters/Man/dasna'
+[2017.12.22-01.04.30:710][480]LogLinker: Can't find file '/Game/Characters/Man/dasna'
+[2017.12.22-01.04.30:710][480]LogMaterial: Warning: Material /Game/Characters/Man/dasna.dasna needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.30:717][480]LogMaterial: Missing cached shader map for material dasna, compiling. 
+[2017.12.22-01.04.32:104][480]LogTexture: Display: Building textures: Teeth_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.04.35:710][480]LogMaterial: Missing cached shader map for material dasna, compiling. 
+[2017.12.22-01.04.35:837][480]LogLinker: Can't find file '/Game/Characters/Man/krajicekoka'
+[2017.12.22-01.04.35:837][480]LogLinker: Can't find file '/Game/Characters/Man/krajicekoka'
+[2017.12.22-01.04.35:837][480]LogMaterial: Warning: Material /Game/Characters/Man/krajicekoka.krajicekoka needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.35:842][480]LogMaterial: Missing cached shader map for material krajicekoka, compiling. 
+[2017.12.22-01.04.35:971][480]LogLinker: Can't find file '/Game/Characters/Man/Lowereyes_COL'
+[2017.12.22-01.04.35:971][480]LogLinker: Can't find file '/Game/Characters/Man/Lowereyes_COL'
+[2017.12.22-01.04.37:299][480]LogTexture: Display: Building textures: Lowereyes_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.04.40:939][480]LogMaterial: Missing cached shader map for material krajicekoka, compiling. 
+[2017.12.22-01.04.41:060][480]LogLinker: Can't find file '/Game/Characters/Man/krajicekoka_Lacrimal'
+[2017.12.22-01.04.41:060][480]LogLinker: Can't find file '/Game/Characters/Man/krajicekoka_Lacrimal'
+[2017.12.22-01.04.41:060][480]LogMaterial: Warning: Material /Game/Characters/Man/krajicekoka_Lacrimal.krajicekoka_Lacrimal needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.41:066][480]LogMaterial: Missing cached shader map for material krajicekoka_Lacrimal, compiling. 
+[2017.12.22-01.04.41:198][480]LogLinker: Can't find file '/Game/Characters/Man/Lacrimal_COL'
+[2017.12.22-01.04.41:199][480]LogLinker: Can't find file '/Game/Characters/Man/Lacrimal_COL'
+[2017.12.22-01.04.42:729][480]LogTexture: Display: Building textures: Lacrimal_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.04.46:991][480]LogMaterial: Missing cached shader map for material krajicekoka_Lacrimal, compiling. 
+[2017.12.22-01.04.47:146][480]LogLinker: Can't find file '/Game/Characters/Man/riasy'
+[2017.12.22-01.04.47:146][480]LogLinker: Can't find file '/Game/Characters/Man/riasy'
+[2017.12.22-01.04.47:146][480]LogMaterial: Warning: Material /Game/Characters/Man/riasy.riasy needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.47:151][480]LogMaterial: Missing cached shader map for material riasy, compiling. 
+[2017.12.22-01.04.47:283][480]LogLinker: Can't find file '/Game/Characters/Man/Eyelash_COL'
+[2017.12.22-01.04.47:283][480]LogLinker: Can't find file '/Game/Characters/Man/Eyelash_COL'
+[2017.12.22-01.04.49:194][480]LogTexture: Display: Building textures: Eyelash_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.04.51:867][480]LogMaterial: Missing cached shader map for material riasy, compiling. 
+[2017.12.22-01.04.52:016][480]LogLinker: Can't find file '/Game/Characters/Man/eyewhite'
+[2017.12.22-01.04.52:016][480]LogLinker: Can't find file '/Game/Characters/Man/eyewhite'
+[2017.12.22-01.04.52:017][480]LogMaterial: Warning: Material /Game/Characters/Man/eyewhite.eyewhite needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.52:024][480]LogMaterial: Missing cached shader map for material eyewhite, compiling. 
+[2017.12.22-01.04.52:150][480]LogLinker: Can't find file '/Game/Characters/Man/Eyes_COL'
+[2017.12.22-01.04.52:150][480]LogLinker: Can't find file '/Game/Characters/Man/Eyes_COL'
+[2017.12.22-01.04.53:741][480]LogTexture: Display: Building textures: Eyes_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.04.57:911][480]LogMaterial: Missing cached shader map for material eyewhite, compiling. 
+[2017.12.22-01.04.58:064][480]LogLinker: Can't find file '/Game/Characters/Man/zrenicka'
+[2017.12.22-01.04.58:064][480]LogLinker: Can't find file '/Game/Characters/Man/zrenicka'
+[2017.12.22-01.04.58:065][480]LogMaterial: Warning: Material /Game/Characters/Man/zrenicka.zrenicka needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.04.58:069][480]LogMaterial: Missing cached shader map for material zrenicka, compiling. 
+[2017.12.22-01.04.59:872][480]LogTexture: Display: Building textures: Eyes_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.05.04:116][480]LogMaterial: Missing cached shader map for material zrenicka, compiling. 
+[2017.12.22-01.05.04:252][480]LogLinker: Can't find file '/Game/Characters/Man/iris'
+[2017.12.22-01.05.04:252][480]LogLinker: Can't find file '/Game/Characters/Man/iris'
+[2017.12.22-01.05.04:253][480]LogMaterial: Warning: Material /Game/Characters/Man/iris.iris needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.05.04:258][480]LogMaterial: Missing cached shader map for material iris, compiling. 
+[2017.12.22-01.05.05:925][480]LogTexture: Display: Building textures: Eyes_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.05.10:128][480]LogMaterial: Missing cached shader map for material iris, compiling. 
+[2017.12.22-01.05.10:268][480]LogLinker: Can't find file '/Game/Characters/Man/skin'
+[2017.12.22-01.05.10:268][480]LogLinker: Can't find file '/Game/Characters/Man/skin'
+[2017.12.22-01.05.10:269][480]LogMaterial: Warning: Material /Game/Characters/Man/skin.skin needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.05.10:276][480]LogMaterial: Missing cached shader map for material skin, compiling. 
+[2017.12.22-01.05.10:397][480]LogLinker: Can't find file '/Game/Characters/Man/Body_COL'
+[2017.12.22-01.05.10:398][480]LogLinker: Can't find file '/Game/Characters/Man/Body_COL'
+[2017.12.22-01.05.12:268][480]LogTexture: Display: Building textures: Body_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.05.16:971][480]LogMaterial: Missing cached shader map for material skin, compiling. 
+[2017.12.22-01.05.17:114][480]LogLinker: Can't find file '/Game/Characters/Man/inlips'
+[2017.12.22-01.05.17:115][480]LogLinker: Can't find file '/Game/Characters/Man/inlips'
+[2017.12.22-01.05.17:115][480]LogMaterial: Warning: Material /Game/Characters/Man/inlips.inlips needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.05.17:122][480]LogMaterial: Missing cached shader map for material inlips, compiling. 
+[2017.12.22-01.05.19:556][480]LogTexture: Display: Building textures: Body_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.05.23:368][480]LogMaterial: Missing cached shader map for material inlips, compiling. 
+[2017.12.22-01.05.23:520][480]LogLinker: Can't find file '/Game/Characters/Man/lips'
+[2017.12.22-01.05.23:520][480]LogLinker: Can't find file '/Game/Characters/Man/lips'
+[2017.12.22-01.05.23:520][480]LogMaterial: Warning: Material /Game/Characters/Man/lips.lips needed to have new flag set bUsedWithSkeletalMesh !
+[2017.12.22-01.05.23:531][480]LogMaterial: Missing cached shader map for material lips, compiling. 
+[2017.12.22-01.05.25:437][480]LogTexture: Display: Building textures: Body_COL (AutoDXT, 4096X4096)
+[2017.12.22-01.05.30:089][480]LogMaterial: Missing cached shader map for material lips, compiling. 
+[2017.12.22-01.05.30:198][480]LogFbx: Triangulating skeletal mesh default
+[2017.12.22-01.05.30:744][480]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.12.22-01.05.31:875][480]LogSkeletalMesh: Section 0: 1704 vertices, 1 active bones
+[2017.12.22-01.05.31:875][480]LogSkeletalMesh: Section 1: 213 vertices, 1 active bones
+[2017.12.22-01.05.31:875][480]LogSkeletalMesh: Section 2: 56 vertices, 1 active bones
+[2017.12.22-01.05.31:875][480]LogSkeletalMesh: Section 3: 20 vertices, 1 active bones
+[2017.12.22-01.05.31:877][480]LogSkeletalMesh: Section 4: 9255 vertices, 1 active bones
+[2017.12.22-01.05.31:877][480]LogSkeletalMesh: Section 5: 182 vertices, 1 active bones
+[2017.12.22-01.05.31:877][480]LogSkeletalMesh: Section 6: 42 vertices, 1 active bones
+[2017.12.22-01.05.31:877][480]LogSkeletalMesh: Section 7: 40 vertices, 1 active bones
+[2017.12.22-01.05.31:878][480]LogSkeletalMesh: Section 8: 6558 vertices, 1 active bones
+[2017.12.22-01.05.31:878][480]LogSkeletalMesh: Section 9: 5999 vertices, 1 active bones
+[2017.12.22-01.05.31:878][480]LogSkeletalMesh: Section 10: 72 vertices, 1 active bones
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 0: Material=0, 2456 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 1: Material=1, 325 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 2: Material=2, 56 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 3: Material=3, 16 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 4: Material=4, 4272 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 5: Material=5, 340 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 6: Material=6, 60 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 7: Material=7, 40 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 8: Material=8, 11092 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 9: Material=9, 10973 triangles
+[2017.12.22-01.05.33:539][480]LogSkeletalMesh: Section 10: Material=10, 92 triangles
+[2017.12.22-01.05.33:569][480]LogLinker: Can't find file '/Game/Characters/Man/ManLP_forMixamo_default_Skeleton'
+[2017.12.22-01.05.33:569][480]LogLinker: Can't find file '/Game/Characters/Man/ManLP_forMixamo_default_Skeleton'
+[2017.12.22-01.05.33:573][480]LogLinker: Can't find file '/Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset'
+[2017.12.22-01.05.33:573][480]LogLinker: Can't find file '/Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset'
+[2017.12.22-01.05.33:593][480]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.12.22-01.05.33:779][481]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository
+[2017.12.22-01.06.39:629][647]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.12.22-01.06.40:118][647]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.22-01.06.40:190][647]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.22-01.06.40:825][647]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2017.12.22-01.06.40:832][647]LogRenderer: Reallocating scene render targets to support 1144x888 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-01.07.12:600][531]LogSlate: Took 0.009735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.22-01.08.08:298][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.025
+[2017.12.22-01.08.08:300][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/ManLP_forMixamo] ([1] browsable assets)...
+[2017.12.22-01.08.08:317][668]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Man/ManLP_forMixamo.ManLP_forMixamo_default]
+[2017.12.22-01.08.08:318][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/ManLP_forMixamo]
+[2017.12.22-01.08.08:377][668]LogSavePackage: Save=56.75ms
+[2017.12.22-01.08.08:377][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_forMixamo_Auto179BA96934A6C72EE0318818BEB474493.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_forMixamo_Auto1.uasset'
+[2017.12.22-01.08.08:380][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_forMixamo_Auto1.uasset
+[2017.12.22-01.08.08:381][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/zuby] ([1] browsable assets)...
+[2017.12.22-01.08.08:397][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/zuby.zuby]
+[2017.12.22-01.08.08:397][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/zuby]
+[2017.12.22-01.08.08:397][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/zuby" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/zuby_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.08:418][668]LogSavePackage: Save=18.34ms
+[2017.12.22-01.08.08:418][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/zuby_Auto10E0939F24E90CE55B64CFDBF7BE1DBA7.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/zuby_Auto1.uasset'
+[2017.12.22-01.08.08:419][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/zuby_Auto1.uasset
+[2017.12.22-01.08.08:420][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Teeth_COL] ([1] browsable assets)...
+[2017.12.22-01.08.08:430][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Teeth_COL.Teeth_COL]
+[2017.12.22-01.08.08:430][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Teeth_COL]
+[2017.12.22-01.08.08:678][668]LogSavePackage: Save=246.51ms
+[2017.12.22-01.08.08:678][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Teeth_COL_Auto11E02058147CE98F126D048B8781238B3.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Teeth_COL_Auto1.uasset'
+[2017.12.22-01.08.08:679][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Teeth_COL_Auto1.uasset
+[2017.12.22-01.08.08:680][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/dasna] ([1] browsable assets)...
+[2017.12.22-01.08.08:696][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/dasna.dasna]
+[2017.12.22-01.08.08:696][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/dasna]
+[2017.12.22-01.08.08:696][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/dasna" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/dasna_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.08:716][668]LogSavePackage: Save=18.40ms
+[2017.12.22-01.08.08:716][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/dasna_Auto1BA096A3E459CEEC973239085FC6EDE43.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/dasna_Auto1.uasset'
+[2017.12.22-01.08.08:717][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/dasna_Auto1.uasset
+[2017.12.22-01.08.08:717][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/krajicekoka] ([1] browsable assets)...
+[2017.12.22-01.08.08:734][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/krajicekoka.krajicekoka]
+[2017.12.22-01.08.08:734][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/krajicekoka]
+[2017.12.22-01.08.08:754][668]LogSavePackage: Save=17.37ms
+[2017.12.22-01.08.08:754][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/krajicekoka_Auto1B34382F04A6C216BED78858F50A23068.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/krajicekoka_Auto1.uasset'
+[2017.12.22-01.08.08:755][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/krajicekoka_Auto1.uasset
+[2017.12.22-01.08.08:756][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Lowereyes_COL] ([1] browsable assets)...
+[2017.12.22-01.08.08:765][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Lowereyes_COL.Lowereyes_COL]
+[2017.12.22-01.08.08:766][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Lowereyes_COL]
+[2017.12.22-01.08.09:005][668]LogSavePackage: Save=237.16ms
+[2017.12.22-01.08.09:005][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Lowereyes_COL_Auto15B782E5843E14EACD616F6894CDFAE04.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Lowereyes_COL_Auto1.uasset'
+[2017.12.22-01.08.09:006][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Lowereyes_COL_Auto1.uasset
+[2017.12.22-01.08.09:007][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/krajicekoka_Lacrimal] ([1] browsable assets)...
+[2017.12.22-01.08.09:023][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/krajicekoka_Lacrimal.krajicekoka_Lacrimal]
+[2017.12.22-01.08.09:023][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/krajicekoka_Lacrimal]
+[2017.12.22-01.08.09:044][668]LogSavePackage: Save=17.50ms
+[2017.12.22-01.08.09:044][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/krajicekoka_Lacrimal_Auto13068FDBC469FAA9C54A0BCA68E6DE9E2.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/krajicekoka_Lacrimal_Auto1.uasset'
+[2017.12.22-01.08.09:045][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/krajicekoka_Lacrimal_Auto1.uasset
+[2017.12.22-01.08.09:046][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Lacrimal_COL] ([1] browsable assets)...
+[2017.12.22-01.08.09:054][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Lacrimal_COL.Lacrimal_COL]
+[2017.12.22-01.08.09:054][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Lacrimal_COL]
+[2017.12.22-01.08.09:293][668]LogSavePackage: Save=237.71ms
+[2017.12.22-01.08.09:293][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Lacrimal_COL_Auto14CDC92E449A36B4827C4D19459402F92.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Lacrimal_COL_Auto1.uasset'
+[2017.12.22-01.08.09:294][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Lacrimal_COL_Auto1.uasset
+[2017.12.22-01.08.09:294][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/riasy] ([1] browsable assets)...
+[2017.12.22-01.08.09:308][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/riasy.riasy]
+[2017.12.22-01.08.09:308][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/riasy]
+[2017.12.22-01.08.09:308][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/riasy" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/riasy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.09:328][668]LogSavePackage: Save=17.46ms
+[2017.12.22-01.08.09:328][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/riasy_Auto1702EAC6F4A44D54A6EF0D39ACA125EF4.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/riasy_Auto1.uasset'
+[2017.12.22-01.08.09:329][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/riasy_Auto1.uasset
+[2017.12.22-01.08.09:329][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Eyelash_COL] ([1] browsable assets)...
+[2017.12.22-01.08.09:335][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Eyelash_COL.Eyelash_COL]
+[2017.12.22-01.08.09:335][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Eyelash_COL]
+[2017.12.22-01.08.09:579][668]LogSavePackage: Save=240.26ms
+[2017.12.22-01.08.09:579][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Eyelash_COL_Auto1D40308B449A2BF8864E699B72B78BBBB.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Eyelash_COL_Auto1.uasset'
+[2017.12.22-01.08.09:580][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Eyelash_COL_Auto1.uasset
+[2017.12.22-01.08.09:581][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/eyewhite] ([1] browsable assets)...
+[2017.12.22-01.08.09:597][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/eyewhite.eyewhite]
+[2017.12.22-01.08.09:597][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/eyewhite]
+[2017.12.22-01.08.09:613][668]LogSavePackage: Save=14.14ms
+[2017.12.22-01.08.09:613][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/eyewhite_Auto1B02E71E54E127A4F37B793A0EC9CD6D4.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/eyewhite_Auto1.uasset'
+[2017.12.22-01.08.09:614][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/eyewhite_Auto1.uasset
+[2017.12.22-01.08.09:615][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Eyes_COL] ([1] browsable assets)...
+[2017.12.22-01.08.09:623][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Eyes_COL.Eyes_COL]
+[2017.12.22-01.08.09:623][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Eyes_COL]
+[2017.12.22-01.08.09:900][668]LogSavePackage: Save=274.45ms
+[2017.12.22-01.08.09:900][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Eyes_COL_Auto1CE0C9677423E63B15E6A8AB3C3272A63.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Eyes_COL_Auto1.uasset'
+[2017.12.22-01.08.09:901][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Eyes_COL_Auto1.uasset
+[2017.12.22-01.08.09:901][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/zrenicka] ([1] browsable assets)...
+[2017.12.22-01.08.09:915][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/zrenicka.zrenicka]
+[2017.12.22-01.08.09:915][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/zrenicka]
+[2017.12.22-01.08.09:933][668]LogSavePackage: Save=15.28ms
+[2017.12.22-01.08.09:933][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/zrenicka_Auto1F7322BBC4D301F0183E3BE9347E919BE.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/zrenicka_Auto1.uasset'
+[2017.12.22-01.08.09:934][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/zrenicka_Auto1.uasset
+[2017.12.22-01.08.09:935][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/iris] ([1] browsable assets)...
+[2017.12.22-01.08.09:950][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/iris.iris]
+[2017.12.22-01.08.09:950][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/iris]
+[2017.12.22-01.08.09:950][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/iris" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/iris_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.09:968][668]LogSavePackage: Save=15.99ms
+[2017.12.22-01.08.09:968][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/iris_Auto1623BF03C498D691760F7E6928DF01428.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/iris_Auto1.uasset'
+[2017.12.22-01.08.09:970][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/iris_Auto1.uasset
+[2017.12.22-01.08.09:970][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/skin] ([1] browsable assets)...
+[2017.12.22-01.08.09:984][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/skin.skin]
+[2017.12.22-01.08.09:984][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/skin]
+[2017.12.22-01.08.09:984][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/skin" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/skin_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.10:001][668]LogSavePackage: Save=14.66ms
+[2017.12.22-01.08.10:001][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/skin_Auto172A0C2FC4C8AB0385EF1A0AF4CED14D4.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/skin_Auto1.uasset'
+[2017.12.22-01.08.10:002][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/skin_Auto1.uasset
+[2017.12.22-01.08.10:003][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/Body_COL] ([1] browsable assets)...
+[2017.12.22-01.08.10:013][668]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Man/Body_COL.Body_COL]
+[2017.12.22-01.08.10:013][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/Body_COL]
+[2017.12.22-01.08.10:254][668]LogSavePackage: Save=240.06ms
+[2017.12.22-01.08.10:255][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Body_COL_Auto144D5B52E4ACEC56F5937FE8D0241BF49.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Body_COL_Auto1.uasset'
+[2017.12.22-01.08.10:256][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/Body_COL_Auto1.uasset
+[2017.12.22-01.08.10:256][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/inlips] ([1] browsable assets)...
+[2017.12.22-01.08.10:271][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/inlips.inlips]
+[2017.12.22-01.08.10:272][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/inlips]
+[2017.12.22-01.08.10:272][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/inlips" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/inlips_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.10:289][668]LogSavePackage: Save=15.81ms
+[2017.12.22-01.08.10:289][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/inlips_Auto10E22AB2D4012CE72AEB40F9062F843FB.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/inlips_Auto1.uasset'
+[2017.12.22-01.08.10:291][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/inlips_Auto1.uasset
+[2017.12.22-01.08.10:291][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/lips] ([1] browsable assets)...
+[2017.12.22-01.08.10:306][668]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Man/lips.lips]
+[2017.12.22-01.08.10:306][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/lips]
+[2017.12.22-01.08.10:306][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Man/lips" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/lips_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.22-01.08.10:324][668]LogSavePackage: Save=16.15ms
+[2017.12.22-01.08.10:324][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/lips_Auto15A84AAC14547598D5926068339487105.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/lips_Auto1.uasset'
+[2017.12.22-01.08.10:325][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/lips_Auto1.uasset
+[2017.12.22-01.08.10:326][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Man/ManLP_forMixamo_default_Skeleton] ([1] browsable assets)...
+[2017.12.22-01.08.10:326][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/ManLP_forMixamo_default_Skeleton]
+[2017.12.22-01.08.10:335][668]LogSavePackage: Save=6.08ms
+[2017.12.22-01.08.10:335][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_forMixamo_default_SkeletonA77E5B4F4F562E5F1D8B08981EB0F03E.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_forMixamo_default_Skeleton_Auto1.uasset'
+[2017.12.22-01.08.10:336][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_forMixamo_default_Skeleton_Auto1.uasset
+[2017.12.22-01.08.10:336][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset] ([1] browsable assets)...
+[2017.12.22-01.08.10:353][668]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset.ManLP_forMixamo_default_PhysicsAsset]
+[2017.12.22-01.08.10:353][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset]
+[2017.12.22-01.08.10:369][668]LogSavePackage: Save=12.61ms
+[2017.12.22-01.08.10:369][668]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/ManLP_forMixamo_default_PhysicsA789583D64E8D893B0D49478ECFD06A98.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset_Auto1.uasset'
+[2017.12.22-01.08.10:370][668]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Characters/Man/ManLP_forMixamo_default_PhysicsAsset_Auto1.uasset
+[2017.12.22-01.08.10:370][668]LogFileHelpers: Auto-saving content packages took 2.071
+[2017.12.22-01.08.17:037][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.12.22-01.08.17:087][ 99]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.12.22-01.09.15:149][636]LogEditorFactories: Performing atomic reimport of [E:/3D/Game_content/Characters/Human/Male/ManLP_forMixamo.obj]
+[2017.12.22-01.09.15:186][636]LogFbx: Loading FBX Scene from E:/3D/Game_content/Characters/Human/Male/ManLP_forMixamo.obj
+[2017.12.22-01.09.15:583][636]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-01.09.15:585][636]LogFbx: =================================================
+[2017.12.22-01.09.15:585][636]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.09.15:585][636]LogFbx: 	Total Deformer Count -1542700800.
+[2017.12.22-01.09.15:585][636]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.09.15:585][636]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.09.15:585][636]LogFbx: Dumping Node END [default]
+[2017.12.22-01.09.15:585][636]LogFbx: =================================================
+[2017.12.22-01.09.15:585][636]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.09.15:585][636]LogFbx: 	Total Deformer Count -1542700408.
+[2017.12.22-01.09.15:585][636]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.09.15:585][636]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.09.15:585][636]LogFbx: Dumping Node END [default]
+[2017.12.22-01.09.15:585][636]LogFbx: =================================================
+[2017.12.22-01.09.15:585][636]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.09.15:585][636]LogFbx: 	Total Deformer Count -1542700408.
+[2017.12.22-01.09.15:585][636]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.09.15:585][636]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.09.15:585][636]LogFbx: Dumping Node END [default]
+[2017.12.22-01.09.15:587][636]LogFbx: Triangulating skeletal mesh default
+[2017.12.22-01.09.15:881][636]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.12.22-01.09.16:551][636]LogSkeletalMesh: Section 0: 1704 vertices, 1 active bones
+[2017.12.22-01.09.16:551][636]LogSkeletalMesh: Section 1: 213 vertices, 1 active bones
+[2017.12.22-01.09.16:551][636]LogSkeletalMesh: Section 2: 56 vertices, 1 active bones
+[2017.12.22-01.09.16:551][636]LogSkeletalMesh: Section 3: 20 vertices, 1 active bones
+[2017.12.22-01.09.16:552][636]LogSkeletalMesh: Section 4: 9255 vertices, 1 active bones
+[2017.12.22-01.09.16:552][636]LogSkeletalMesh: Section 5: 182 vertices, 1 active bones
+[2017.12.22-01.09.16:552][636]LogSkeletalMesh: Section 6: 42 vertices, 1 active bones
+[2017.12.22-01.09.16:552][636]LogSkeletalMesh: Section 7: 40 vertices, 1 active bones
+[2017.12.22-01.09.16:553][636]LogSkeletalMesh: Section 8: 6558 vertices, 1 active bones
+[2017.12.22-01.09.16:553][636]LogSkeletalMesh: Section 9: 5999 vertices, 1 active bones
+[2017.12.22-01.09.16:553][636]LogSkeletalMesh: Section 10: 72 vertices, 1 active bones
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 0: Material=0, 2456 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 1: Material=1, 325 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 2: Material=2, 56 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 3: Material=3, 16 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 4: Material=4, 4272 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 5: Material=5, 340 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 6: Material=6, 60 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 7: Material=7, 40 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 8: Material=8, 11092 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 9: Material=9, 10973 triangles
+[2017.12.22-01.09.17:913][636]LogSkeletalMesh: Section 10: Material=10, 92 triangles
+[2017.12.22-01.09.17:928][636]LogEditorFactories: -- imported successfully
+[2017.12.22-01.09.17:937][636]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.12.22-01.09.23:279][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.22-01.09.23:326][976]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.22-01.09.40:270][831]Cmd: TRANSACTION UNDO
+[2017.12.22-01.09.40:270][831]LogEditorTransaction: Undo Translate Bone
+[2017.12.22-01.09.40:393][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.22-01.10.23:838][212]LogEditorFactories: Performing atomic reimport of [E:/3D/Game_content/Characters/Human/Male/ManLP_forMixamo.obj]
+[2017.12.22-01.10.23:872][212]LogFbx: Loading FBX Scene from E:/3D/Game_content/Characters/Human/Male/ManLP_forMixamo.obj
+[2017.12.22-01.10.24:254][212]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.22-01.10.24:254][212]LogFbx: =================================================
+[2017.12.22-01.10.24:254][212]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.10.24:254][212]LogFbx: 	Total Deformer Count 1633773944.
+[2017.12.22-01.10.24:254][212]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.10.24:254][212]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.10.24:254][212]LogFbx: Dumping Node END [default]
+[2017.12.22-01.10.24:254][212]LogFbx: =================================================
+[2017.12.22-01.10.24:254][212]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.10.24:254][212]LogFbx: 	Total Deformer Count 1633772152.
+[2017.12.22-01.10.24:254][212]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.10.24:254][212]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.10.24:254][212]LogFbx: Dumping Node END [default]
+[2017.12.22-01.10.24:254][212]LogFbx: =================================================
+[2017.12.22-01.10.24:254][212]LogFbx: Dumping Node START [default] 
+[2017.12.22-01.10.24:254][212]LogFbx: 	Total Deformer Count 1633772152.
+[2017.12.22-01.10.24:254][212]LogFbx: 	Attribute () Type (4).
+[2017.12.22-01.10.24:254][212]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2017.12.22-01.10.24:254][212]LogFbx: Dumping Node END [default]
+[2017.12.22-01.10.24:255][212]LogFbx: Triangulating skeletal mesh default
+[2017.12.22-01.10.24:563][212]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.12.22-01.10.25:242][212]LogSkeletalMesh: Section 0: 1704 vertices, 1 active bones
+[2017.12.22-01.10.25:242][212]LogSkeletalMesh: Section 1: 213 vertices, 1 active bones
+[2017.12.22-01.10.25:242][212]LogSkeletalMesh: Section 2: 56 vertices, 1 active bones
+[2017.12.22-01.10.25:242][212]LogSkeletalMesh: Section 3: 20 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 4: 9255 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 5: 182 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 6: 42 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 7: 40 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 8: 6558 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 9: 5999 vertices, 1 active bones
+[2017.12.22-01.10.25:243][212]LogSkeletalMesh: Section 10: 72 vertices, 1 active bones
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 0: Material=0, 2456 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 1: Material=1, 325 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 2: Material=2, 56 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 3: Material=3, 16 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 4: Material=4, 4272 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 5: Material=5, 340 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 6: Material=6, 60 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 7: Material=7, 40 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 8: Material=8, 11092 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 9: Material=9, 10973 triangles
+[2017.12.22-01.10.26:598][212]LogSkeletalMesh: Section 10: Material=10, 92 triangles
+[2017.12.22-01.10.26:613][212]LogEditorFactories: -- imported successfully
+[2017.12.22-01.10.26:623][212]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2017.12.22-01.10.54:854][918]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2017.12.22-01.10.55:715][918]LogSlate: Took 0.006872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.22-01.11.00:245][295]LogRenderer: Reallocating scene render targets to support 1212x888 Format 10 NumSamples 1 (Frame:1).
+[2017.12.22-01.11.06:495][913]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2017.12.22-01.11.09:270][212]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2017.12.22-01.11.09:411][224]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2017.12.22-01.11.11:484][441]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton ManLP_forMixamo_default_Skeleton, removing AnimBP from actor.
+[2017.12.22-01.11.11:485][441]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton ManLP_forMixamo_default_Skeleton, removing AnimBP from actor.
+[2017.12.22-01.11.11:485][441]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton ManLP_forMixamo_default_Skeleton, removing AnimBP from actor.
+[2017.12.22-01.11.54:162][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2017.12.22-01.11.54:162][983]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2017.12.22-01.11.55:577][ 90]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2017.12.22-01.11.58:110][269]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2017.12.22-01.11.58:110][269]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2017.12.22-01.12.04:468][815]BlueprintLog: New page: Compile Player_One
+[2017.12.22-01.13.07:547][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Eyeball [AlbedoM].psd)
+[2017.12.22-01.13.08:136][515]LogTexture: Display: Building textures: Eyeball__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-01.13.16:684][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Eyeball [Metalness].psd)
+[2017.12.22-01.13.16:772][515]Format of this PSD is not supported
+[2017.12.22-01.13.16:778][515]Error: Texture import failed
+[2017.12.22-01.13.23:528][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\Eyeball [Metalness].psd'. Failed to create asset '/Game/Characters/Man/Eyeball__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-01.13.23:643][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Eyeball [Normal].psd)
+[2017.12.22-01.13.23:908][515]LogTexture: Display: Building textures: Eyeball__Normal_ (AutoDXT, 4096X4096)
+[2017.12.22-01.13.26:867][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Eyeball [Roughness].psd)
+[2017.12.22-01.13.26:985][515]Format of this PSD is not supported
+[2017.12.22-01.13.26:995][515]Error: Texture import failed
+[2017.12.22-01.13.28:577][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\Eyeball [Roughness].psd'. Failed to create asset '/Game/Characters/Man/Eyeball__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-01.13.31:126][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\eyelash [AlbedoM].psd)
+[2017.12.22-01.13.31:765][515]LogTexture: Display: Building textures: eyelash__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-01.13.45:353][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\eyelash [Metalness].psd)
+[2017.12.22-01.13.45:422][515]Format of this PSD is not supported
+[2017.12.22-01.13.45:427][515]Error: Texture import failed
+[2017.12.22-01.13.50:737][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\eyelash [Metalness].psd'. Failed to create asset '/Game/Characters/Man/eyelash__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-01.13.52:929][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\eyelash [Normal].psd)
+[2017.12.22-01.13.53:694][515]LogTexture: Display: Building textures: eyelash__Normal_ (BC5, 4096X4096)
+[2017.12.22-01.13.58:953][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\eyelash [Roughness].psd)
+[2017.12.22-01.13.59:108][515]Format of this PSD is not supported
+[2017.12.22-01.13.59:120][515]Error: Texture import failed
+[2017.12.22-01.14.04:947][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\eyelash [Roughness].psd'. Failed to create asset '/Game/Characters/Man/eyelash__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-01.14.06:390][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [AlbedoM].psd)
+[2017.12.22-01.14.07:083][515]LogTexture: Display: Building textures: FullBody__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-01.14.22:600][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Metalness].psd)
+[2017.12.22-01.14.22:807][515]Format of this PSD is not supported
+[2017.12.22-01.14.22:824][515]Error: Texture import failed
+[2017.12.22-01.14.24:390][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Metalness].psd'. Failed to create asset '/Game/Characters/Man/FullBody__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-01.14.25:719][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Normal].psd)
+[2017.12.22-01.14.26:509][515]LogTexture: Display: Building textures: FullBody__Normal_ (AutoDXT, 4096X4096)
+[2017.12.22-01.14.42:127][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Roughness].psd)
+[2017.12.22-01.14.42:333][515]Format of this PSD is not supported
+[2017.12.22-01.14.42:351][515]Error: Texture import failed
+[2017.12.22-01.14.43:691][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\FullBody [Roughness].psd'. Failed to create asset '/Game/Characters/Man/FullBody__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-01.14.45:258][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Lacrimal [AlbedoM].psd)
+[2017.12.22-01.14.45:746][515]LogTexture: Display: Building textures: Lacrimal__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-01.15.07:568][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Lacrimal [Metalness].psd)
+[2017.12.22-01.15.07:599][515]Format of this PSD is not supported
+[2017.12.22-01.15.07:600][515]Error: Texture import failed
+[2017.12.22-01.15.10:990][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\Lacrimal [Metalness].psd'. Failed to create asset '/Game/Characters/Man/Lacrimal__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-01.15.12:541][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Lacrimal [Normal].psd)
+[2017.12.22-01.15.13:049][515]LogTexture: Display: Building textures: Lacrimal__Normal_ (AutoDXT, 4096X4096)
+[2017.12.22-01.15.32:745][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Lacrimal [Roughness].psd)
+[2017.12.22-01.15.32:822][515]Format of this PSD is not supported
+[2017.12.22-01.15.32:828][515]Error: Texture import failed
+[2017.12.22-01.15.33:796][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\Lacrimal [Roughness].psd'. Failed to create asset '/Game/Characters/Man/Lacrimal__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-01.15.35:913][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\lowerezelid [AlbedoM].psd)
+[2017.12.22-01.15.36:575][515]LogTexture: Display: Building textures: lowerezelid__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-01.15.54:128][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\lowerezelid [Metalness].psd)
+[2017.12.22-01.15.54:233][515]Format of this PSD is not supported
+[2017.12.22-01.15.54:242][515]Error: Texture import failed
+[2017.12.22-01.15.56:704][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\lowerezelid [Metalness].psd'. Failed to create asset '/Game/Characters/Man/lowerezelid__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-01.15.58:602][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\lowerezelid [Normal].psd)
+[2017.12.22-01.15.59:149][515]LogTexture: Display: Building textures: lowerezelid__Normal_ (BC5, 4096X4096)
+[2017.12.22-01.16.03:297][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\lowerezelid [Roughness].psd)
+[2017.12.22-01.16.03:434][515]Format of this PSD is not supported
+[2017.12.22-01.16.03:446][515]Error: Texture import failed
+[2017.12.22-01.16.05:151][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\lowerezelid [Roughness].psd'. Failed to create asset '/Game/Characters/Man/lowerezelid__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-01.16.06:795][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Teeth [AlbedoM].psd)
+[2017.12.22-01.16.07:298][515]LogTexture: Display: Building textures: Teeth__AlbedoM_ (AutoDXT, 4096X4096)
+[2017.12.22-01.16.19:128][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Teeth [Metalness].psd)
+[2017.12.22-01.16.19:209][515]Format of this PSD is not supported
+[2017.12.22-01.16.19:213][515]Error: Texture import failed
+[2017.12.22-01.16.20:377][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\Teeth [Metalness].psd'. Failed to create asset '/Game/Characters/Man/Teeth__Metalness_'.
+Please see Output Log for details.
+[2017.12.22-01.16.22:647][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Teeth [Normal].psd)
+[2017.12.22-01.16.23:251][515]LogTexture: Display: Building textures: Teeth__Normal_ (AutoDXT, 4096X4096)
+[2017.12.22-01.16.42:681][515]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\3D\Game_content\Characters\Human\Male\QS_Maps\Teeth [Roughness].psd)
+[2017.12.22-01.16.42:799][515]Format of this PSD is not supported
+[2017.12.22-01.16.42:808][515]Error: Texture import failed
+[2017.12.22-01.16.47:461][515]LogAssetTools: Warning: Failed to import 'E:\3D\Game_content\Characters\Human\Male\QS_Maps\Teeth [Roughness].psd'. Failed to create asset '/Game/Characters/Man/Teeth__Roughness_'.
+Please see Output Log for details.
+[2017.12.22-01.16.47:534][516]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.12.22-01.16.53:116][517]Cmd: QUIT_EDITOR
+[2017.12.22-01.16.53:151][517]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.22-01.16.53:170][517]LogExit: Preparing to exit.
+[2017.12.22-01.16.53:652][517]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2017.12.22-01.16.53:700][517]LogExit: Editor shut down
+[2017.12.22-01.16.53:706][517]LogExit: Transaction tracking system shut down
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.22-01.16.53:867][517]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.22-01.16.54:156][517]LogExit: Object subsystem successfully closed.
+[2017.12.22-01.16.54:190][517]LogD3D11RHI: Shutdown
+[2017.12.22-01.16.54:190][517]LogD3D11RHI: CleanupD3DDevice
+[2017.12.22-01.16.54:200][517]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.22-01.16.54:239][517]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2017.12.22-01.16.54:239][517]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (552)
+[2017.12.22-01.16.54:239][517]LogModuleManager: Shutting down and abandoning module SkeletonEditor (550)
+[2017.12.22-01.16.54:239][517]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.22-01.16.54:239][517]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.22-01.16.54:240][517]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.22-01.16.54:240][517]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.22-01.16.54:365][517]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.22-01.16.54:365][517]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.22-01.16.54:365][517]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.22-01.16.54:367][517]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' was aborted.
+[2017.12.22-01.16.54:367][517]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' was aborted.
+[2017.12.22-01.16.54:367][517]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' was aborted.
+[2017.12.22-01.16.54:367][517]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.22-01.16.54:368][517]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.22-01.16.54:368][517]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.22-01.16.54:370][517]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.22-01.16.54:371][517]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.22-01.16.54:371][517]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.22-01.16.54:372][517]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.22-01.16.54:374][517]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.22-01.16.54:375][517]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.22-01.16.54:375][517]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.22-01.16.54:375][517]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.22-01.16.54:375][517]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.22-01.16.54:375][517]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.22-01.16.54:375][517]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.22-01.16.54:376][517]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.22-01.16.54:376][517]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.22-01.16.54:377][517]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.22-01.16.54:379][517]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.22-01.16.54:380][517]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.22-01.16.54:380][517]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.22-01.16.54:380][517]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.22-01.16.54:381][517]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.22-01.16.54:390][517]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.22-01.16.54:390][517]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.22-01.16.54:390][517]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.22-01.16.54:390][517]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.22-01.16.54:391][517]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.22-01.16.54:391][517]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.22-01.16.54:391][517]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.22-01.16.54:392][517]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.22-01.16.54:392][517]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.22-01.16.54:393][517]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.22-01.16.54:393][517]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.22-01.16.54:393][517]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.22-01.16.54:393][517]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.22-01.16.54:393][517]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.22-01.16.54:394][517]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.22-01.16.54:394][517]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.22-01.16.54:394][517]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.22-01.16.54:394][517]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.22-01.16.54:394][517]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.22-01.16.54:395][517]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.22-01.16.54:396][517]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.22-01.16.54:396][517]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.22-01.16.54:397][517]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.22-01.16.54:397][517]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.22-01.16.54:441][517]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.22-01.16.54:442][517]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.22-01.16.54:443][517]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.22-01.16.54:445][517]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.22-01.16.54:445][517]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.22-01.16.54:445][517]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.22-01.16.54:447][517]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.22-01.16.54:448][517]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.22-01.16.54:448][517]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.22-01.16.54:448][517]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.22-01.16.54:456][517]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.22-01.16.54:458][517]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.22-01.16.54:458][517]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.22-01.16.54:458][517]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.22-01.16.54:459][517]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.22-01.16.54:460][517]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.22-01.16.54:461][517]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.22-01.16.54:461][517]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.22-01.16.54:461][517]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.22-01.16.54:516][517]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.22-01.16.54:519][517]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.22-01.16.54:519][517]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.22-01.16.54:519][517]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.22-01.16.54:519][517]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.22-01.16.54:520][517]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.22-01.16.54:522][517]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.22-01.16.54:522][517]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.22-01.16.54:522][517]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.22-01.16.54:522][517]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.22-01.16.54:523][517]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.22-01.16.54:523][517]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.22-01.16.54:523][517]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.22-01.16.54:523][517]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.22-01.16.54:523][517]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.22-01.16.54:525][517]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.22-01.16.54:526][517]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.22-01.16.54:526][517]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.22-01.16.54:526][517]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.22-01.16.54:526][517]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.22-01.16.54:527][517]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.22-01.16.54:527][517]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.22-01.16.54:528][517]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.22-01.16.54:528][517]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.22-01.16.54:528][517]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.22-01.16.54:528][517]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.22-01.16.54:528][517]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.22-01.16.54:529][517]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.22-01.16.54:529][517]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.22-01.16.54:531][517]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.22-01.16.54:531][517]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.22-01.16.54:532][517]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.22-01.16.54:533][517]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.22-01.16.54:534][517]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.22-01.16.54:637][517]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.22-01.16.54:737][517]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.22-01.16.54:739][517]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.22-01.16.54:739][517]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.22-01.16.54:739][517]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.22-01.16.54:740][517]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.22-01.16.54:740][517]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.22-01.16.54:741][517]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.22-01.16.54:741][517]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.22-01.16.54:741][517]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.22-01.16.54:743][517]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.22-01.16.54:744][517]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.22-01.16.54:744][517]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.22-01.16.54:744][517]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.22-01.16.54:744][517]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.22-01.16.54:744][517]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.22-01.16.54:744][517]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.22-01.16.54:750][517]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.22-01.16.54:750][517]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.22-01.16.54:750][517]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.22-01.16.54:751][517]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.22-01.16.54:752][517]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.22-01.16.54:752][517]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.22-01.16.54:754][517]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.22-01.16.54:755][517]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.22-01.16.54:756][517]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.22-01.16.54:756][517]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.22-01.16.54:757][517]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.22-01.16.54:759][517]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.22-01.16.54:761][517]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.22-01.16.54:761][517]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.22-01.16.54:763][517]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.22-01.16.54:763][517]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.22-01.16.54:765][517]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.22-01.16.54:766][517]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.22-01.16.54:766][517]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.22-01.16.54:767][517]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.22-01.16.54:767][517]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.22-01.16.54:767][517]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.22-01.16.54:768][517]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.22-01.16.54:768][517]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.22-01.16.54:768][517]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.22-01.16.54:768][517]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.22-01.16.54:780][517]LogDerivedDataCache: Shutdown
+[2017.12.22-01.16.54:781][517]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.22-01.16.54:781][517]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.22-01.16.54:781][517]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.22-01.16.54:782][517]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.22-01.16.54:782][517]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.22-01.16.54:782][517]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.22-01.16.54:783][517]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.22-01.16.54:784][517]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.22-01.16.54:786][517]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.22-01.16.54:787][517]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.22-01.16.54:787][517]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.12.22-01.16.54:788][517]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B96374012-4BDB-15C9-607E-6A8401578BA0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0f819dde4a3301700e3c92be97adbf7c%7C7fb0b03c6dec40ebb9abf228ffb5ef91%7C16f2fa0e-04fd-479c-a6bc-11ed19de6989&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.22-01.16.54:788][517]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B96374012-4BDB-15C9-607E-6A8401578BA0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0f819dde4a3301700e3c92be97adbf7c%7C7fb0b03c6dec40ebb9abf228ffb5ef91%7C16f2fa0e-04fd-479c-a6bc-11ed19de6989&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.22-01.16.54:810][517]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.22-01.16.54:812][517]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.22-01.16.54:812][517]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.22-01.16.54:812][517]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.22-01.16.54:813][517]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.22-01.16.54:813][517]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.22-01.16.54:813][517]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.22-01.16.54:813][517]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.22-01.16.54:815][517]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.22-01.16.54:816][517]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.22-01.16.54:816][517]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.22-01.16.54:817][517]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.22-01.16.54:817][517]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.22-01.16.54:817][517]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.22-01.16.54:817][517]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.22-01.16.54:817][517]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.22-01.16.54:817][517]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.22-01.16.54:818][517]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.22-01.16.54:818][517]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.22-01.16.54:822][517]LogExit: Exiting.
+[2017.12.22-01.16.54:846][517]Log file closed, 12/22/17 02:16:54
