@@ -601,3 +601,57 @@ LogInit: Object subsystem initialized
 [2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/68.uasset
 [2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/8.uasset
 [2017.12.24-12.59.42:813][127]SourceControl: Commited [master 0746d401] Weapon_assets, icons, inventory early functions.
+[2017.12.24-13.01.08:358][861]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BP_CurvedSword_C:UserConstructionScript' in the new package '/Game/Interactables/Weapons/BP_CurvedSword'. Any existing references to this object will be nulled out.
+[2017.12.24-13.01.08:358][861]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'BP_CurvedSword_C:InteractableArea_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/Interactables/Weapons/BP_CurvedSword'. Any existing references to this object will be nulled out.
+[2017.12.24-13.02.18:058][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.BP_BaseWeapon_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.12.24-13.02.18:058][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.BP_Crossbow_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.12.24-13.02.18:059][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.BP_Longsword_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.12.24-13.02.18:059][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.BP_Dagger_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.12.24-13.02.18:059][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.BP_CurvedSword_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_BaseWeapon.uasset'
+[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_Crossbow.uasset'
+[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_CurvedSword.uasset'
+[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_Dagger.uasset'
+[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_Longsword.uasset'
+[2017.12.24-13.02.57:514][709]SourceControl: On branch master
+[2017.12.24-13.02.57:514][709]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.24-13.02.57:514][709]SourceControl: Changes to be committed:
+[2017.12.24-13.02.57:514][709]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_BaseWeapon.uasset
+[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_Crossbow.uasset
+[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_CurvedSword.uasset
+[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_Dagger.uasset
+[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_Longsword.uasset
+[2017.12.24-13.02.57:514][709]SourceControl: Changes not staged for commit:
+[2017.12.24-13.02.57:514][709]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.24-13.02.57:514][709]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.24-13.02.57:514][709]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.24-13.02.57:514][709]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
+[2017.12.24-13.02.57:710][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
+[2017.12.24-13.02.57:742][709]LogSavePackage: Save=24.70ms
+[2017.12.24-13.02.57:742][709]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon3B58F31541B85FCA2F2987A2810A3288.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
+[2017.12.24-13.02.57:745][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
+[2017.12.24-13.03.04:383][264]LogClass: Warning: In asset 'None', there is an enum property of type 'E_ItemType' with an invalid value of ''
+[2017.12.24-13.03.04:383][264]LogClass: Warning: In asset 'None', there is an enum property of type 'E_ItemType' with an invalid value of ''
+[2017.12.24-13.03.08:833][787]BlueprintLog: New page: Compile BP_BaseWeapon
+[2017.12.24-13.03.10:256][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
+[2017.12.24-13.03.10:313][899]LogSavePackage: Save=27.53ms
+[2017.12.24-13.03.10:313][899]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon59103CD84D6E5A5C5D215F92B71DB1C0.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
+[2017.12.24-13.03.10:316][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
+[2017.12.24-13.03.15:463][462]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.12.24-13.03.24:789][462]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.12.24-13.03.24:822][462]SourceControl: [master 08e52e9a] BP_Base_Weapon
+[2017.12.24-13.03.24:822][462]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_Crossbow.uasset
+[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_CurvedSword.uasset
+[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_Dagger.uasset
+[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_Longsword.uasset
+[2017.12.24-13.03.24:825][462]SourceControl: Commited [master 08e52e9a] BP_Base_Weapon.
