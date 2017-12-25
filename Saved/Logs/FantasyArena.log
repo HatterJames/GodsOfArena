@@ -1,4 +1,4 @@
-﻿Log file open, 12/24/17 13:53:12
+﻿Log file open, 12/25/17 11:20:48
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: FantasyArena
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-2080945735) SRandInit(-2080945735).
+LogInit: Display: RandInit(-941443032) SRandInit(-941443032).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.123604
+LogStats: Stats thread started at 0.110574
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -194,464 +194,187 @@ LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binari
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.24-12.53.14:046][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.24-12.53.14:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.24-12.53.14:069][  0]LogInit: Computer: KLOBUK
-[2017.12.24-12.53.14:069][  0]LogInit: User: Jakub
-[2017.12.24-12.53.14:069][  0]LogInit: CPU Page size=4096, Cores=2
-[2017.12.24-12.53.14:069][  0]LogInit: High frequency timer resolution =3.514609 MHz
-[2017.12.24-12.53.14:070][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.12.24-12.53.14:070][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.24-12.53.14:070][  0]LogMemory: Process Physical Memory: 270.04 MB used, 270.04 MB peak
-[2017.12.24-12.53.14:070][  0]LogMemory: Process Virtual Memory: 269.11 MB used, 269.11 MB peak
-[2017.12.24-12.53.14:070][  0]LogMemory: Physical Memory: 3384.37 MB used,  4747.41 MB free, 8131.79 MB total
-[2017.12.24-12.53.14:070][  0]LogMemory: Virtual Memory: 622.42 MB used,  4747.41 MB free, 134217728.00 MB total
-[2017.12.24-12.53.14:297][  0]LogInit: Using OS detected language (en-US).
-[2017.12.24-12.53.14:297][  0]LogInit: Using OS detected locale (sk-SK).
-[2017.12.24-12.53.14:302][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2017.12.24-12.53.14:302][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
-[2017.12.24-12.53.14:817][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.24-12.53.15:118][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.24-12.53.15:143][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
-[2017.12.24-12.53.15:143][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.12.24-12.53.15:144][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.24-12.53.15:144][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.24-12.53.15:144][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.24-12.53.15:149][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.24-12.53.15:149][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.24-12.53.15:149][  0]LogWindows: EnumDisplayDevices:
-[2017.12.24-12.53.15:149][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
-[2017.12.24-12.53.15:149][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
-[2017.12.24-12.53.15:149][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
-[2017.12.24-12.53.15:149][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
-[2017.12.24-12.53.15:149][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2017.12.24-12.53.15:149][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
-[2017.12.24-12.53.15:149][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
-[2017.12.24-12.53.15:149][  0]LogD3D11RHI:      Driver Date: 10-27-2017
-[2017.12.24-12.53.15:149][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
-[2017.12.24-12.53.15:163][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.24-12.53.15:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2017.12.24-12.53.15:182][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/5580/).
-[2017.12.24-12.53.15:182][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/C21185204367EBD07AEC96AD2C2B851E/'.
-[2017.12.24-12.53.15:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.24-12.53.16:349][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.24-12.53.16:399][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.24-12.53.16:449][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.24-12.53.16:502][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.24-12.53.16:551][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.24-12.53.16:601][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.24-12.53.16:659][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.24-12.53.16:720][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.24-12.53.16:780][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.24-12.53.16:843][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.24-12.53.16:911][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.24-12.53.16:957][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.24-12.53.17:008][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.24-12.53.17:056][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.24-12.53.17:161][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.24-12.53.17:161][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.24-12.53.17:213][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.24-12.53.17:253][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.24-12.53.17:347][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.24-12.53.17:376][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.24-12.53.17:423][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.24-12.53.17:475][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.24-12.53.17:520][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.24-12.53.17:571][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.24-12.53.17:571][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.24-12.53.18:057][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.24-12.53.18:162][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.24-12.53.18:163][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.24-12.53.18:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.24-12.53.18:163][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.24-12.53.18:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.24-12.53.18:163][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.24-12.53.18:187][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.24-12.53.18:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.24-12.53.18:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.24-12.53.18:211][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.24-12.53.18:211][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.24-12.53.18:212][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.24-12.53.18:610][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.24-12.53.18:975][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.24-12.53.19:010][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.24-12.53.19:010][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.24-12.53.19:010][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.24-12.53.19:010][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.24-12.53.19:010][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.24-12.53.19:033][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
-[2017.12.24-12.53.19:200][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
-[2017.12.24-12.53.19:753][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068925 seconds
-[2017.12.24-12.53.19:760][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.24-12.53.19:760][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
-[2017.12.24-12.53.19:760][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.24-12.53.19:811][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.24-12.53.22:714][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.24-12.53.22:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.24-12.53.23:492][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.12.24-12.53.23:991][  0]SourceControl: Source control is disabled
-[2017.12.24-12.53.25:139][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.12.24-12.53.25:392][  0]LogOcInput: OculusInput pre-init called
-[2017.12.24-12.53.25:671][  0]LogEngine: Initializing Engine...
-[2017.12.24-12.53.25:672][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.12.24-12.53.25:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.12.24-12.53.25:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.12.24-12.53.26:087][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.12.24-12.53.26:093][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.12.24-12.53.26:104][  0]LogInit: FAudioDevice initialized.
-[2017.12.24-12.53.26:216][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.24-12.53.26:236][  0]LogInit: Texture streaming: Enabled
-[2017.12.24-12.53.26:334][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.12.24-12.53.26:467][  0]LogInit: Transaction tracking system initialized
-[2017.12.24-12.53.26:796][  0]BlueprintLog: New page: Editor Load
-[2017.12.24-12.53.27:734][  0]LocalizationService: Localization service is disabled
-[2017.12.24-12.53.28:468][  0]LogConsoleResponse: Display: 
-[2017.12.24-12.53.28:697][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.12.24-12.53.28:697][  0]LogCook: Display: Mobile HDR setting 1
-[2017.12.24-12.53.28:697][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.12.24-12.53.29:901][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.01s
-[2017.12.24-12.53.29:958][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.24-12.53.29:958][  0]LightingResults: New page: Lighting Build
-[2017.12.24-12.53.29:999][  0]MapCheck: New page: Map Check
-[2017.12.24-12.53.29:999][  0]LightingResults: New page: Lighting Build
-[2017.12.24-12.53.31:049][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
-[2017.12.24-12.53.50:347][  0]LogAIModule: Creating AISystem for world Arena1
-[2017.12.24-12.53.50:386][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.12.24-12.53.50:416][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.24-12.53.50:529][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 112.733ms to complete.
-[2017.12.24-12.53.50:529][  0]LogFileHelpers: Loading map 'Arena1' took 20.571
-[2017.12.24-12.53.50:588][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.24-12.53.50:711][  0]LogCollectionManager: Loaded 0 collections in 0.002483 seconds
-[2017.12.24-12.53.50:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
-[2017.12.24-12.53.50:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
-[2017.12.24-12.53.50:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.01s
-[2017.12.24-12.53.50:812][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2017.12.24-12.53.50:823][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2363 classes and 519 folders.
-[2017.12.24-12.53.50:902][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2017.12.24-12.53.50:942][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2017.12.24-12.53.51:002][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2017.12.24-12.53.51:024][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.24-12.53.51:027][  0]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.12.24-12.53.51:036][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.12.24-12.53.51:158][  0]LogRenderer: Reallocating scene render targets to support 820x540 Format 10 NumSamples 1 (Frame:1).
-[2017.12.24-12.53.51:461][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2017.12.24-12.53.51:462][  0]LogLoad: (Engine Initialization) Total time: 39.86 seconds
-[2017.12.24-12.53.51:462][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.12.24-12.53.51:462][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.12.24-12.53.51:462][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.12.24-12.53.51:492][  0]SourceControl: On branch master
-[2017.12.24-12.53.51:492][  0]SourceControl: Your branch is up to date with 'origin/master'.
-[2017.12.24-12.53.51:492][  0]SourceControl: Changes to be committed:
-[2017.12.24-12.53.51:492][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
-[2017.12.24-12.53.51:492][  0]SourceControl: 	new file:   Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/Interactables/Weapons/BP_Crossbow.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/Interactables/Weapons/BP_CurvedSword.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/Interactables/Weapons/BP_Dagger.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/Interactables/Weapons/BP_Longsword.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/10.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/15.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/17.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/20.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/21.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/28.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/30.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/35.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/39.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/42.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/43.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/44.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/45.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/48.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/68.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/8.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	new file:   Content/UI/ItemsIcons/Border.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: Changes not staged for commit:
-[2017.12.24-12.53.51:493][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
-[2017.12.24-12.53.51:493][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Content/GameBase/Player_One.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Content/Levels/Arena1.umap
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Intermediate/ReimportCache/3688439234.bin
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto2.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto1.umap
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto2.umap
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
-[2017.12.24-12.53.51:493][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.22-02.18.16.log
-[2017.12.24-12.53.51:493][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.22-20.51.57.log
-[2017.12.24-12.53.51:493][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
-[2017.12.24-12.53.51:493][  0]SourceControl: Untracked files:
-[2017.12.24-12.53.51:493][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-24-13-29-05.umap
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-24-13-41-24.umap
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/Arena1_2017-12-24-13-51-51.umap
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-24-13-18-02.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-24-13-34-37.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-24-13-41-25.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Backup/Player_One_2017-12-24-13-51-44.uasset
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-1CC0ACD543CA5787F10943969B2773E6/
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-B5350426446D97A3D12A9F879D3C5A89/
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.24-13.10.09.log
-[2017.12.24-12.53.51:493][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.24-13.53.12.log
-[2017.12.24-12.53.51:493][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.12.24-12.53.51:536][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.24-12.53.51:633][  2]LogAssetRegistry: Asset discovery search completed in 32.4550 seconds
-[2017.12.24-12.53.51:635][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2017.12.24-12.53.51:635][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
-[2017.12.24-12.53.54:689][233]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.24-12.53.55:050][233]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
-[2017.12.24-12.53.55:863][233]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.24-12.54.04:489][932]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2017.12.24-12.54.11:211][697]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.12.24-12.54.28:226][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.BP_BaseWeapon_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:226][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.BP_Crossbow_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:226][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.BP_CurvedSword_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:226][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.BP_Dagger_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:226][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.BP_Longsword_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:228][712]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Arena1.Arena1:PersistentLevel.BP_Crossbow_160.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:228][712]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Arena1.Arena1:PersistentLevel.BP_CurvedSword_162.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:228][712]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Arena1.Arena1:PersistentLevel.BP_Dagger_298.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.28:228][712]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Arena1.Arena1:PersistentLevel.BP_Longsword_120.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.39:052][287]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Longsword.uasset' did not match any file(s) known to git.
-[2017.12.24-12.54.39:052][287]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset' did not match any file(s) known to git.
-[2017.12.24-12.54.39:052][287]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset' did not match any file(s) known to git.
-[2017.12.24-12.54.39:052][287]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_CurvedSword.uasset' did not match any file(s) known to git.
-[2017.12.24-12.54.39:052][287]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset' did not match any file(s) known to git.
-[2017.12.24-12.54.47:055][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.BP_BaseWeapon_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.47:055][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.BP_Longsword_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.47:055][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.BP_Crossbow_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.47:055][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.BP_CurvedSword_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.54.47:055][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.BP_Dagger_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-12.55.06:345][838]SourceControl: On branch master
-[2017.12.24-12.55.06:345][838]SourceControl: Your branch is up to date with 'origin/master'.
-[2017.12.24-12.55.06:345][838]SourceControl: Changes to be committed:
-[2017.12.24-12.55.06:345][838]SourceControl:   (use "git reset HEAD <file>..." to unstage)
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/10.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/15.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/17.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/20.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/21.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/28.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/30.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/35.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/39.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/42.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/43.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/44.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/45.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/48.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/68.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/8.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	new file:   Content/UI/ItemsIcons/Border.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: Changes not staged for commit:
-[2017.12.24-12.55.06:345][838]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
-[2017.12.24-12.55.06:345][838]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Content/GameBase/Player_One.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Content/Levels/Arena1.umap
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Intermediate/ReimportCache/3688439234.bin
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/AutoScreenshot.png
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto2.uasset
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto1.umap
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto2.umap
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2017.12.24-12.55.06:345][838]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
-[2017.12.24-12.55.06:345][838]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.22-02.18.16.log
-[2017.12.24-12.55.06:346][838]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.22-20.51.57.log
-[2017.12.24-12.55.06:346][838]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
-[2017.12.24-12.55.06:346][838]SourceControl: Untracked files:
-[2017.12.24-12.55.06:346][838]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/Arena1_2017-12-24-13-29-05.umap
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/Arena1_2017-12-24-13-41-24.umap
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/Arena1_2017-12-24-13-51-51.umap
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-24-13-18-02.uasset
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/Player_One_2017-12-24-13-34-37.uasset
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/Player_One_2017-12-24-13-41-25.uasset
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Backup/Player_One_2017-12-24-13-51-44.uasset
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-1CC0ACD543CA5787F10943969B2773E6/
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-B5350426446D97A3D12A9F879D3C5A89/
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.24-13.10.09.log
-[2017.12.24-12.55.06:346][838]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.24-13.53.12.log
-[2017.12.24-12.55.06:512][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:513][838]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-12.55.06:563][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
-[2017.12.24-12.55.06:589][838]LogSavePackage: Save=24.15ms
-[2017.12.24-12.55.06:589][838]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon418EC657496D94B50489C3B10D13B07D.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
-[2017.12.24-12.55.06:592][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-12.55.11:432][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena1" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.12.24-12.55.11:665][101]LogSavePackage: Save=187.11ms
-[2017.12.24-12.55.11:666][101]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Arena1D32D8D334E6DA373EC963B9E6F0B1D3E.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap'
-[2017.12.24-12.55.11:669][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap
-[2017.12.24-12.55.11:731][101]LogFileHelpers: Saving map 'Arena1' took 0.370
-[2017.12.24-12.55.16:640][579]LogRenderer: Reallocating scene render targets to support 820x668 Format 10 NumSamples 1 (Frame:1).
-[2017.12.24-12.55.18:925][840]LogClass: Warning: In asset 'None', there is an enum property of type 'E_ItemType' with an invalid value of ''
-[2017.12.24-12.55.18:925][840]LogClass: Warning: In asset 'None', there is an enum property of type 'E_ItemType' with an invalid value of ''
-[2017.12.24-12.55.23:737][407]BlueprintLog: New page: Compile BP_BaseWeapon
-[2017.12.24-12.55.31:106][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
-[2017.12.24-12.55.31:161][ 39]LogSavePackage: Save=25.17ms
-[2017.12.24-12.55.31:161][ 39]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon44600D854A8FED3022AB7F9FB29B44B6.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
-[2017.12.24-12.55.31:164][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-12.55.47:275][462]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.24-12.55.48:490][536]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
-[2017.12.24-12.55.48:490][536]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
-[2017.12.24-12.55.48:490][536]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.55.48:490][536]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.56.05:786][674]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
-[2017.12.24-12.56.05:787][674]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
-[2017.12.24-12.56.12:151][112]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
-[2017.12.24-12.56.12:151][112]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
-[2017.12.24-12.56.16:006][373]BlueprintLog: New page: Compile BP_Longsword
-[2017.12.24-12.56.16:893][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Longsword" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Longsword.uasset" SILENT=true
-[2017.12.24-12.56.16:924][403]LogSavePackage: Save=27.89ms
-[2017.12.24-12.56.16:924][403]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_LongswordCB31C4FF4E225DB0F581DBB29196211A.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Longsword.uasset'
-[2017.12.24-12.56.16:927][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Longsword.uasset
-[2017.12.24-12.56.33:635][848]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
-[2017.12.24-12.56.33:635][848]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
-[2017.12.24-12.56.42:295][807]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/90Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/90Degree_IES.uasset' is outside repository
-[2017.12.24-12.56.42:342][811]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository
-[2017.12.24-12.56.49:067][540]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
-[2017.12.24-12.56.49:067][540]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
-[2017.12.24-12.56.49:067][540]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.56.49:067][540]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.56.53:143][976]BlueprintLog: New page: Compile BP_Dagger
-[2017.12.24-12.56.55:698][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Dagger" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset" SILENT=true
-[2017.12.24-12.56.55:734][205]LogSavePackage: Save=33.71ms
-[2017.12.24-12.56.55:734][205]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_Dagger24938C024EB358FB040975873FFB07F5.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset'
-[2017.12.24-12.56.55:738][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset
-[2017.12.24-12.57.36:668][ 94]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
-[2017.12.24-12.57.36:668][ 94]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
-[2017.12.24-12.57.39:786][306]BlueprintLog: New page: Compile BP_CurvedSword
-[2017.12.24-12.57.47:931][805]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
-[2017.12.24-12.57.47:931][805]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
-[2017.12.24-12.57.47:931][805]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.57.47:931][805]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.57.53:848][193]BlueprintLog: New page: Compile BP_CurvedSword
-[2017.12.24-12.57.54:683][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_CurvedSword" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_CurvedSword.uasset" SILENT=true
-[2017.12.24-12.57.54:721][215]LogSavePackage: Save=35.69ms
-[2017.12.24-12.57.54:721][215]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_CurvedSword8EF132C8460E9A97A3DB14A61084E4C2.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_CurvedSword.uasset'
-[2017.12.24-12.57.54:725][215]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_CurvedSword.uasset
-[2017.12.24-12.58.15:899][746]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
-[2017.12.24-12.58.15:899][746]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
-[2017.12.24-12.58.20:802][116]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset' is outside repository
-[2017.12.24-12.58.20:802][116]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cross.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cross.uasset' is outside repository
-[2017.12.24-12.58.28:607][744]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_Cross.uasset' is outside repository
-[2017.12.24-12.58.28:608][744]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cross.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cross.uasset' is outside repository
-[2017.12.24-12.58.31:900][998]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset' is outside repository
-[2017.12.24-12.58.31:900][998]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/Crowd/T_Crowd_Spline.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/Crowd/T_Crowd_Spline.uasset' is outside repository
-[2017.12.24-12.58.31:900][998]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset' is outside repository
-[2017.12.24-12.58.37:239][409]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
-[2017.12.24-12.58.37:239][409]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
-[2017.12.24-12.58.40:092][618]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/90Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/90Degree_IES.uasset' is outside repository
-[2017.12.24-12.58.40:171][622]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository
-[2017.12.24-12.58.40:171][622]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Green.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Green.uasset' is outside repository
-[2017.12.24-12.58.40:437][640]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Green_Low.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Green_Low.uasset' is outside repository
-[2017.12.24-12.58.40:476][642]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Red_Low.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Red_Low.uasset' is outside repository
-[2017.12.24-12.58.40:518][644]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Red.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineResources/AICON-Red.uasset' is outside repository
-[2017.12.24-12.58.40:564][646]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MobileResources/HUD/AnalogHat.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/MobileResources/HUD/AnalogHat.uasset' is outside repository
-[2017.12.24-12.58.40:613][648]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Anchor.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Anchor.uasset' is outside repository
-[2017.12.24-12.58.41:139][685]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset' is outside repository
-[2017.12.24-12.58.49:160][214]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
-[2017.12.24-12.58.49:160][214]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
-[2017.12.24-12.58.49:160][214]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.58.49:161][214]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
-[2017.12.24-12.59.01:216][ 81]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset' is outside repository
-[2017.12.24-12.59.01:216][ 81]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository
-[2017.12.24-12.59.01:216][ 81]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMaterials/WorldGridMaterial.uasset' is outside repository
-[2017.12.24-12.59.01:216][ 81]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/BufferVisualization/WorldNormal.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/BufferVisualization/WorldNormal.uasset' is outside repository
-[2017.12.24-12.59.01:216][ 81]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/Xray.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/Xray.uasset' is outside repository
-[2017.12.24-12.59.05:360][373]BlueprintLog: New page: Compile BP_Crossbow
-[2017.12.24-12.59.06:226][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Crossbow" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset" SILENT=true
-[2017.12.24-12.59.06:260][398]LogSavePackage: Save=31.45ms
-[2017.12.24-12.59.06:260][398]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_Crossbow3D570E6C438C48914440CA841548582A.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset'
-[2017.12.24-12.59.06:262][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset
-[2017.12.24-12.59.15:066][127]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/' is outside repository
-[2017.12.24-12.59.42:698][127]LogSourceControl: FGitCheckInWorker: commit successful
-[2017.12.24-12.59.42:809][127]SourceControl: [master 0746d401] Weapon_assets, icons, inventory early functions
-[2017.12.24-12.59.42:809][127]SourceControl:  22 files changed, 0 insertions(+), 0 deletions(-)
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/Interactables/Weapons/BP_Crossbow.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/Interactables/Weapons/BP_CurvedSword.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/Interactables/Weapons/BP_Dagger.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/Interactables/Weapons/BP_Longsword.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/10.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/15.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/17.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/20.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/21.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/28.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/30.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/35.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/39.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/42.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/43.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/44.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/45.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/48.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/68.uasset
-[2017.12.24-12.59.42:809][127]SourceControl:  create mode 100644 Content/UI/ItemsIcons/8.uasset
-[2017.12.24-12.59.42:813][127]SourceControl: Commited [master 0746d401] Weapon_assets, icons, inventory early functions.
-[2017.12.24-13.01.08:358][861]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BP_CurvedSword_C:UserConstructionScript' in the new package '/Game/Interactables/Weapons/BP_CurvedSword'. Any existing references to this object will be nulled out.
-[2017.12.24-13.01.08:358][861]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'BP_CurvedSword_C:InteractableArea_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/Interactables/Weapons/BP_CurvedSword'. Any existing references to this object will be nulled out.
-[2017.12.24-13.02.18:058][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.BP_BaseWeapon_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-13.02.18:058][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.BP_Crossbow_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-13.02.18:059][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.BP_Longsword_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-13.02.18:059][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.BP_Dagger_C_4.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-13.02.18:059][ 87]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.BP_CurvedSword_C_0.InteractableMesh) Trying to register component with IsPendingKill() == true. Aborting.
-[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_BaseWeapon.uasset'
-[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_Crossbow.uasset'
-[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_CurvedSword.uasset'
-[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_Dagger.uasset'
-[2017.12.24-13.02.19:152][ 87]SourceControl: rm 'Content/Interactables/Weapons/BP_Longsword.uasset'
-[2017.12.24-13.02.57:514][709]SourceControl: On branch master
-[2017.12.24-13.02.57:514][709]SourceControl: Your branch is up to date with 'origin/master'.
-[2017.12.24-13.02.57:514][709]SourceControl: Changes to be committed:
-[2017.12.24-13.02.57:514][709]SourceControl:   (use "git reset HEAD <file>..." to unstage)
-[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_Crossbow.uasset
-[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_CurvedSword.uasset
-[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_Dagger.uasset
-[2017.12.24-13.02.57:514][709]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_Longsword.uasset
-[2017.12.24-13.02.57:514][709]SourceControl: Changes not staged for commit:
-[2017.12.24-13.02.57:514][709]SourceControl:   (use "git add <file>..." to update what will be committed)
-[2017.12.24-13.02.57:514][709]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2017.12.24-13.02.57:514][709]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2017.12.24-13.02.57:514][709]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:677][709]LogMetaData: Removing '/Game/Interactables/Weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Interactables/BP_BaseWeapon.PackageMetaData'
-[2017.12.24-13.02.57:710][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
-[2017.12.24-13.02.57:742][709]LogSavePackage: Save=24.70ms
-[2017.12.24-13.02.57:742][709]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon3B58F31541B85FCA2F2987A2810A3288.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
-[2017.12.24-13.02.57:745][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-13.03.04:383][264]LogClass: Warning: In asset 'None', there is an enum property of type 'E_ItemType' with an invalid value of ''
-[2017.12.24-13.03.04:383][264]LogClass: Warning: In asset 'None', there is an enum property of type 'E_ItemType' with an invalid value of ''
-[2017.12.24-13.03.08:833][787]BlueprintLog: New page: Compile BP_BaseWeapon
-[2017.12.24-13.03.10:256][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
-[2017.12.24-13.03.10:313][899]LogSavePackage: Save=27.53ms
-[2017.12.24-13.03.10:313][899]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon59103CD84D6E5A5C5D215F92B71DB1C0.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
-[2017.12.24-13.03.10:316][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
-[2017.12.24-13.03.15:463][462]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/' is outside repository
-[2017.12.24-13.03.24:789][462]LogSourceControl: FGitCheckInWorker: commit successful
-[2017.12.24-13.03.24:822][462]SourceControl: [master 08e52e9a] BP_Base_Weapon
-[2017.12.24-13.03.24:822][462]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
-[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_Crossbow.uasset
-[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_CurvedSword.uasset
-[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_Dagger.uasset
-[2017.12.24-13.03.24:822][462]SourceControl:  delete mode 100644 Content/Interactables/Weapons/BP_Longsword.uasset
-[2017.12.24-13.03.24:825][462]SourceControl: Commited [master 08e52e9a] BP_Base_Weapon.
+[2017.12.25-10.20.50:074][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.25-10.20.50:074][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.25-10.20.50:096][  0]LogInit: Computer: KLOBUK
+[2017.12.25-10.20.50:096][  0]LogInit: User: Jakub
+[2017.12.25-10.20.50:096][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.12.25-10.20.50:096][  0]LogInit: High frequency timer resolution =3.514605 MHz
+[2017.12.25-10.20.50:096][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.25-10.20.50:096][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.25-10.20.50:096][  0]LogMemory: Process Physical Memory: 270.04 MB used, 270.04 MB peak
+[2017.12.25-10.20.50:096][  0]LogMemory: Process Virtual Memory: 269.09 MB used, 269.09 MB peak
+[2017.12.25-10.20.50:096][  0]LogMemory: Physical Memory: 3278.75 MB used,  4853.04 MB free, 8131.79 MB total
+[2017.12.25-10.20.50:096][  0]LogMemory: Virtual Memory: 622.42 MB used,  4853.04 MB free, 134217728.00 MB total
+[2017.12.25-10.20.50:399][  0]LogInit: Using OS detected language (en-US).
+[2017.12.25-10.20.50:399][  0]LogInit: Using OS detected locale (sk-SK).
+[2017.12.25-10.20.50:474][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.25-10.20.50:474][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2017.12.25-10.20.50:992][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.25-10.20.53:900][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.25-10.20.53:926][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.25-10.20.53:926][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.25-10.20.53:927][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.25-10.20.53:927][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.25-10.20.53:927][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.25-10.20.53:931][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.25-10.20.53:931][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.25-10.20.53:931][  0]LogWindows: EnumDisplayDevices:
+[2017.12.25-10.20.53:931][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.25-10.20.53:932][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.25-10.20.53:932][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.25-10.20.53:932][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.25-10.20.53:932][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.25-10.20.53:932][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.25-10.20.53:932][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.25-10.20.53:932][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.25-10.20.53:932][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2017.12.25-10.20.53:944][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.25-10.20.53:961][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.25-10.20.53:963][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/5496/).
+[2017.12.25-10.20.53:963][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/0A6D0F10446131B5771C26B731A88E2B/'.
+[2017.12.25-10.20.53:963][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.25-10.20.56:053][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.25-10.20.56:104][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.25-10.20.56:148][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.25-10.20.56:199][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.25-10.20.56:252][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.25-10.20.56:304][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.25-10.20.56:349][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.25-10.20.56:398][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.25-10.20.56:438][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.25-10.20.56:496][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.25-10.20.56:550][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.25-10.20.56:598][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.25-10.20.56:651][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.25-10.20.56:699][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.25-10.20.56:801][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.25-10.20.56:801][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.25-10.20.56:864][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.25-10.20.56:903][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.25-10.20.56:999][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.25-10.20.57:025][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.25-10.20.57:075][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.25-10.20.57:127][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.25-10.20.57:180][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.25-10.20.57:232][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.25-10.20.57:232][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.25-10.20.57:764][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.25-10.20.57:879][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.25-10.20.57:879][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.25-10.20.57:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.25-10.20.57:879][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.25-10.20.57:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.25-10.20.57:879][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.25-10.20.57:909][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.25-10.20.57:924][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.25-10.20.57:937][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.25-10.20.57:937][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.25-10.20.57:953][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.25-10.20.57:953][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.25-10.20.58:527][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.25-10.20.58:909][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.25-10.20.58:947][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.25-10.20.58:947][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.25-10.20.58:947][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.25-10.20.58:947][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.25-10.20.58:947][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.25-10.20.58:971][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2017.12.25-10.20.59:138][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2017.12.25-10.20.59:761][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.134514 seconds
+[2017.12.25-10.20.59:767][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.25-10.20.59:767][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.25-10.20.59:767][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.25-10.20.59:826][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.25-10.21.04:420][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.25-10.21.04:463][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.25-10.21.05:107][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.25-10.21.05:538][  0]SourceControl: Source control is disabled
+[2017.12.25-10.21.06:618][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.25-10.21.06:881][  0]LogOcInput: OculusInput pre-init called
+[2017.12.25-10.21.07:156][  0]LogEngine: Initializing Engine...
+[2017.12.25-10.21.07:158][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.25-10.21.07:424][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.25-10.21.07:424][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.25-10.21.07:556][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.25-10.21.07:562][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.25-10.21.07:580][  0]LogInit: FAudioDevice initialized.
+[2017.12.25-10.21.07:692][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.25-10.21.07:711][  0]LogInit: Texture streaming: Enabled
+[2017.12.25-10.21.07:804][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.25-10.21.07:932][  0]LogInit: Transaction tracking system initialized
+[2017.12.25-10.21.08:226][  0]BlueprintLog: New page: Editor Load
+[2017.12.25-10.21.09:069][  0]LocalizationService: Localization service is disabled
+[2017.12.25-10.21.09:782][  0]LogConsoleResponse: Display: 
+[2017.12.25-10.21.09:989][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.25-10.21.09:989][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.25-10.21.09:989][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.25-10.21.10:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.01s
+[2017.12.25-10.21.11:123][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.25-10.21.11:124][  0]LightingResults: New page: Lighting Build
+[2017.12.25-10.21.11:168][  0]MapCheck: New page: Map Check
+[2017.12.25-10.21.11:168][  0]LightingResults: New page: Lighting Build
+[2017.12.25-10.21.12:069][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.12.25-10.21.30:735][  0]LogAIModule: Creating AISystem for world Arena1
+[2017.12.25-10.21.30:759][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.25-10.21.30:783][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.25-10.21.30:845][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.964ms to complete.
+[2017.12.25-10.21.30:845][  0]LogFileHelpers: Loading map 'Arena1' took 19.721
+[2017.12.25-10.21.31:030][  0]LogCollectionManager: Loaded 0 collections in 0.002003 seconds
+[2017.12.25-10.21.31:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
+[2017.12.25-10.21.31:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.25-10.21.31:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.02s
+[2017.12.25-10.21.31:139][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.25-10.21.31:153][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2363 classes and 519 folders.
+[2017.12.25-10.21.31:234][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.25-10.21.31:272][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.25-10.21.31:314][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.25-10.21.31:332][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.25-10.21.31:335][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.25-10.21.31:343][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.25-10.21.31:456][  0]LogRenderer: Reallocating scene render targets to support 820x540 Format 10 NumSamples 1 (Frame:1).
+[2017.12.25-10.21.31:740][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.25-10.21.31:740][  0]LogLoad: (Engine Initialization) Total time: 44.65 seconds
+[2017.12.25-10.21.31:740][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.25-10.21.31:740][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.25-10.21.31:740][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.25-10.21.31:769][  0]SourceControl: On branch master
+[2017.12.25-10.21.31:770][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.12.25-10.21.31:770][  0]SourceControl: Changes to be committed:
+[2017.12.25-10.21.31:770][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.25-10.21.31:770][  0]SourceControl: 	new file:   Content/Interactables/BP_BaseWeapon.uasset
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Content/Interactables/Weapons/BP_BaseWeapon.uasset
+[2017.12.25-10.21.31:770][  0]SourceControl: Changes not staged for commit:
+[2017.12.25-10.21.31:770][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.12.25-10.21.31:770][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Content/Interactables/BP_BaseWeapon.uasset
+[2017.12.25-10.21.31:770][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2017.12.25-10.21.31:770][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2017.12.25-10.21.31:770][  0]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-02C05661451EF8BCB5000A8983E79D1B/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-03D853B44912B97F3E9FE6985B69F35D/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-17FD0ACE41FC63D64015379978A61B2B/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-4E2563684CE79DE50DEC09BB24B12EAD/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-56772D234080BC34F6EE989DA39DEFB0/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-AA03213A48459B311E582FA724AB4D01/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F0FA76C44E69732CB07BBA9AF5D5AD77/CrashReportClient.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.22-22.07.27.log
+[2017.12.25-10.21.31:770][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2017.12.22-22.35.36.log
+[2017.12.25-10.21.31:770][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2017.12.25-10.21.31:770][  0]SourceControl: Untracked files:
+[2017.12.25-10.21.31:770][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.25-10.21.31:770][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2017-12-25-11-17-46.uasset
+[2017.12.25-10.21.31:770][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-BE258251437768F7C5D593AE6D1026A5/
+[2017.12.25-10.21.31:770][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-BEF268E0401A2CC4BCB79FA6F49430B1/
+[2017.12.25-10.21.31:770][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.25-11.13.26.log
+[2017.12.25-10.21.31:770][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2017.12.25-11.20.48.log
+[2017.12.25-10.21.31:771][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.25-10.21.31:809][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.25-10.21.31:849][  1]LogAssetRegistry: Asset discovery search completed in 32.7333 seconds
+[2017.12.25-10.21.31:852][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.25-10.21.31:852][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2017.12.25-10.21.55:913][879]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.25-10.21.56:260][879]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2017.12.25-10.21.56:999][879]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.25-10.21.57:083][879]LogSlate: Took 0.006414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
