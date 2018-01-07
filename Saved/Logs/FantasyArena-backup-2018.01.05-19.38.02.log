@@ -1,0 +1,978 @@
+﻿Log file open, 01/05/18 19:35:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-912912918) SRandInit(-912912918).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.113650
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.05-18.35.26:628][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.05-18.35.26:628][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.05-18.35.26:650][  0]LogInit: Computer: KLOBUK
+[2018.01.05-18.35.26:650][  0]LogInit: User: Jakub
+[2018.01.05-18.35.26:650][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.05-18.35.26:650][  0]LogInit: High frequency timer resolution =3.514607 MHz
+[2018.01.05-18.35.26:651][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.05-18.35.26:651][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.05-18.35.26:651][  0]LogMemory: Process Physical Memory: 270.50 MB used, 270.50 MB peak
+[2018.01.05-18.35.26:651][  0]LogMemory: Process Virtual Memory: 269.16 MB used, 269.16 MB peak
+[2018.01.05-18.35.26:651][  0]LogMemory: Physical Memory: 3409.88 MB used,  4721.91 MB free, 8131.79 MB total
+[2018.01.05-18.35.26:651][  0]LogMemory: Virtual Memory: 622.42 MB used,  4721.91 MB free, 134217728.00 MB total
+[2018.01.05-18.35.26:791][  0]LogInit: Using OS detected language (en-US).
+[2018.01.05-18.35.26:792][  0]LogInit: Using OS detected locale (sk-SK).
+[2018.01.05-18.35.26:794][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.05-18.35.26:794][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2018.01.05-18.35.27:244][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.05-18.35.27:510][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.05-18.35.27:537][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.01.05-18.35.27:538][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.05-18.35.27:539][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.05-18.35.27:539][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.05-18.35.27:539][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.05-18.35.27:543][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.05-18.35.27:543][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.05-18.35.27:543][  0]LogWindows: EnumDisplayDevices:
+[2018.01.05-18.35.27:543][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.01.05-18.35.27:543][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.05-18.35.27:544][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.05-18.35.27:544][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.05-18.35.27:544][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.05-18.35.27:544][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.01.05-18.35.27:544][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.01.05-18.35.27:544][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.01.05-18.35.27:544][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.01.05-18.35.27:557][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.05-18.35.27:573][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.05-18.35.27:575][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/5452/).
+[2018.01.05-18.35.27:575][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/5289BFAB45684675F434759D72133AA0/'.
+[2018.01.05-18.35.27:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.05-18.35.28:678][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.05-18.35.28:730][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.05-18.35.28:783][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.05-18.35.28:828][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.05-18.35.28:888][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.05-18.35.28:938][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.05-18.35.28:994][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.05-18.35.29:041][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.05-18.35.29:099][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.05-18.35.29:158][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.05-18.35.29:202][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.05-18.35.29:259][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.05-18.35.29:308][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.05-18.35.29:356][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.05-18.35.29:458][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.05-18.35.29:458][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.05-18.35.29:513][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.05-18.35.29:551][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.05-18.35.29:636][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.05-18.35.29:663][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.05-18.35.29:712][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.05-18.35.29:756][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.05-18.35.29:806][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.05-18.35.29:859][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.05-18.35.29:859][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.05-18.35.30:330][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.05-18.35.30:553][  0]LogDerivedDataCache: Loaded boot cache 0.22s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.05-18.35.30:554][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.05-18.35.30:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.05-18.35.30:554][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.05-18.35.30:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.05-18.35.30:554][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.05-18.35.30:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.05-18.35.30:589][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.05-18.35.30:600][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.05-18.35.30:601][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.05-18.35.30:601][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.05-18.35.30:601][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.05-18.35.30:996][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.05-18.35.31:340][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.05-18.35.31:375][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.05-18.35.31:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.05-18.35.31:375][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.05-18.35.31:375][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.05-18.35.31:375][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.05-18.35.31:403][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2018.01.05-18.35.31:585][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.01.05-18.35.32:166][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.100934 seconds
+[2018.01.05-18.35.32:174][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.05-18.35.32:174][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.05-18.35.32:174][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.05-18.35.32:219][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.05-18.35.34:970][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.05-18.35.35:013][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.05-18.35.35:653][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.05-18.35.36:082][  0]SourceControl: Source control is disabled
+[2018.01.05-18.35.37:223][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.05-18.35.37:504][  0]LogOcInput: OculusInput pre-init called
+[2018.01.05-18.35.37:834][  0]LogEngine: Initializing Engine...
+[2018.01.05-18.35.37:837][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.05-18.35.38:121][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.05-18.35.38:121][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.05-18.35.38:244][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.05-18.35.38:250][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.05-18.35.38:270][  0]LogInit: FAudioDevice initialized.
+[2018.01.05-18.35.38:388][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.05-18.35.38:409][  0]LogInit: Texture streaming: Enabled
+[2018.01.05-18.35.38:505][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.05-18.35.38:627][  0]LogInit: Transaction tracking system initialized
+[2018.01.05-18.35.38:912][  0]BlueprintLog: New page: Editor Load
+[2018.01.05-18.35.39:940][  0]LocalizationService: Localization service is disabled
+[2018.01.05-18.35.40:803][  0]LogConsoleResponse: Display: 
+[2018.01.05-18.35.41:067][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.05-18.35.41:067][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.05-18.35.41:067][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.05-18.35.41:283][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.03s
+[2018.01.05-18.35.42:384][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.05-18.35.42:385][  0]LightingResults: New page: Lighting Build
+[2018.01.05-18.35.42:419][  0]MapCheck: New page: Map Check
+[2018.01.05-18.35.42:419][  0]LightingResults: New page: Lighting Build
+[2018.01.05-18.35.42:667][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:668][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:668][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseInteractable.uasset.
+[2018.01.05-18.35.42:668][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:668][  0]LoadErrors: Error: /Game/Interactables/BP_BaseInteractable : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:669][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:669][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:670][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_Interact.uasset.
+[2018.01.05-18.35.42:670][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:670][  0]LoadErrors: Error: /Game/Interactables/BPI_Interact : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:671][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:671][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:671][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_Interact.uasset.
+[2018.01.05-18.35.42:671][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:671][  0]LoadErrors: Error: /Game/Interactables/BPI_Interact : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:675][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:675][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:675][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseInteractable.uasset.
+[2018.01.05-18.35.42:675][  0]LoadErrors: Failed to load /Game/Interactables/F_ItemInfo.F_ItemInfo Referenced by ItemInfo
+[2018.01.05-18.35.42:676][  0]LoadErrors: Error: /Game/Interactables/BP_BaseInteractable : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:845][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:845][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BaseArmor.uasset.
+[2018.01.05-18.35.42:845][  0]LoadErrors: Error: /Game/Interactables/Armor/BP_BaseArmor : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:847][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:847][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BaseArmor.uasset.
+[2018.01.05-18.35.42:847][  0]LoadErrors: Error: /Game/Interactables/Armor/BP_BaseArmor : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:854][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:854][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BaseArmor.uasset.
+[2018.01.05-18.35.42:854][  0]LoadErrors: Error: /Game/Interactables/Armor/BP_BaseArmor : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:926][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:926][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:927][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:927][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:927][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:927][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:927][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:927][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:927][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:927][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:927][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:927][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:928][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:928][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_0
+[2018.01.05-18.35.42:928][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:928][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_0
+[2018.01.05-18.35.42:928][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:928][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:928][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_0
+[2018.01.05-18.35.42:928][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:928][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_0
+[2018.01.05-18.35.42:928][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:928][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:928][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_1
+[2018.01.05-18.35.42:928][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:929][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_1
+[2018.01.05-18.35.42:929][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:929][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:929][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_1
+[2018.01.05-18.35.42:929][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:929][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_FunctionEntry_1
+[2018.01.05-18.35.42:929][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:931][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:931][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Message_0
+[2018.01.05-18.35.42:931][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:931][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Message_0
+[2018.01.05-18.35.42:931][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:931][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:931][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Message_1
+[2018.01.05-18.35.42:932][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_RecorderComm.uasset.
+[2018.01.05-18.35.42:932][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Message_1
+[2018.01.05-18.35.42:932][  0]LoadErrors: Error: /Game/Interactables/BPI_RecorderComm : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:974][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:974][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset.
+[2018.01.05-18.35.42:974][  0]LoadErrors: Error: /Game/GameBase/Player_One : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:978][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:978][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset.
+[2018.01.05-18.35.42:978][  0]LoadErrors: Error: /Game/GameBase/Player_One : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:985][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:985][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Event_14
+[2018.01.05-18.35.42:986][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset.
+[2018.01.05-18.35.42:986][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Event_14
+[2018.01.05-18.35.42:986][  0]LoadErrors: Error: /Game/GameBase/Player_One : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.42:986][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.42:986][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Event_19
+[2018.01.05-18.35.42:986][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset.
+[2018.01.05-18.35.42:986][  0]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_Event_19
+[2018.01.05-18.35.42:986][  0]LoadErrors: Error: /Game/GameBase/Player_One : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.43:491][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.43:494][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset.
+[2018.01.05-18.35.43:494][  0]LoadErrors: Error: /Game/GameBase/Player_One : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.43:503][  0]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.35.43:503][  0]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset.
+[2018.01.05-18.35.43:503][  0]LoadErrors: Error: /Game/GameBase/Player_One : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.35.43:834][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back
+[2018.01.05-18.35.43:835][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.35.43:837][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right
+[2018.01.05-18.35.43:837][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.35.43:838][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left
+[2018.01.05-18.35.43:838][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.35.43:839][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right
+[2018.01.05-18.35.43:840][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.35.43:841][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle
+[2018.01.05-18.35.43:841][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.35.44:071][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.01.05-18.36.04:905][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Walk_Back.Sword_And_Shield_Walk_Back
+[2018.01.05-18.36.04:905][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Walk_Back.Sword_And_Shield_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:906][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_walk.sword_and_shield_walk
+[2018.01.05-18.36.04:907][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_walk.sword_and_shield_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:908][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Right.Sword_And_Shield_Strafe_Right
+[2018.01.05-18.36.04:908][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Right.Sword_And_Shield_Strafe_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:909][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Left.Sword_And_Shield_Strafe_Left
+[2018.01.05-18.36.04:909][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Left.Sword_And_Shield_Strafe_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:910][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight
+[2018.01.05-18.36.04:910][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:912][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right
+[2018.01.05-18.36.04:912][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:913][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left
+[2018.01.05-18.36.04:913][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:915][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back
+[2018.01.05-18.36.04:915][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:916][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight
+[2018.01.05-18.36.04:917][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:926][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right
+[2018.01.05-18.36.04:926][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:927][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left
+[2018.01.05-18.36.04:928][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.04:933][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back
+[2018.01.05-18.36.04:933][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:018][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight
+[2018.01.05-18.36.05:018][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:019][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2018.01.05-18.36.05:019][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:020][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2018.01.05-18.36.05:020][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:021][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back
+[2018.01.05-18.36.05:021][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:024][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right
+[2018.01.05-18.36.05:024][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:025][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left
+[2018.01.05-18.36.05:025][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:026][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right
+[2018.01.05-18.36.05:026][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:027][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left
+[2018.01.05-18.36.05:027][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:037][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward
+[2018.01.05-18.36.05:037][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:041][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right
+[2018.01.05-18.36.05:041][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:051][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left
+[2018.01.05-18.36.05:051][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:052][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back
+[2018.01.05-18.36.05:052][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:057][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right
+[2018.01.05-18.36.05:057][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:058][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left
+[2018.01.05-18.36.05:058][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:059][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward
+[2018.01.05-18.36.05:059][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:060][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards
+[2018.01.05-18.36.05:060][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:062][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right
+[2018.01.05-18.36.05:062][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:064][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left
+[2018.01.05-18.36.05:064][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:064][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right
+[2018.01.05-18.36.05:065][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:080][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left
+[2018.01.05-18.36.05:080][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:081][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward
+[2018.01.05-18.36.05:081][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:082][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right
+[2018.01.05-18.36.05:083][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:083][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left
+[2018.01.05-18.36.05:084][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:102][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back
+[2018.01.05-18.36.05:102][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:103][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right
+[2018.01.05-18.36.05:103][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:123][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left
+[2018.01.05-18.36.05:123][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:146][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward
+[2018.01.05-18.36.05:147][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:149][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward
+[2018.01.05-18.36.05:149][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:150][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_1.Crossbow_Idle_1
+[2018.01.05-18.36.05:150][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Idle_1.Crossbow_Idle_1) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:155][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right
+[2018.01.05-18.36.05:155][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:156][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left
+[2018.01.05-18.36.05:156][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:157][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right
+[2018.01.05-18.36.05:157][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:173][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left
+[2018.01.05-18.36.05:173][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:174][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward
+[2018.01.05-18.36.05:174][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:175][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right
+[2018.01.05-18.36.05:175][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:176][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left
+[2018.01.05-18.36.05:176][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:230][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_kick.sword_and_shield_kick
+[2018.01.05-18.36.05:231][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_kick.sword_and_shield_kick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:288][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash__3_.sword_and_shield_slash__3_
+[2018.01.05-18.36.05:288][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash__3_.sword_and_shield_slash__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:352][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash.sword_and_shield_slash
+[2018.01.05-18.36.05:352][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash.sword_and_shield_slash) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:397][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_2.sheath_sword_2
+[2018.01.05-18.36.05:397][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_2.sheath_sword_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:399][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_1.sheath_sword_1
+[2018.01.05-18.36.05:399][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_1.sheath_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:401][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_2.draw_sword_2
+[2018.01.05-18.36.05:401][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_2.draw_sword_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:434][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_1.draw_sword_1
+[2018.01.05-18.36.05:434][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_1.draw_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:514][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2018.01.05-18.36.05:514][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:516][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle
+[2018.01.05-18.36.05:516][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:522][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_idle__4_.sword_and_shield_idle__4_
+[2018.01.05-18.36.05:522][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_idle__4_.sword_and_shield_idle__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:525][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward
+[2018.01.05-18.36.05:525][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:526][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards
+[2018.01.05-18.36.05:527][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:528][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right
+[2018.01.05-18.36.05:528][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:530][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left
+[2018.01.05-18.36.05:530][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:532][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left
+[2018.01.05-18.36.05:533][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:534][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle
+[2018.01.05-18.36.05:534][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:536][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle
+[2018.01.05-18.36.05:536][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:540][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade.Crossbow_Stand_Idle_Remade
+[2018.01.05-18.36.05:540][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade.Crossbow_Stand_Idle_Remade) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.05-18.36.05:622][  0]LogAIModule: Creating AISystem for world Arena1
+[2018.01.05-18.36.05:658][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.05-18.36.05:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.05-18.36.05:762][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.236ms to complete.
+[2018.01.05-18.36.05:762][  0]LogFileHelpers: Loading map 'Arena1' took 23.378
+[2018.01.05-18.36.05:918][  0]LogCollectionManager: Loaded 0 collections in 0.002194 seconds
+[2018.01.05-18.36.06:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
+[2018.01.05-18.36.06:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2018.01.05-18.36.06:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.01s
+[2018.01.05-18.36.06:007][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.05-18.36.06:018][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2363 classes and 519 folders.
+[2018.01.05-18.36.06:083][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.05-18.36.06:117][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.05-18.36.06:165][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.05-18.36.06:184][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.05-18.36.06:186][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.05-18.36.06:191][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.05-18.36.06:321][  0]LogRenderer: Reallocating scene render targets to support 600x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.05-18.36.06:371][  0]LogRenderer: Reallocating scene render targets to support 1232x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.05-18.36.06:607][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.05-18.36.06:607][  0]LogLoad: (Engine Initialization) Total time: 42.39 seconds
+[2018.01.05-18.36.06:607][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.05-18.36.06:607][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.05-18.36.06:607][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.05-18.36.06:980][  0]SourceControl: On branch master
+[2018.01.05-18.36.06:980][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.05-18.36.06:981][  0]SourceControl: Changes to be committed:
+[2018.01.05-18.36.06:981][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Interactables/Armor/BP_SkeletalArmor.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_Bow_Hawkeye.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Interactables/Weapons/BP_Wooden_Bow.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Weapons/Bows/Hawkeye/Material_001.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	copied:     Content/Weapons/Bows/Wahkeye_x10_default.uasset -> Content/Weapons/Bows/Hawkeye/Wahkeye_x10_default.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Weapons/Bows/Material_001.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Weapons/Bows/Wahkeye_x10_default.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Weapons/Bows/Wooden_bow/Arrow_default.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Weapons/Bows/Wooden_bow/Quiver_default.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Weapons/Bows/Wooden_bow/Wooden_Bow_default.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Weapons/Bows/Wooden_bow/blinn1SG.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	new file:   Content/Weapons/Bows/Wooden_bow/initialShadingGroup.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: Changes not staged for commit:
+[2018.01.05-18.36.06:981][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.05-18.36.06:981][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/GameBase/Player_One.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_BaseArmor.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_BreastPlate.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_HeavyShield.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_HelmetwGuard.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_LightShield.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_SkeletalArmor.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/BPI_Interact.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/BP_BaseInteractable.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/BP_BaseItem.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_BaseWeapon.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_Club.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_Crossbow.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_Dagger.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_LongSword.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Content/Interactables/Weapons/BP_Wooden_Bow.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Auto3.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Interactables/Weapons/BP_Bow_Hawkeye_Auto1.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto2.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto3.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto4.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-25-20-23-12.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-25-20-45-44.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-25-20-56-28.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-25-21-07-33.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-25-21-19-10.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2017-12-25-21-41-49.umap
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/BP_Bow_Hawkeye_2017-12-25-21-43-30.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/BP_Crossbow_2017-12-25-21-43-42.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/ESlotType_2017-12-25-20-11-13.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/ESlotType_2017-12-25-21-33-11.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-20-35-34.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-20-40-59.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-20-53-30.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-21-01-49.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-21-07-33.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-21-15-40.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-21-29-11.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-21-36-36.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2017-12-25-21-51-53.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_EquipmentSlot_2017-12-25-20-21-54.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2017-12-25-20-12-48.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2017-12-25-20-23-12.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2017-12-25-20-32-10.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2017-12-25-21-35-52.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2017-12-25-21-41-16.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2017-12-25-21-47-16.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_Item_2017-12-25-20-45-00.uasset
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-0962B23B42A10919525776A6899D5C3C/CrashReportClient.ini
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-B233989A4D62415CC0EA6BAB99191028/CrashReportClient.ini
+[2018.01.05-18.36.06:981][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F3FC4CA942BAFD293580348E963A0718/CrashReportClient.ini
+[2018.01.05-18.36.06:982][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.05-18.36.06:982][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.01.05-18.36.06:982][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2018.01.05-18.36.06:982][  0]SourceControl: Untracked files:
+[2018.01.05-18.36.06:982][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Autosaves/Game/Armor/M_BreastPlate_Auto4.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Autosaves/Game/Armor/SM_BreastPlate_Auto4.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Autosaves/Game/Weapons/Bows/Wooden_bow/
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-05-18-55-25.umap
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-05-19-11-34.umap
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-05-19-30-31.umap
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BPI_Interact_2018-01-05-19-22-03.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_BaseArmor_2018-01-05-19-22-53.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_BaseInteractable_2018-01-05-19-22-51.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_BaseItem_2018-01-05-19-22-51.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_BaseWeapon_2018-01-05-19-22-56.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Bow_Hawkeye_2018-01-05-17-54-31.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Bow_Hawkeye_2018-01-05-18-58-32.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_BreastPlate_2018-01-05-19-22-54.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Club_2018-01-05-19-22-56.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Crossbow_2018-01-05-19-22-56.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Dagger_2018-01-05-19-22-56.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_HeavyShield_2018-01-05-19-22-54.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_HelmetwGuard_2018-01-05-19-22-54.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_LightShield_2018-01-05-19-22-54.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_LongSword_2018-01-05-19-22-56.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_SkeletalArmor_2018-01-05-19-26-13.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_SkeletalArmor_2018-01-05-19-33-31.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_SkeletalBreastPlate_2018-01-05-19-27-57.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_SkeletalInteractable_2018-01-05-19-22-42.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Wooden_Bow_2018-01-05-19-03-21.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Wooden_Bow_2018-01-05-19-08-44.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/BP_Wooden_Bow_2018-01-05-19-22-56.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/M_BreastPlate_2018-01-05-19-30-31.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/Material_001_2018-01-05-17-44-53.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/Player_One_2018-01-05-19-22-51.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/SM_BreastPlate_2018-01-05-19-30-31.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/Wahkeye_x10_default_2018-01-05-17-44-53.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/ybot_2018-01-05-19-11-34.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2018-01-05-19-08-12.uasset
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-0D0BC8184C1668D7F32028B1F5D5C16E/
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-4C9B4D8A4985B701B1A410BC5D5D754D/
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-0D0BC8184C1668D7F32028B1F5D5C16E_0000/
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.05-17.43.38.log
+[2018.01.05-18.36.06:982][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.05-19.35.24.log
+[2018.01.05-18.36.06:982][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.05-18.36.07:082][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.05-18.36.07:626][  2]LogAssetRegistry: Asset discovery search completed in 36.0628 seconds
+[2018.01.05-18.36.07:630][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.05-18.36.07:630][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.01.05-18.36.12:613][ 17]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 5.65s
+[2018.01.05-18.36.35:733][662]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.35:733][662]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset.
+[2018.01.05-18.36.35:733][662]LoadErrors: Error: /Game/Interactables/Armor/BP_SkeletalBreastPlate : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.36.35:736][662]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.35:736][662]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset.
+[2018.01.05-18.36.35:737][662]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.35:738][662]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.35:738][662]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.35:738][662]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.35:738][662]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.35:738][662]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by InheritableComponentHandler
+[2018.01.05-18.36.35:738][662]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.35:739][662]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.35:739][662]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.35:740][662]LogBlueprint: Warning: ValidateTemplates '/Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C:InheritableComponentHandler': overridden template is invalid and will be removed - component 'InteractableskeletalMesh' from 'None'
+[2018.01.05-18.36.35:740][662]LogBlueprint: Warning: ValidateTemplates '/Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C:InheritableComponentHandler': overridden template is invalid and will be removed - component 'InteractableArea' from 'None'
+[2018.01.05-18.36.37:308][662]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.05-18.36.37:627][662]LoadErrors: Error: /Game/Interactables/Armor/BP_SkeletalBreastPlate : Failed import for SkeletalMesh /Game/Armor/SM_BreastPlate.SM_BreastPlate_BreastPlate Referenced by export SkeletalMeshComponent /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C:InteractableskeletalMesh_GEN_VARIABLE
+[2018.01.05-18.36.40:704][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:704][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.40:704][824]LoadErrors: Error: /Game/Interactables/Armor/BP_SkeletalArmor : Can't find file for asset. /Game/Interactables/BP_SkeletalInteractable
+[2018.01.05-18.36.40:704][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:704][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:705][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:706][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:707][824]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by BP_SkeletalArmor
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:707][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:708][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:708][824]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by K2Node_CallParentFunction_0
+[2018.01.05-18.36.40:708][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:708][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:708][824]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by PackageMetaData
+[2018.01.05-18.36.40:708][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:708][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:710][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:710][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset.
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset.
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:711][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:712][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:713][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:714][824]LoadErrors: Failed to load /Game/Interactables/BP_SkeletalInteractable.BP_SkeletalInteractable_C Referenced by BP_SkeletalBreastPlate
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:714][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:715][824]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:722][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UserConstructionScript': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C:SimpleConstructionScript_0
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UserConstructionScript': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InheritableComponentHandler': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C:SimpleConstructionScript_0
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InteractableskeletalMesh_GEN_VARIABLE': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.40:723][824]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InteractableArea_GEN_VARIABLE': BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:234][ 66]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset' did not match any file(s) known to git.
+[2018.01.05-18.36.45:234][ 66]SourceControl: Error: error: pathspec 'C:/Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset' did not match any file(s) known to git.
+[2018.01.05-18.36.45:259][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:259][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.45:259][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:259][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.45:260][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:260][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.45:260][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:260][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalArmor.uasset.
+[2018.01.05-18.36.45:261][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:261][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:261][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:261][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:261][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:262][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:263][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:263][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:263][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:263][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:263][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:263][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:264][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:264][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:264][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:264][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:264][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:264][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:265][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:265][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:265][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:265][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:273][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:273][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset.
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_SkeletalBreastPlate.uasset.
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:274][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:275][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:276][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:277][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:278][ 66]LogLinker: Warning: Can't find file '/Game/Interactables/BP_SkeletalInteractable'
+[2018.01.05-18.36.45:278][ 66]LogLinker: Warning: Can't find file for asset '/Game/Interactables/BP_SkeletalInteractable' while loading NULL.
+[2018.01.05-18.36.45:278][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalArmor.BP_SkeletalArmor_C
+[2018.01.05-18.36.45:278][ 66]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Interactables/Armor/BP_SkeletalBreastPlate.BP_SkeletalBreastPlate_C
+[2018.01.05-18.36.45:280][ 66]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: === Critical error: ===
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: 
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: Assertion failed: OldClass && NewClass [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetReinstanceUtilities.cpp] [Line: 1878] 
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: 
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: 
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: 
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x000000002C5D95FC KERNELBASE.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x000000001ABD76D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x0000000009FB330B UE4Editor-Core.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x0000000009F447F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000FD81C2BA UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000FD81BA28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000FD3A9E6E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000FD39E80B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000013BBD5D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000013EAB4D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000FD96312D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.05-18.36.45:645][ 66]LogWindows: Error: [Callstack] 0x00000000FD96273E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000F75BABEB UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000EF3E7AC1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000EF3DB4DC UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000EF3E2DF6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000000997CD56 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x0000000009983238 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000098D7442 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000098D8A79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x0000000009958795 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x0000000009A12B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x0000000009A3EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000000998540D UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x0000000009855EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x0000000009828095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000098C28A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x00000000098AB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000000989D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000001ABCE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000001ABC1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000001ABD03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000001ABBD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000002DF324FD USER32.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000002DF32357 USER32.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000001ABD1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000003EAA50C8 UE4Editor.exe!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000003EAB5430 UE4Editor.exe!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000003EAB54AA UE4Editor.exe!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000003EAC2379 UE4Editor.exe!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000003EAC3D57 UE4Editor.exe!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000002E9113D2 KERNEL32.DLL!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000002F3854F4 ntdll.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: [Callstack] 0x000000002F3854F4 ntdll.dll!UnknownFunction []
+[2018.01.05-18.36.45:646][ 66]LogWindows: Error: 
+[2018.01.05-18.36.45:656][ 66]LogExit: Executing StaticShutdownAfterError
+[2018.01.05-18.36.45:659][ 66]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.05-18.36.45:660][ 66]Log file closed, 01/05/18 19:36:45
