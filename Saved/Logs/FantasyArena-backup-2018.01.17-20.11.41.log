@@ -1,0 +1,1271 @@
+﻿Log file open, 01/17/18 19:50:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1250272393) SRandInit(1250272393).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.122575
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.17-18.50.58:757][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-18.50.58:757][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.17-18.50.58:788][  0]LogInit: Computer: KLOBUK
+[2018.01.17-18.50.58:788][  0]LogInit: User: Jakub
+[2018.01.17-18.50.58:788][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.17-18.50.58:788][  0]LogInit: High frequency timer resolution =3.514602 MHz
+[2018.01.17-18.50.58:788][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.17-18.50.58:788][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.17-18.50.58:788][  0]LogMemory: Process Physical Memory: 271.11 MB used, 271.11 MB peak
+[2018.01.17-18.50.58:788][  0]LogMemory: Process Virtual Memory: 273.18 MB used, 273.18 MB peak
+[2018.01.17-18.50.58:788][  0]LogMemory: Physical Memory: 2203.79 MB used,  5928.00 MB free, 8131.79 MB total
+[2018.01.17-18.50.58:788][  0]LogMemory: Virtual Memory: 626.43 MB used,  5928.00 MB free, 134217728.00 MB total
+[2018.01.17-18.50.59:049][  0]LogInit: Using OS detected language (en-US).
+[2018.01.17-18.50.59:049][  0]LogInit: Using OS detected locale (sk-SK).
+[2018.01.17-18.50.59:101][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.17-18.50.59:102][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2018.01.17-18.50.59:566][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.17-18.51.01:846][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.17-18.51.01:872][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.01.17-18.51.01:872][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.17-18.51.01:873][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.17-18.51.01:873][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.17-18.51.01:873][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.17-18.51.01:876][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.17-18.51.01:877][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.17-18.51.01:877][  0]LogWindows: EnumDisplayDevices:
+[2018.01.17-18.51.01:878][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.01.17-18.51.01:878][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2018.01.17-18.51.01:878][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.17-18.51.01:878][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.17-18.51.01:878][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.17-18.51.01:878][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.01.17-18.51.01:878][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.01.17-18.51.01:878][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.01.17-18.51.01:878][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.01.17-18.51.01:893][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.17-18.51.01:911][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.17-18.51.01:958][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/2384/).
+[2018.01.17-18.51.01:958][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/1A82A0294F65F11FB6404E9DCF5CEED6/'.
+[2018.01.17-18.51.01:958][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.17-18.51.03:744][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.17-18.51.03:783][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.17-18.51.03:823][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.17-18.51.03:864][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.17-18.51.03:909][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.17-18.51.03:949][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.17-18.51.03:989][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.17-18.51.04:029][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.17-18.51.04:062][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.17-18.51.04:101][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.17-18.51.04:140][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.17-18.51.04:179][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.17-18.51.04:218][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.17-18.51.04:256][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.17-18.51.04:342][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.17-18.51.04:342][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.17-18.51.04:384][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.17-18.51.04:412][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.17-18.51.04:490][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.17-18.51.04:512][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.17-18.51.04:550][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.17-18.51.04:589][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.17-18.51.04:627][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.17-18.51.04:669][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.17-18.51.04:669][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.17-18.51.05:086][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.17-18.51.05:498][  0]LogDerivedDataCache: Loaded boot cache 0.41s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.17-18.51.05:498][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.17-18.51.05:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.17-18.51.05:499][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.17-18.51.05:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.17-18.51.05:499][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.17-18.51.05:527][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.17-18.51.05:539][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.17-18.51.05:549][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.17-18.51.05:550][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.17-18.51.05:563][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-18.51.05:563][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-18.51.06:027][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-18.51.06:405][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.17-18.51.06:435][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.17-18.51.06:435][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.17-18.51.06:435][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.17-18.51.06:435][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.17-18.51.06:435][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.17-18.51.06:478][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2018.01.17-18.51.06:809][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.01.17-18.51.07:681][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.073711 seconds
+[2018.01.17-18.51.07:687][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.17-18.51.07:687][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.17-18.51.07:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.17-18.51.07:727][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.17-18.51.11:662][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.17-18.51.11:697][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.17-18.51.12:303][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.17-18.51.12:716][  0]SourceControl: Source control is disabled
+[2018.01.17-18.51.13:795][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.17-18.51.13:999][  0]LogOcInput: OculusInput pre-init called
+[2018.01.17-18.51.14:243][  0]LogEngine: Initializing Engine...
+[2018.01.17-18.51.14:245][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.17-18.51.14:590][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.17-18.51.14:591][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.17-18.51.14:696][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.17-18.51.14:712][  0]LogInit: XAudio2 using 'LG TV-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.17-18.51.14:751][  0]LogInit: FAudioDevice initialized.
+[2018.01.17-18.51.14:853][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.17-18.51.14:866][  0]LogInit: Texture streaming: Enabled
+[2018.01.17-18.51.14:948][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.17-18.51.15:055][  0]LogInit: Transaction tracking system initialized
+[2018.01.17-18.51.15:359][  0]BlueprintLog: New page: Editor Load
+[2018.01.17-18.51.16:116][  0]LocalizationService: Localization service is disabled
+[2018.01.17-18.51.16:793][  0]LogConsoleResponse: Display: 
+[2018.01.17-18.51.17:353][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.17-18.51.17:353][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.17-18.51.17:353][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.17-18.51.17:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.02s
+[2018.01.17-18.51.18:508][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.17-18.51.18:514][  0]LightingResults: New page: Lighting Build
+[2018.01.17-18.51.18:555][  0]MapCheck: New page: Map Check
+[2018.01.17-18.51.18:555][  0]LightingResults: New page: Lighting Build
+[2018.01.17-18.51.21:232][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Walk_Back.Sword_And_Shield_Walk_Back
+[2018.01.17-18.51.21:232][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Walk_Back.Sword_And_Shield_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.21:234][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_walk.sword_and_shield_walk
+[2018.01.17-18.51.21:234][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_walk.sword_and_shield_walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.21:236][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Right.Sword_And_Shield_Strafe_Right
+[2018.01.17-18.51.21:236][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Right.Sword_And_Shield_Strafe_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.21:286][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Bow_Idle_mixamo_com.Bow_Idle_mixamo_com
+[2018.01.17-18.51.21:286][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Bow_Idle_mixamo_com.Bow_Idle_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.21:430][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.01.17-18.51.39:298][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Left.Sword_And_Shield_Strafe_Left
+[2018.01.17-18.51.39:299][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Left.Sword_And_Shield_Strafe_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:299][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_idle__4_.sword_and_shield_idle__4_
+[2018.01.17-18.51.39:300][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_idle__4_.sword_and_shield_idle__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:302][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight
+[2018.01.17-18.51.39:302][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight.Stand_walk_straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:304][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right
+[2018.01.17-18.51.39:304][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right.Stand_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:305][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left
+[2018.01.17-18.51.39:305][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left.Stand_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:307][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back
+[2018.01.17-18.51.39:307][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back.Stand_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:309][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight
+[2018.01.17-18.51.39:309][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Straight.Run_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:320][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right
+[2018.01.17-18.51.39:320][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Right.Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:321][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left
+[2018.01.17-18.51.39:321][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Left.Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:325][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back
+[2018.01.17-18.51.39:325][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Run_Back.Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:356][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight
+[2018.01.17-18.51.39:357][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Straight.Crouch_Walk_Straight) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:357][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2018.01.17-18.51.39:357][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:358][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2018.01.17-18.51.39:358][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:360][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back
+[2018.01.17-18.51.39:360][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Walk__Back.Crouch_Walk__Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:362][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right
+[2018.01.17-18.51.39:362][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right.Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:363][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left
+[2018.01.17-18.51.39:363][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left.Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:365][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right
+[2018.01.17-18.51.39:365][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right.Crossbow_Crouch_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:366][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left
+[2018.01.17-18.51.39:366][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left.Crossbow_Crouch_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:376][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward
+[2018.01.17-18.51.39:376][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward.Crossbow_Crouch_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:380][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right
+[2018.01.17-18.51.39:380][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right.Crossbow_Crouch_Walk_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:389][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left
+[2018.01.17-18.51.39:389][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left.Crossbow_Crouch_Walk_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:390][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back
+[2018.01.17-18.51.39:391][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back.Crossbow_Crouch_Walk_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:396][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right
+[2018.01.17-18.51.39:396][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right.Aiming_Crossbow_Crouch_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:398][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left
+[2018.01.17-18.51.39:398][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left.Aiming_Crossbow_Crouch_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:400][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward
+[2018.01.17-18.51.39:400][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward.Aiming_Crossbow_Crouch_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:402][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards
+[2018.01.17-18.51.39:402][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards.Aiming_Crossbow_Crouch_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:403][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right
+[2018.01.17-18.51.39:403][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right.Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:405][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left
+[2018.01.17-18.51.39:405][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left.Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:406][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right
+[2018.01.17-18.51.39:406][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right.Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:422][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left
+[2018.01.17-18.51.39:422][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left.Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:423][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward
+[2018.01.17-18.51.39:424][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward.Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:425][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right
+[2018.01.17-18.51.39:425][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right.Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:426][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left
+[2018.01.17-18.51.39:426][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left.Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:445][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back
+[2018.01.17-18.51.39:446][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back.Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:447][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right
+[2018.01.17-18.51.39:447][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right.Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:468][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left
+[2018.01.17-18.51.39:468][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left.Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:486][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward
+[2018.01.17-18.51.39:486][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward.Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:488][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward
+[2018.01.17-18.51.39:488][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward.Crossbow_Walk_Backward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:489][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right
+[2018.01.17-18.51.39:489][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right.Aiming_Crossbow_Run_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:491][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left
+[2018.01.17-18.51.39:491][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left.Aiming_Crossbow_Run_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:492][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right
+[2018.01.17-18.51.39:492][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right.Aiming_Crossbow_Run_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:511][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left
+[2018.01.17-18.51.39:511][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left.Aiming_Crossbow_Run_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:512][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward
+[2018.01.17-18.51.39:513][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward.Aiming_Crossbow_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:514][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right
+[2018.01.17-18.51.39:514][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right.Aiming_Crossbow_Run_Back_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:515][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left
+[2018.01.17-18.51.39:515][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left.Aiming_Crossbow_Run_Back_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:535][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back
+[2018.01.17-18.51.39:535][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back.Aiming_Crossbow_Run_Back) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:536][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right
+[2018.01.17-18.51.39:536][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right.Crossbow_Walk_Forward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:538][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left
+[2018.01.17-18.51.39:538][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left.Crossbow_Walk_Forward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:540][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right
+[2018.01.17-18.51.39:540][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right.Crossbow_Walk_Backward_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:541][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left
+[2018.01.17-18.51.39:541][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left.Crossbow_Walk_Backward_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:543][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right
+[2018.01.17-18.51.39:543][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right.Aiming_Crossbow_Walk_Right) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:544][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left
+[2018.01.17-18.51.39:546][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left.Aiming_Crossbow_Walk_Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:549][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward
+[2018.01.17-18.51.39:549][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward.Aiming_Crossbow_Walk_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:554][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards
+[2018.01.17-18.51.39:554][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards.Aiming_Crossbow_Walk_Backwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:565][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash.sword_and_shield_slash
+[2018.01.17-18.51.39:565][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash.sword_and_shield_slash) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:961][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_2.sheath_sword_2
+[2018.01.17-18.51.39:961][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_2.sheath_sword_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:962][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_1.sheath_sword_1
+[2018.01.17-18.51.39:962][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_1.sheath_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:964][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_2.draw_sword_2
+[2018.01.17-18.51.39:964][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_2.draw_sword_2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:991][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_1.draw_sword_1
+[2018.01.17-18.51.39:991][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_1.draw_sword_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:992][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Put_away_Crossbow_Alpha_Surface_Anim_mixamo_com.Put_away_Crossbow_Alpha_Surface_Anim_mixamo_com
+[2018.01.17-18.51.39:992][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Put_away_Crossbow_Alpha_Surface_Anim_mixamo_com.Put_away_Crossbow_Alpha_Surface_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.39:997][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Grab_Crossbow_Alpha_Surface_Anim_mixamo_com.Grab_Crossbow_Alpha_Surface_Anim_mixamo_com
+[2018.01.17-18.51.39:997][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Grab_Crossbow_Alpha_Surface_Anim_mixamo_com.Grab_Crossbow_Alpha_Surface_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:000][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Shooting_Arrow.Shooting_Arrow
+[2018.01.17-18.51.40:000][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Shooting_Arrow.Shooting_Arrow) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:024][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Standing_Disarm_Bow_mixamo_com.Standing_Disarm_Bow_mixamo_com
+[2018.01.17-18.51.40:024][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Standing_Disarm_Bow_mixamo_com.Standing_Disarm_Bow_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:038][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Standing_Equip_Bow_mixamo_com.Standing_Equip_Bow_mixamo_com
+[2018.01.17-18.51.40:038][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Standing_Equip_Bow_mixamo_com.Standing_Equip_Bow_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:167][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_attack__4_.sword_and_shield_attack__4_
+[2018.01.17-18.51.40:167][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_attack__4_.sword_and_shield_attack__4_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:197][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_kick.sword_and_shield_kick
+[2018.01.17-18.51.40:197][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_kick.sword_and_shield_kick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:243][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash__3_.sword_and_shield_slash__3_
+[2018.01.17-18.51.40:243][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash__3_.sword_and_shield_slash__3_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:576][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle
+[2018.01.17-18.51.40:576][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle.Aiming_Crossbow_Idle) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:579][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle
+[2018.01.17-18.51.40:579][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle.Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:581][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2018.01.17-18.51.40:581][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crouch/Crouch_Idle.Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:584][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle
+[2018.01.17-18.51.40:584][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Normal/Stand_Idle.Stand_Idle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:589][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Sword/Sword_Idle.Sword_Idle
+[2018.01.17-18.51.40:589][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Sword/Sword_Idle.Sword_Idle) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:592][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/bow_walk_forward_mixamo_com.bow_walk_forward_mixamo_com
+[2018.01.17-18.51.40:592][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/bow_walk_forward_mixamo_com.bow_walk_forward_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:594][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/bow_walk_back_mixamo_com.bow_walk_back_mixamo_com
+[2018.01.17-18.51.40:594][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/bow_walk_back_mixamo_com.bow_walk_back_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:596][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Bow_walk_Right_mixamo_com.Bow_walk_Right_mixamo_com
+[2018.01.17-18.51.40:596][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Bow_walk_Right_mixamo_com.Bow_walk_Right_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:598][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Bow_walk_left_mixamo_com.Bow_walk_left_mixamo_com
+[2018.01.17-18.51.40:598][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Bow/Bow_walk_left_mixamo_com.Bow_walk_left_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:600][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle
+[2018.01.17-18.51.40:600][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle.Aiming_Crossbow_Crouch_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:606][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade.Crossbow_Stand_Idle_Remade
+[2018.01.17-18.51.40:606][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade.Crossbow_Stand_Idle_Remade) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.17-18.51.40:682][  0]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-18.51.40:894][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.17-18.51.40:927][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.17-18.51.40:998][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71.226ms to complete.
+[2018.01.17-18.51.40:998][  0]LogFileHelpers: Loading map 'Arena1' took 22.490
+[2018.01.17-18.51.41:197][  0]LogCollectionManager: Loaded 0 collections in 0.002170 seconds
+[2018.01.17-18.51.41:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
+[2018.01.17-18.51.41:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2018.01.17-18.51.41:296][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.01s
+[2018.01.17-18.51.41:296][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.17-18.51.41:309][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2363 classes and 519 folders.
+[2018.01.17-18.51.41:380][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.17-18.51.41:773][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.17-18.51.41:822][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.17-18.51.41:859][  0]LogSlate: Took 0.012300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.17-18.51.41:866][  0]LogSlate: Took 0.004854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.17-18.51.41:878][  0]LogSlate: Took 0.005720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.17-18.51.42:105][  0]LogRenderer: Reallocating scene render targets to support 600x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-18.51.42:151][  0]LogRenderer: Reallocating scene render targets to support 1232x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-18.51.42:415][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.17-18.51.42:415][  0]LogLoad: (Engine Initialization) Total time: 46.50 seconds
+[2018.01.17-18.51.42:415][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.17-18.51.42:415][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.17-18.51.42:415][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.17-18.51.42:459][  0]SourceControl: On branch master
+[2018.01.17-18.51.42:459][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.01.17-18.51.42:459][  0]SourceControl: Changes to be committed:
+[2018.01.17-18.51.42:459][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Eye.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Eyes.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Man.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Body_Group57016001_albedo.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Body_Group57016001_ao.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Body_Group57016001_metallic.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Body_Group57016001_normal.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Body_Group57016001_roughness.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_albedo.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_ao.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_metallic.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_normal.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_roughness.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Eyes_Group1004_albedo.uasset
+[2018.01.17-18.51.42:459][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Eyes_Group1004_ao.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Eyes_Group1004_metallic.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Eyes_Group1004_normal.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/Eyes_Group1004_roughness.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	new file:   Content/Characters/Man/Maps/ManLP_Rig.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	new file:   Content/Characters/Y_Bot/Animations/ShieldAndSword/UpperAttack_Montage.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	new file:   Content/UI/UI_Action.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: Changes not staged for commit:
+[2018.01.17-18.51.42:460][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.17-18.51.42:460][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Content/Characters/Y_Bot/Mesh/ybot_Skeleton.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Content/GameBase/Player_One.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Content/Levels/Arena1.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Content/UI/UI_Action.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Intermediate/ReimportCache/3688439234.bin
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Man/skin_Auto1.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Shooting_Arrow_AM_Auto9.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto7.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Characters/Y_Bot/Mesh/ybot_Skeleton_Auto9.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/GameBase/Player_One_Auto1.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto1.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto2.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto3.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto4.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto5.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto8.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Levels/Arena1_Auto9.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2018-01-02-18-46-35.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2018-01-02-19-00-22.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2018-01-02-19-33-26.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/Arena1_2018-01-02-19-45-29.umap
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_BaseWeapon_2018-01-02-19-16-37.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_Bow_Hawkeye_2018-01-02-19-16-38.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_Bow_Hawkeye_2018-01-02-19-22-49.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_Bow_Hawkeye_2018-01-02-19-46-06.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_CharacterRecorder_2018-01-02-18-46-35.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_CharacterRecorder_2018-01-02-19-16-27.uasset
+[2018.01.17-18.51.42:460][  0]SourceControl: 	deleted:    Saved/Backup/BP_CharacterRecorder_2018-01-02-19-37-50.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Crossbow_2018-01-02-19-16-38.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Crossbow_2018-01-02-19-22-09.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Crossbow_2018-01-02-19-45-53.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_CurvedSword_2018-01-02-19-16-38.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Dagger_2018-01-02-19-16-38.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Daqgger_2018-01-02-18-57-52.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_HeavyShield_2018-01-02-19-48-52.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_LightShield_2018-01-02-19-47-47.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Longsword_2018-01-02-19-05-43.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/BP_Longsword_2018-01-02-19-16-38.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ESlotType_2018-01-02-18-33-07.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ESlotType_2018-01-02-19-37-42.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/FWeaponInfo_2018-01-02-19-10-15.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Man_Standing_Idle_2017-12-26-15-19-56.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Man_Standing_Idle_2017-12-26-15-58-05.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Man_Standing_Idle_InEyesStuff_Group1_001_Anim_mixamo_com_2017-12-26-15-30-10.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Man_Standing_Idle_InEyesStuff_Group1_001_Anim_mixamo_com_2017-12-26-15-58-05.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Man_Standing_Idle_InEyesStuff_Group1_001_Skeleton_2017-12-26-15-30-10.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Man_Standing_Idle_InEyesStuff_Group1_001_Skeleton_2017-12-26-15-58-05.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2018-01-02-18-37-27.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2018-01-02-18-54-17.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2018-01-02-19-13-01.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2018-01-02-19-26-18.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2018-01-02-19-33-26.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/Player_One_2018-01-02-19-43-54.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2018-01-02-18-46-36.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2018-01-02-18-52-37.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2018-01-02-19-25-12.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2018-01-02-19-31-33.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/UI_Inventory_2018-01-02-19-37-51.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ybot_2018-01-02-19-33-28.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ybot_2018-01-02-19-48-57.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ybot_Skeleton_2018-01-02-19-04-53.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ybot_Skeleton_2018-01-02-19-21-13.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Backup/ybot_Skeleton_2018-01-02-19-33-26.uasset
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-91C3AB064E872FBA056C03A5403B1510/CrashReportClient.ini
+[2018.01.17-18.51.42:461][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D6126DBF4A7DE1F4B164A89B40EF54ED/CrashReportClient.ini
+[2018.01.17-18.51.42:461][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.01.17-18.51.42:461][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.17-18.51.42:462][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.04-17.26.05.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.04-21.05.10.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.05-17.43.38.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.05-19.35.24.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.05-19.38.02.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.07-17.01.48.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena-backup-2018.01.08-17.57.05.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2018.01.05-19.40.58.log
+[2018.01.17-18.51.42:462][  0]SourceControl: 	deleted:    Saved/Logs/FantasyArena_2-backup-2018.01.07-21.38.56.log
+[2018.01.17-18.51.42:462][  0]SourceControl: Untracked files:
+[2018.01.17-18.51.42:462][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_albedo.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_albedo.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_ao.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_ao.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_metallic.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_metallic.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_normal.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_normal.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_reflection.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_reflection.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_roughness.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Body_Group57016001_roughness.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_albedo.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_albedo.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_ao.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_ao.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_metallic.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_metallic.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_normal.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_normal.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_roughness.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/EyeLashes_Eyelashes_Group1003_roughness.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_albedo.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_albedo.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_ao.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_ao.tif
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_metallic.png
+[2018.01.17-18.51.42:462][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_metallic.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_normal.png
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_normal.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_roughness.png
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/Eyes_Group1004_roughness.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InEyesStuff_Group1001_albedo.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InEyesStuff_Group1001_metallic.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InEyesStuff_Group1001_normal.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InEyesStuff_Group1001_roughness.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InMouth_Group17575_albedo.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InMouth_Group17575_ao.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InMouth_Group17575_metallic.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InMouth_Group17575_normal.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/InMouth_Group17575_roughness.tif
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Content/Characters/Man/Maps/ManLP_Rig.fbx
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Armor/Alpha_Body_MAT_Auto9.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Armor/Armor_Auto9.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Armor/Armor_ybot_002_PhysicsAsset_Auto9.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Body_Group57016001__AlbedoM__Auto1.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Body_Group57016001__Normal__Auto1.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eye_Auto7.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eyelash_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eyelash_Auto5.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eyelashes_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eyelashes_EyeLashes_PhysicsAsset_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eyes_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Eyes_Eyes_PhysicsAsset_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/InMouth_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/InMouth_InMouth_PhysicsAsset_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/InsideOfMouth_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Lacrimal_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Lacrimal_Auto7.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Lacrimal_Auto8.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Lacrimal_InEyesStuff_PhysicsAsset_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Lips_Auto3.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Man_Body_PhysicsAsset_Auto1.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Man_Body_Skeleton_Auto1.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Man_Body_Skeleton_Auto7.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Skin_Auto2.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Skin_Auto4.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Skin_Auto5.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Skin_Auto6.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Man/Skin_Auto7.uasset
+[2018.01.17-18.51.42:463][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Bow_Idle_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Bow_movement_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Bow_walk_Right_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Bow_walk_left_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Draw_Bow_AM_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Sheath_Bow_AM_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Shooting_Arrow_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Standing_Disarm_Bow_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/Standing_Equip_Bow_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/bow_walk_back_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Bow/bow_walk_forward_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Idle_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Back_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Forward_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Run_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Backwards_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Forward_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Aiming_Crossbow_Walk_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/BS_Aiming_Crossbow_Movement_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/BS_Aiming_Crossbow_Run_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/BS_Crossbow_Movement_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/BS_Crossbow_Run_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Back_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Forward_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Run_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Left_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Backward_Right_Auto9.uasset
+[2018.01.17-18.51.42:464][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Forward_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Crossbow_Walk_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Grab_Crossbow_AM_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Grab_Crossbow_Alpha_Surface_Anim_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Put_Back_Crossbow_AM_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/Put_away_Crossbow_Alpha_Surface_Anim_mixamo_com_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow/RemadeAnimations/Crossbow_Stand_Idle_Remade_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Backwards_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Forward_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Idle_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Aiming_Crossbow_Crouch_Walk_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/BS_Aiming_Crossbow_Crouch_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/BS_Crossbow_Crouch_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Idle_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Back_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Forward_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crossbow_Crouch/Crossbow_Crouch_Walk_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Crouch/
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/BS_Running_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/BS_Walking_Basic_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Run_Back_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Run_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Run_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Run_Straight_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Stand_Idle_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Back_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Left_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Stand_Walk_Right_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Normal/Stand_walk_straight_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/Combo_1_Montage_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/Combo_2_Montage_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/Combo_3_Montage_Auto9.uasset
+[2018.01.17-18.51.42:465][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/DrawSword_Montage_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/SheathSword_Montage_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/SwordAndShieldWalking_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Left_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Strafe_Right_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/Sword_And_Shield_Walk_Back_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_1_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/draw_sword_2_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_1_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sheath_sword_2_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_idle__4__Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_kick_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_slash__3__Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/ShieldAndSword/sword_and_shield_walk_Auto9.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/Characters/Y_Bot/Animations/Sword/
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/GameBase/Player_Man_1_Auto2.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/GameBase/Player_Man_1_Auto3.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Autosaves/Game/UI/UI_Action_Auto1.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Crouch_Backwards_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Crouch_Forward_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Crouch_Idle_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Crouch_Walk_Left_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Crouch_Walk_Right_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Idle_2018-01-10-21-44-21.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Back_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Back_Left_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Back_Right_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Forward_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Forward_Left_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Forward_Right_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Left_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Run_Right_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Walk_Backwards_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Walk_Forward_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Walk_Left_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Aiming_Crossbow_Walk_Right_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-20-00-40.umap
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-20-13-00.umap
+[2018.01.17-18.51.42:466][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-20-23-13.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-20-45-11.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-20-55-41.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-21-32-23.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-10-21-44-21.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-14-19-45-24.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Arena1_2018-01-14-19-58-34.umap
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Aiming_Crossbow_Crouch_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Aiming_Crossbow_Movement_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Aiming_Crossbow_Run_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Crossbow_Crouch_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Crossbow_Movement_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Crossbow_Run_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Crouch_Movement_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Running_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/BS_Walking_Basic_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Bow_Idle_mixamo_com_2018-01-10-21-44-21.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Bow_movement_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Bow_walk_Right_mixamo_com_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Bow_walk_left_mixamo_com_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Combo_1_Montage_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Combo_2_Montage_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Combo_3_Montage_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Idle_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Back_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Back_Left_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Back_Right_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Forward_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Forward_Left_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Forward_Right_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Left_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Crouch_Walk_Right_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Back_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Back_Left_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Back_Right_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Forward_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Forward_Left_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Forward_Right_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Left_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:467][  0]SourceControl: 	Saved/Backup/Crossbow_Run_Right_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Stand_Idle_Remade_2018-01-10-21-44-22.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Backward_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Backward_Left_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Backward_Right_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Forward_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Forward_Left_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Forward_Right_2018-01-10-21-44-24.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Left_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crossbow_Walk_Right_2018-01-10-21-44-25.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crouch_Idle_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crouch_Walk_Left_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crouch_Walk_Right_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crouch_Walk_Straight_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Crouch_Walk__Back_2018-01-10-21-44-26.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/DrawSword_Montage_2018-01-10-21-44-30.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Draw_Bow_AM_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Eye_2018-01-10-21-22-23.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Grab_Crossbow_AM_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Grab_Crossbow_Alpha_Surface_Anim_mixamo_com_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Man_2018-01-10-21-12-49.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_Man_1_2018-01-10-20-13-00.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_Man_1_2018-01-10-20-23-13.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_Man_1_2018-01-10-20-41-06.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_One_2018-01-14-19-25-33.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_One_2018-01-14-19-31-01.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_One_2018-01-14-19-39-19.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Player_One_2018-01-14-19-57-51.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Put_Back_Crossbow_AM_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Put_away_Crossbow_Alpha_Surface_Anim_mixamo_com_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Run_Back_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Run_Left_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Run_Right_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Run_Straight_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/SheathSword_Montage_2018-01-10-21-44-30.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Sheath_Bow_AM_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Shooting_Arrow_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Shooting_Arrow_AM_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Stand_Idle_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Stand_Walk_Back_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Stand_Walk_Left_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Stand_Walk_Right_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:468][  0]SourceControl: 	Saved/Backup/Stand_walk_straight_2018-01-10-21-44-27.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/Standing_Disarm_Bow_mixamo_com_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/Standing_Equip_Bow_mixamo_com_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/SwordAndShieldWalking_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/Sword_And_Shield_Strafe_Left_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/Sword_And_Shield_Strafe_Right_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/Sword_And_Shield_Walk_Back_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/Sword_Idle_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/UI_Action_2018-01-14-19-31-50.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/UI_Action_2018-01-14-19-38-31.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/UI_Action_2018-01-15-18-50-29.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/UI_Action_2018-01-15-18-56-54.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/UI_Action_2018-01-15-19-07-30.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/bow_walk_back_mixamo_com_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/bow_walk_forward_mixamo_com_2018-01-10-21-44-23.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/draw_sword_1_2018-01-10-21-44-30.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/draw_sword_2_2018-01-10-21-44-30.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sheath_sword_1_2018-01-10-21-44-30.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sheath_sword_2_2018-01-10-21-44-30.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sword_and_shield_idle__4__2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sword_and_shield_kick_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sword_and_shield_slash_2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sword_and_shield_slash__3__2018-01-10-21-44-29.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/sword_and_shield_walk_2018-01-10-21-44-28.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/ybot_2018-01-15-19-11-11.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2018-01-10-21-22-22.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2018-01-10-21-44-21.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Backup/ybot_Skeleton_2018-01-15-19-11-11.uasset
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-B9B53E7C4FAD4B3559DF51B696B15A85/
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-F566089A4681DAB4FE2D2D90EDA20E60_0000/
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-F566089A4681DAB4FE2D2D90EDA20E60_0001/
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.14-19.09.39.log
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.14-19.45.50.log
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.15-18.38.26.log
+[2018.01.17-18.51.42:469][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.17-19.50.57.log
+[2018.01.17-18.51.42:470][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.17-18.51.42:548][  0]LogSlate: Took 0.005926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-18.51.42:696][  2]LogAssetRegistry: Asset discovery search completed in 35.9092 seconds
+[2018.01.17-18.51.42:699][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.17-18.51.42:699][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2018.01.17-18.51.52:669][632]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 10.23s
+[2018.01.17-19.04.01:282][542]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-19.04.01:282][542]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-19.04.02:653][676]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.04.02:701][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.04.02:702][676]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:04:02 PM)
+[2018.01.17-19.04.02:702][676]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2018.01.17-19.04.02:713][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010934s)
+[2018.01.17-19.04.02:714][676]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.04.02:714][676]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.01.17-19.04.02:714][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012197s)
+[2018.01.17-19.04.02:733][676]LogInit: XAudio2 using 'LG TV-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.17-19.04.02:739][676]LogInit: FAudioDevice initialized.
+[2018.01.17-19.04.02:815][676]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.04.02:819][676]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.04.02
+[2018.01.17-19.04.02:819][676]LogWorld: Bringing up level for play took: 0.003432
+[2018.01.17-19.04.02:853][676]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.17-19.04.02:860][676]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.152
+[2018.01.17-19.04.02:924][676]LogRenderer: Reallocating scene render targets to support 1292x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-19.04.08:424][156]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:425][156]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.08:426][156]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:426][156]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.08:426][156]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.08:426][156]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:960][288]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:960][288]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:961][288]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:961][288]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:961][288]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:961][288]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:961][288]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:961][288]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.04.09:962][288]LogScriptCore: Warning: Script Msg: Attempted to remove an item from an invalid index from array Equipment [0/0]!
+[2018.01.17-19.05.08:884][462]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-19.05.09:161][463]Cmd: QUIT_EDITOR
+[2018.01.17-19.05.09:511][463]LogExit: Preparing to exit.
+[2018.01.17-19.05.10:069][463]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2018.01.17-19.05.10:095][463]LogExit: Editor shut down
+[2018.01.17-19.05.10:099][463]LogExit: Transaction tracking system shut down
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.17-19.05.10:203][463]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.17-19.05.10:252][463]LogExit: Object subsystem successfully closed.
+[2018.01.17-19.05.10:268][463]LogD3D11RHI: Shutdown
+[2018.01.17-19.05.10:268][463]LogD3D11RHI: CleanupD3DDevice
+[2018.01.17-19.05.10:270][463]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.17-19.05.10:282][463]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.01.17-19.05.10:282][463]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.17-19.05.10:282][463]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.17-19.05.10:282][463]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.17-19.05.10:282][463]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.17-19.05.10:283][463]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' was aborted.
+[2018.01.17-19.05.10:283][463]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' was aborted.
+[2018.01.17-19.05.10:283][463]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' was aborted.
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.17-19.05.10:283][463]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.17-19.05.10:284][463]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.17-19.05.10:825][463]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.17-19.05.10:826][463]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.17-19.05.10:880][463]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.17-19.05.10:883][463]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.17-19.05.11:082][463]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.17-19.05.11:083][463]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.17-19.05.11:084][463]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.17-19.05.11:185][463]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.17-19.05.11:285][463]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.17-19.05.11:285][463]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.17-19.05.11:285][463]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.17-19.05.11:285][463]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.17-19.05.11:285][463]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.17-19.05.11:285][463]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.17-19.05.11:286][463]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.17-19.05.11:292][463]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.17-19.05.11:293][463]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.17-19.05.11:293][463]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.17-19.05.11:294][463]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.17-19.05.11:294][463]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.17-19.05.11:295][463]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.17-19.05.11:316][463]LogDerivedDataCache: Shutdown
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.17-19.05.11:316][463]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.17-19.05.11:317][463]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.17-19.05.11:317][463]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.17-19.05.11:317][463]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2999B234-4D80-F95C-1AD4-18921F83757C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0f819dde4a3301700e3c92be97adbf7c%7C7fb0b03c6dec40ebb9abf228ffb5ef91%7C16f2fa0e-04fd-479c-a6bc-11ed19de6989&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.17-19.05.11:319][463]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.17-19.05.11:320][463]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.17-19.05.11:321][463]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.17-19.05.11:322][463]LogExit: Exiting.
+[2018.01.17-19.05.11:344][463]Log file closed, 01/17/18 20:05:11

@@ -1,0 +1,1299 @@
+﻿Log file open, 01/17/18 20:11:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FantasyArena
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1331351763) SRandInit(1331351763).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098298
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.17-19.11.42:799][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-19.11.42:799][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.17-19.11.42:810][  0]LogInit: Computer: KLOBUK
+[2018.01.17-19.11.42:810][  0]LogInit: User: Jakub
+[2018.01.17-19.11.42:810][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.17-19.11.42:810][  0]LogInit: High frequency timer resolution =3.514602 MHz
+[2018.01.17-19.11.42:811][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.17-19.11.42:811][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.17-19.11.42:811][  0]LogMemory: Process Physical Memory: 271.02 MB used, 271.02 MB peak
+[2018.01.17-19.11.42:811][  0]LogMemory: Process Virtual Memory: 264.17 MB used, 264.17 MB peak
+[2018.01.17-19.11.42:811][  0]LogMemory: Physical Memory: 3080.17 MB used,  5051.61 MB free, 8131.79 MB total
+[2018.01.17-19.11.42:811][  0]LogMemory: Virtual Memory: 617.49 MB used,  5051.61 MB free, 134217728.00 MB total
+[2018.01.17-19.11.42:926][  0]LogInit: Using OS detected language (en-US).
+[2018.01.17-19.11.42:926][  0]LogInit: Using OS detected locale (sk-SK).
+[2018.01.17-19.11.42:929][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.17-19.11.42:929][  0]LogTextLocalizationManager: No localization for 'sk-SK' exists, so 'en-US' will be used for the locale.
+[2018.01.17-19.11.43:330][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.17-19.11.43:554][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.17-19.11.43:577][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.01.17-19.11.43:577][  0]LogD3D11RHI:       1977/0/4065 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.17-19.11.43:578][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.17-19.11.43:578][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.17-19.11.43:578][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.17-19.11.43:581][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.17-19.11.43:581][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.17-19.11.43:581][  0]LogWindows: EnumDisplayDevices:
+[2018.01.17-19.11.43:581][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.01.17-19.11.43:581][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.17-19.11.43:581][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.17-19.11.43:582][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.01.17-19.11.43:582][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.17-19.11.43:582][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.01.17-19.11.43:582][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.01.17-19.11.43:582][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.01.17-19.11.43:582][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.01.17-19.11.43:593][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.17-19.11.43:611][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.17-19.11.43:612][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../Users/Jakub/Documents/GodsOfArena/Intermediate/Shaders/WorkingDirectory/388/).
+[2018.01.17-19.11.43:612][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/FABAF35D443B0001AE587AB17D33E662/'.
+[2018.01.17-19.11.43:612][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.17-19.11.44:461][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.17-19.11.44:501][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.17-19.11.44:540][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.17-19.11.44:580][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.17-19.11.44:620][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.17-19.11.44:659][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.17-19.11.44:699][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.17-19.11.44:739][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.17-19.11.44:773][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.17-19.11.44:813][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.17-19.11.44:853][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.17-19.11.44:893][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.17-19.11.44:932][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.17-19.11.44:972][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.17-19.11.45:051][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.17-19.11.45:051][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.17-19.11.45:090][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.17-19.11.45:119][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.17-19.11.45:193][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.17-19.11.45:215][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.17-19.11.45:253][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.17-19.11.45:292][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.17-19.11.45:330][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.17-19.11.45:370][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.17-19.11.45:370][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.17-19.11.45:721][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.17-19.11.45:811][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.17-19.11.45:811][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.17-19.11.45:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.17-19.11.45:811][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.17-19.11.45:811][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jakub/Documents/GodsOfArena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.17-19.11.45:811][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.17-19.11.45:828][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.17-19.11.45:840][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.17-19.11.45:850][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.17-19.11.45:850][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.17-19.11.45:851][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-19.11.45:851][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-19.11.46:183][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-19.11.46:450][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.17-19.11.46:480][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.17-19.11.46:480][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.17-19.11.46:480][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.17-19.11.46:480][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.17-19.11.46:480][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.17-19.11.46:502][  0]LogNetVersion: FantasyArena , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147670905)
+[2018.01.17-19.11.46:651][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.01.17-19.11.47:142][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.064722 seconds
+[2018.01.17-19.11.47:148][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.17-19.11.47:148][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.17-19.11.47:148][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.17-19.11.47:187][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.17-19.11.49:385][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.17-19.11.49:420][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.17-19.11.49:941][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.17-19.11.50:279][  0]SourceControl: Source control is disabled
+[2018.01.17-19.11.51:144][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.17-19.11.51:345][  0]LogOcInput: OculusInput pre-init called
+[2018.01.17-19.11.51:569][  0]LogEngine: Initializing Engine...
+[2018.01.17-19.11.51:571][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.17-19.11.51:785][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.17-19.11.51:785][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.17-19.11.51:892][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.17-19.11.51:902][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.11.51:917][  0]LogInit: FAudioDevice initialized.
+[2018.01.17-19.11.52:026][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.17-19.11.52:036][  0]LogInit: Texture streaming: Enabled
+[2018.01.17-19.11.52:111][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.17-19.11.52:209][  0]LogInit: Transaction tracking system initialized
+[2018.01.17-19.11.52:438][  0]BlueprintLog: New page: Editor Load
+[2018.01.17-19.11.53:099][  0]LocalizationService: Localization service is disabled
+[2018.01.17-19.11.53:652][  0]LogConsoleResponse: Display: 
+[2018.01.17-19.11.53:811][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.17-19.11.53:811][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.17-19.11.53:811][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.17-19.11.54:713][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 0.02s
+[2018.01.17-19.11.54:713][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.17-19.11.54:714][  0]LightingResults: New page: Lighting Build
+[2018.01.17-19.11.54:744][  0]MapCheck: New page: Map Check
+[2018.01.17-19.11.54:744][  0]LightingResults: New page: Lighting Build
+[2018.01.17-19.11.56:029][  0]LogMaterial: Incomplete cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.01.17-19.12.09:963][  0]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.12.09:996][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.17-19.12.10:018][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.17-19.12.10:080][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.302ms to complete.
+[2018.01.17-19.12.10:080][  0]LogFileHelpers: Loading map 'Arena1' took 15.368
+[2018.01.17-19.12.10:140][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-19.12.10:228][  0]LogCollectionManager: Loaded 0 collections in 0.001548 seconds
+[2018.01.17-19.12.10:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' took 0.01s
+[2018.01.17-19.12.10:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' took 0.01s
+[2018.01.17-19.12.10:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' took 0.01s
+[2018.01.17-19.12.10:300][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.17-19.12.10:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2363 classes and 519 folders.
+[2018.01.17-19.12.10:359][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.17-19.12.10:389][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.17-19.12.10:422][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.17-19.12.10:437][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.17-19.12.10:441][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.17-19.12.10:448][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.17-19.12.10:549][  0]LogRenderer: Reallocating scene render targets to support 600x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-19.12.10:590][  0]LogRenderer: Reallocating scene render targets to support 1232x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-19.12.10:794][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.17-19.12.10:794][  0]LogLoad: (Engine Initialization) Total time: 29.77 seconds
+[2018.01.17-19.12.10:794][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.17-19.12.10:794][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.17-19.12.10:794][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.17-19.12.10:835][  0]SourceControl: On branch master
+[2018.01.17-19.12.10:835][  0]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2018.01.17-19.12.10:835][  0]SourceControl:   (use "git push" to publish your local commits)
+[2018.01.17-19.12.10:835][  0]SourceControl: Changes not staged for commit:
+[2018.01.17-19.12.10:835][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.01.17-19.12.10:835][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.17-19.12.10:835][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.01.17-19.12.10:835][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.01.17-19.12.10:835][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.17-19.12.10:835][  0]SourceControl: 	modified:   Saved/Logs/FantasyArena.log
+[2018.01.17-19.12.10:835][  0]SourceControl: Untracked files:
+[2018.01.17-19.12.10:835][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.17-19.12.10:835][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-05499B0E462974E0708981802670621A/
+[2018.01.17-19.12.10:835][  0]SourceControl: 	Saved/Logs/FantasyArena-backup-2018.01.17-20.11.41.log
+[2018.01.17-19.12.10:835][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.17-19.12.10:836][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.17-19.12.10:886][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-19.12.10:941][  1]LogAssetRegistry: Asset discovery search completed in 24.3122 seconds
+[2018.01.17-19.12.10:944][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.17-19.12.10:944][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.01.17-19.12.15:021][316]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-19.12.15:357][316]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.01.17-19.12.16:000][316]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.17-19.12.16:087][316]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Jakub/Documents/GodsOfArena/Content/' took 5.27s
+[2018.01.17-19.12.16:099][316]LogSlate: Took 0.006616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.17-19.12.16:662][317]LogSlate: Took 0.006693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.17-19.16.05:965][376]BlueprintLog: New page: Compile Player_One
+[2018.01.17-19.16.07:818][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2018.01.17-19.16.08:877][376]LogSavePackage: Save=1034.14ms
+[2018.01.17-19.16.08:877][376]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_OneE2C5301E4A657AD9FE9443B2B3B46AA8.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset'
+[2018.01.17-19.16.08:881][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset
+[2018.01.17-19.16.17:211][ 67]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.01.17-19.16.38:157][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena1" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.17-19.16.38:387][114]LogSavePackage: Save=188.55ms
+[2018.01.17-19.16.38:387][114]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Arena15B9E73C44499123E12E474BFB7ECB6F3.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap'
+[2018.01.17-19.16.38:390][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Levels/Arena1.umap
+[2018.01.17-19.16.38:503][114]LogFileHelpers: Saving map 'Arena1' took 0.410
+[2018.01.17-19.16.40:747][283]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.16.40:804][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.16.40:804][283]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:16:40 PM)
+[2018.01.17-19.16.40:804][283]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2018.01.17-19.16.40:813][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009419s)
+[2018.01.17-19.16.40:814][283]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.16.40:814][283]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.01.17-19.16.40:815][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.010532s)
+[2018.01.17-19.16.40:842][283]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.16.40:852][283]LogInit: FAudioDevice initialized.
+[2018.01.17-19.16.40:984][283]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.16.40:988][283]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.16.40
+[2018.01.17-19.16.40:989][283]LogWorld: Bringing up level for play took: 0.003593
+[2018.01.17-19.16.41:023][283]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.17-19.16.41:030][283]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.321
+[2018.01.17-19.16.41:067][283]LogRenderer: Reallocating scene render targets to support 1292x800 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-19.16.44:351][579]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:351][579]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:351][579]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:351][579]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:351][579]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:351][579]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.16.44:352][579]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.16.44:352][579]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as target
+[2018.01.17-19.16.44:352][579]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:0FD5
+[2018.01.17-19.16.44:352][579]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set bShowMouseCursor in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.16.44:352][579]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:1031
+[2018.01.17-19.16.44:352][579]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set IsInventoryOpen? in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.17.09:318][ 81]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.01.17-19.17.09:318][ 81]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.01.17-19.17.09:318][ 81]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.01.17-19.17.09:318][ 81]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.01.17-19.17.09:318][ 81]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.01.17-19.18.12:444][803]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.18.12:472][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.18.12:472][803]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:18:12 PM)
+[2018.01.17-19.18.12:472][803]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2018.01.17-19.18.12:483][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010833s)
+[2018.01.17-19.18.12:484][803]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.18.12:484][803]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.01.17-19.18.12:484][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.012042s)
+[2018.01.17-19.18.12:511][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.18.12:520][803]LogInit: FAudioDevice initialized.
+[2018.01.17-19.18.12:581][803]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.18.12:585][803]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.18.12
+[2018.01.17-19.18.12:585][803]LogWorld: Bringing up level for play took: 0.003837
+[2018.01.17-19.18.12:604][803]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 -0.104
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:141][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:142][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:142][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:142][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:142][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:142][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.18.16:142][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.18.16:142][ 68]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as target
+[2018.01.17-19.18.16:142][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:0FD5
+[2018.01.17-19.18.16:142][ 68]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set bShowMouseCursor in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.18.16:142][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:1031
+[2018.01.17-19.18.16:142][ 68]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set IsInventoryOpen? in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.19.41:085][194]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-19.19.51:731][418]BlueprintLog: New page: Compile UI_Inventory
+[2018.01.17-19.19.51:984][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Inventory.uasset" SILENT=true
+[2018.01.17-19.19.52:256][418]LogSavePackage: Save=244.70ms
+[2018.01.17-19.19.52:256][418]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/UI_Inventory0120EC304DF855ADC1AD8B8BA18E315A.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Inventory.uasset'
+[2018.01.17-19.19.52:258][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Inventory.uasset
+[2018.01.17-19.20.27:196][284]BlueprintLog: New page: Compile UI_Action
+[2018.01.17-19.20.27:367][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Action" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Action.uasset" SILENT=true
+[2018.01.17-19.20.27:462][284]LogSavePackage: Save=71.78ms
+[2018.01.17-19.20.27:462][284]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/UI_Action83CB6E4C443BA8D87798C28C56371EAD.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Action.uasset'
+[2018.01.17-19.20.27:465][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Action.uasset
+[2018.01.17-19.20.29:811][504]BlueprintLog: New page: Compile Player_One
+[2018.01.17-19.20.31:625][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2018.01.17-19.20.32:676][504]LogSavePackage: Save=1036.93ms
+[2018.01.17-19.20.32:676][504]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_OneE9D025E147A0ED9DD77AB48898FC64E4.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset'
+[2018.01.17-19.20.32:679][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset
+[2018.01.17-19.20.33:426][542]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.20.33:467][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.20.33:467][542]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:20:33 PM)
+[2018.01.17-19.20.33:467][542]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2018.01.17-19.20.33:477][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009635s)
+[2018.01.17-19.20.33:477][542]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.20.33:478][542]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.01.17-19.20.33:478][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.010600s)
+[2018.01.17-19.20.33:505][542]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.20.33:516][542]LogInit: FAudioDevice initialized.
+[2018.01.17-19.20.33:572][542]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.20.33:576][542]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.20.33
+[2018.01.17-19.20.33:577][542]LogWorld: Bringing up level for play took: 0.004060
+[2018.01.17-19.20.33:595][542]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.887
+[2018.01.17-19.20.36:017][744]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:017][744]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:017][744]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:017][744]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:017][744]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.20.36:018][744]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.20.36:018][744]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as target
+[2018.01.17-19.20.36:018][744]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:0FD5
+[2018.01.17-19.20.36:018][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set bShowMouseCursor in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.20.36:019][744]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:1031
+[2018.01.17-19.20.36:019][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set IsInventoryOpen? in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.20.46:837][803]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.01.17-19.20.46:837][803]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.01.17-19.22.15:091][202]BlueprintLog: New page: Compile Player_One
+[2018.01.17-19.22.16:914][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2018.01.17-19.22.17:980][202]LogSavePackage: Save=1033.18ms
+[2018.01.17-19.22.17:980][202]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_One7ECCF4B64B6DDCF6138BD09F67670B10.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset'
+[2018.01.17-19.22.17:983][202]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset
+[2018.01.17-19.22.21:266][529]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.22.21:302][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.22.21:302][529]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:22:21 PM)
+[2018.01.17-19.22.21:302][529]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Arena1
+[2018.01.17-19.22.21:312][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009293s)
+[2018.01.17-19.22.21:312][529]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.22.21:313][529]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.01.17-19.22.21:313][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_0_Arena1.Arena1 (0.010454s)
+[2018.01.17-19.22.21:343][529]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.22.21:353][529]LogInit: FAudioDevice initialized.
+[2018.01.17-19.22.21:409][529]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.22.21:413][529]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.22.21
+[2018.01.17-19.22.21:413][529]LogWorld: Bringing up level for play took: 0.003522
+[2018.01.17-19.22.21:433][529]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Arena1 0.725
+[2018.01.17-19.22.24:549][785]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:549][785]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:549][785]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:549][785]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.22.24:550][785]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.22.24:550][785]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as target
+[2018.01.17-19.22.24:550][785]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:0E2A
+[2018.01.17-19.22.24:551][785]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set bShowMouseCursor in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.22.24:551][785]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+	Player_One_C /Game/Levels/UEDPIE_0_Arena1.Arena1:PersistentLevel.Player_One_C_0
+	Function /Game/GameBase/Player_One.Player_One_C:ExecuteUbergraph_Player_One:0E86
+[2018.01.17-19.22.24:551][785]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2 from function: 'ExecuteUbergraph_Player_One' from node: Set IsInventoryOpen? in graph: EventGraph in object: Player_One with description: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue2
+[2018.01.17-19.22.51:166][493]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.01.17-19.23.10:652][444]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.17-19.23.10:709][445]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FantasyArena
+[2018.01.17-19.23.10:709][445]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.17-19.23.10:709][445]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.18
+[2018.01.17-19.23.10:709][445]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.17-19.23.10:709][445]LogTemp: BranchPath = KLOBUK/C/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = KLOBUK/C/Program Files (x86)/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.17-19.23.10:727][446]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Jakub\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.17-19.23.43:110][290]SourceControl: Error: fatal: Invalid path '/Script': No such file or directory
+[2018.01.17-19.28.32:345][821]LogBlueprint: Error: [Compiler Player_Two] COMPILER ERROR: failed building connection with 'Player One Object Reference is not compatible with Self Object Reference.' at  Interaction
+Using Interface SKEL_BPI_Interact_C
+[2018.01.17-19.28.32:601][821]LogBlueprint: Warning: [Compiler Player_Two] [1011.58] Compile of Player_Two failed. 1 Fatal Issue(s) 0 Warning(s) [in 312 ms] (/Game/GameBase/Player_Two.Player_Two)
+[2018.01.17-19.28.33:012][821]LogBlueprint: Error: [Compiler Player_Two] COMPILER ERROR: failed building connection with 'Player One Object Reference is not compatible with Self Object Reference.' at  Interaction
+Using Interface SKEL_BPI_Interact_C
+[2018.01.17-19.28.33:084][821]LogBlueprint: Warning: [Compiler Player_Two] [1012.06] Compile of Player_Two failed. 1 Fatal Issue(s) 0 Warning(s) [in 285 ms] (/Game/GameBase/Player_Two.Player_Two)
+[2018.01.17-19.28.33:421][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_Two" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset" SILENT=true
+[2018.01.17-19.28.34:448][821]LogSavePackage: Save=1025.93ms
+[2018.01.17-19.28.34:448][821]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_TwoA6BAB7204FCBDB1DC46EB9A3C1FBAA44.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset'
+[2018.01.17-19.28.34:452][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset
+[2018.01.17-19.30.41:478][815]LogSlate: Took 0.004627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.17-19.30.51:601][  3]BlueprintLog: New page: Compile BPI_Interact
+[2018.01.17-19.30.51:760][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BPI_Interact" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_Interact.uasset" SILENT=true
+[2018.01.17-19.30.51:795][  3]LogSavePackage: Save=9.99ms
+[2018.01.17-19.30.51:795][  3]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BPI_Interact99DFCCD74DE242C6D383AB95B96DA0B7.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_Interact.uasset'
+[2018.01.17-19.30.51:798][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BPI_Interact.uasset
+[2018.01.17-19.30.59:697][894]BlueprintLog: New page: Compile Player_Two
+[2018.01.17-19.31.00:636][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_Two" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset" SILENT=true
+[2018.01.17-19.31.01:705][894]LogSavePackage: Save=1044.34ms
+[2018.01.17-19.31.01:705][894]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_Two7CFA8CB04DB1BCF6E08678963AFE78BC.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset'
+[2018.01.17-19.31.01:709][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset
+[2018.01.17-19.31.55:102][436]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.17-19.31.55:321][436]LogPlayLevel: [PlayLevel] Compiling BPI_Interact before play...
+[2018.01.17-19.31.55:339][436]LogPlayLevel: [PlayLevel]   Compiling BP_BaseInteractable as a dependent...
+[2018.01.17-19.31.55:346][436]LogPlayLevel: [PlayLevel]   Compiling BP_CharacterRecorder as a dependent...
+[2018.01.17-19.31.55:406][436]LogPlayLevel: [PlayLevel]   Compiling BP_YBot_Movement as a dependent...
+[2018.01.17-19.31.55:478][436]LogPlayLevel: [PlayLevel]   Compiling BP_BaseItem as a dependent...
+[2018.01.17-19.31.55:502][436]LogPlayLevel: [PlayLevel]   Compiling Player_One as a dependent...
+[2018.01.17-19.31.55:700][436]LogPlayLevel: [PlayLevel]   Compiling Player_Two as a dependent...
+[2018.01.17-19.31.55:906][436]LogPlayLevel: [PlayLevel]   Compiling UI_Action as a dependent...
+[2018.01.17-19.31.55:923][436]LogPlayLevel: [PlayLevel]   Compiling UI_EquipmentSlot as a dependent...
+[2018.01.17-19.31.55:934][436]LogPlayLevel: [PlayLevel]   Compiling UI_Game_Hud as a dependent...
+[2018.01.17-19.31.55:950][436]LogPlayLevel: [PlayLevel]   Compiling UI_Inventory as a dependent...
+[2018.01.17-19.31.55:984][436]LogPlayLevel: [PlayLevel]   Compiling UI_Inventory_Item as a dependent...
+[2018.01.17-19.31.58:962][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2018.01.17-19.31.59:020][436]LogSavePackage: Save=32.99ms
+[2018.01.17-19.31.59:020][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseInteractableC4A1E9294ECBE42C6C45E688C905CCD9.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseInteractable.uasset'
+[2018.01.17-19.31.59:023][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseInteractable.uasset
+[2018.01.17-19.31.59:084][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseItem" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseItem.uasset" SILENT=true
+[2018.01.17-19.31.59:136][436]LogSavePackage: Save=32.63ms
+[2018.01.17-19.31.59:136][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseItem702BA5534944289C494E33B97FE25ADA.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseItem.uasset'
+[2018.01.17-19.31.59:139][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/BP_BaseItem.uasset
+[2018.01.17-19.31.59:181][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2018.01.17-19.32.00:242][436]LogSavePackage: Save=1040.80ms
+[2018.01.17-19.32.00:242][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_OneFD144CFC4151131949AD8EA4D27FAD16.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset'
+[2018.01.17-19.32.00:246][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset
+[2018.01.17-19.32.00:268][436]LogPlayLevel: [PlayLevel] Compiling BP_BaseArmor before play...
+[2018.01.17-19.32.00:270][436]LogPlayLevel: [PlayLevel]   Compiling BP_BreastPlate as a dependent...
+[2018.01.17-19.32.00:271][436]LogPlayLevel: [PlayLevel]   Compiling BP_HeavyShield as a dependent...
+[2018.01.17-19.32.00:273][436]LogPlayLevel: [PlayLevel]   Compiling BP_HelmetwGuard as a dependent...
+[2018.01.17-19.32.00:274][436]LogPlayLevel: [PlayLevel]   Compiling BP_LightShield as a dependent...
+[2018.01.17-19.32.01:096][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Armor/BP_BaseArmor" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BaseArmor.uasset" SILENT=true
+[2018.01.17-19.32.01:133][436]LogSavePackage: Save=18.66ms
+[2018.01.17-19.32.01:133][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseArmor421F49474DC81B0B99BD6FAE22EE09D3.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BaseArmor.uasset'
+[2018.01.17-19.32.01:136][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BaseArmor.uasset
+[2018.01.17-19.32.01:201][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Armor/BP_BreastPlate" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BreastPlate.uasset" SILENT=true
+[2018.01.17-19.32.01:242][436]LogSavePackage: Save=23.10ms
+[2018.01.17-19.32.01:242][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BreastPlate5B93C48F4BEB336AC83ECA9F2839012A.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BreastPlate.uasset'
+[2018.01.17-19.32.01:245][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_BreastPlate.uasset
+[2018.01.17-19.32.01:310][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Armor/BP_HeavyShield" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_HeavyShield.uasset" SILENT=true
+[2018.01.17-19.32.01:352][436]LogSavePackage: Save=22.87ms
+[2018.01.17-19.32.01:352][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_HeavyShield7005B1214BEEFB6FB24006A3EB60176F.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_HeavyShield.uasset'
+[2018.01.17-19.32.01:356][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_HeavyShield.uasset
+[2018.01.17-19.32.01:419][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Armor/BP_HelmetwGuard" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_HelmetwGuard.uasset" SILENT=true
+[2018.01.17-19.32.01:462][436]LogSavePackage: Save=23.53ms
+[2018.01.17-19.32.01:462][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_HelmetwGuardB661AD064B8432440DED0DB8703FDD1F.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_HelmetwGuard.uasset'
+[2018.01.17-19.32.01:464][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_HelmetwGuard.uasset
+[2018.01.17-19.32.01:524][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Armor/BP_LightShield" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_LightShield.uasset" SILENT=true
+[2018.01.17-19.32.01:565][436]LogSavePackage: Save=23.01ms
+[2018.01.17-19.32.01:565][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_LightShieldB9E4C398429B26B405C6AD9FA5BAD1E3.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_LightShield.uasset'
+[2018.01.17-19.32.01:568][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Armor/BP_LightShield.uasset
+[2018.01.17-19.32.01:589][436]LogPlayLevel: [PlayLevel] Compiling BP_BaseWeapon before play...
+[2018.01.17-19.32.01:590][436]LogPlayLevel: [PlayLevel]   Compiling BP_Club as a dependent...
+[2018.01.17-19.32.01:591][436]LogPlayLevel: [PlayLevel]   Compiling BP_Crossbow as a dependent...
+[2018.01.17-19.32.01:593][436]LogPlayLevel: [PlayLevel]   Compiling BP_Dagger as a dependent...
+[2018.01.17-19.32.01:594][436]LogPlayLevel: [PlayLevel]   Compiling BP_LongSword as a dependent...
+[2018.01.17-19.32.01:596][436]LogPlayLevel: [PlayLevel]   Compiling BP_Wooden_Bow as a dependent...
+[2018.01.17-19.32.02:563][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_BaseWeapon" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset" SILENT=true
+[2018.01.17-19.32.02:602][436]LogSavePackage: Save=18.60ms
+[2018.01.17-19.32.02:602][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_BaseWeapon03BD7F2242337B65A7EE61A46573CCC7.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset'
+[2018.01.17-19.32.02:605][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_BaseWeapon.uasset
+[2018.01.17-19.32.02:670][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Club" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Club.uasset" SILENT=true
+[2018.01.17-19.32.02:713][436]LogSavePackage: Save=25.21ms
+[2018.01.17-19.32.02:713][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_Club0FD568ED40995EEA1D43C6B839F4474A.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Club.uasset'
+[2018.01.17-19.32.02:716][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Club.uasset
+[2018.01.17-19.32.02:776][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Crossbow" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset" SILENT=true
+[2018.01.17-19.32.02:819][436]LogSavePackage: Save=23.67ms
+[2018.01.17-19.32.02:819][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_CrossbowCF26506E431F11C7DDCF2C8695F2DFC5.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset'
+[2018.01.17-19.32.02:822][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Crossbow.uasset
+[2018.01.17-19.32.02:889][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Dagger" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset" SILENT=true
+[2018.01.17-19.32.02:931][436]LogSavePackage: Save=24.89ms
+[2018.01.17-19.32.02:931][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_Dagger4A8832074F4C99214ECECBAB1CB39AA8.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset'
+[2018.01.17-19.32.02:934][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Dagger.uasset
+[2018.01.17-19.32.02:996][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_LongSword" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_LongSword.uasset" SILENT=true
+[2018.01.17-19.32.03:038][436]LogSavePackage: Save=22.92ms
+[2018.01.17-19.32.03:038][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_LongSword1F376C534B9D001D9CD90FA2C4A355F7.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_LongSword.uasset'
+[2018.01.17-19.32.03:041][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_LongSword.uasset
+[2018.01.17-19.32.03:127][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Weapons/BP_Wooden_Bow" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Wooden_Bow.uasset" SILENT=true
+[2018.01.17-19.32.03:169][436]LogSavePackage: Save=22.36ms
+[2018.01.17-19.32.03:169][436]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/BP_Wooden_Bow34F5123048E96A4C773833BFD2720391.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Wooden_Bow.uasset'
+[2018.01.17-19.32.03:171][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/Interactables/Weapons/BP_Wooden_Bow.uasset
+[2018.01.17-19.32.03:241][436]LogPlayLevel: PlayLevel: Blueprint regeneration took 8139 ms (23 blueprints)
+[2018.01.17-19.32.03:244][436]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:32:03 PM)
+[2018.01.17-19.32.03:245][436]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_Arena1
+[2018.01.17-19.32.03:253][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008633s)
+[2018.01.17-19.32.03:254][436]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.32.03:254][436]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.01.17-19.32.03:254][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_1_Arena1.Arena1 (0.009539s)
+[2018.01.17-19.32.03:310][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.32.03:319][436]LogInit: FAudioDevice initialized.
+[2018.01.17-19.32.03:356][436]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.32.03:360][436]LogWorld: Bringing World /Game/Levels/UEDPIE_1_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.32.03
+[2018.01.17-19.32.03:364][436]LogWorld: Bringing up level for play took: 0.007554
+[2018.01.17-19.32.03:367][436]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.32.03:368][436]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.01.17-19.32.03:368][436]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.32.03:369][436]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.17-19.32.03:371][436]LogInit: WinSock: I am Klobuk (192.168.0.81:0)
+[2018.01.17-19.32.03:372][436]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.32.03:374][436]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.01.17-19.32.03:380][436]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_Arena1 0.672
+[2018.01.17-19.32.03:381][436]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:32:03 PM)
+[2018.01.17-19.32.03:423][436]LogNet: Browse: 127.0.0.1:17777//Game/Levels/Arena1
+[2018.01.17-19.32.03:424][436]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.32.03:424][436]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.01.17-19.32.03:424][436]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.17-19.32.03:424][436]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.17-19.32.03:424][436]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.32.03:425][436]LogNet: Game client on port 17777, rate 10000
+[2018.01.17-19.32.03:431][436]PIE: Play in editor start time for /Game/Levels/Arena1 0.723
+[2018.01.17-19.32.03:442][436]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50242
+[2018.01.17-19.32.03:442][436]LogHandshake: SendConnectChallenge. Timestamp: 0.010520, Cookie: 057043084211192002152240179190004178186249101153065236064210
+[2018.01.17-19.32.03:470][436]LogHandshake: SendChallengeResponse. Timestamp: 0.010520, Cookie: 057043084211192002152240179190004178186249101153065236064210
+[2018.01.17-19.32.03:810][437]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 8.78, Realtime: 0.37. IpNetDriver_0
+[2018.01.17-19.32.03:811][437]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50242
+[2018.01.17-19.32.03:811][437]LogHandshake: SendChallengeAck. InCookie: 057043084211192002152240179190004178186249101153065236064210
+[2018.01.17-19.32.03:811][437]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50242
+[2018.01.17-19.32.03:811][437]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.32.03:812][437]LogNet: NotifyAcceptedConnection: Name: Arena1, TimeStamp: 01/17/18 20:32:03, [UNetConnection] RemoteAddr: 127.0.0.1:50242, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.32.03:812][437]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50242, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.32.03:813][437]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 8.78, Realtime: 0.34. IpNetDriver_1
+[2018.01.17-19.32.03:813][437]LogNetVersion: FantasyArena 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1210512073)
+[2018.01.17-19.32.03:813][437]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.17-19.32.03:828][438]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_Arena1.Arena1: Accepted
+[2018.01.17-19.32.03:828][438]LogNet: Remote platform little endian=1
+[2018.01.17-19.32.03:828][438]LogNet: This platform little endian=1
+[2018.01.17-19.32.03:923][439]LogNet: Login request: /Game/Levels/Arena1 userId: Invalid
+[2018.01.17-19.32.03:926][439]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_Arena1, Game: /Game/GameBase/ArenaPlay.ArenaPlay_C)
+[2018.01.17-19.32.03:992][439]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_Arena1?game=/Game/GameBase/ArenaPlay.ArenaPlay_C
+[2018.01.17-19.32.04:034][439]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.32.04:035][439]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.32.04:039][439]LogWorld: Bringing World /Game/Levels/UEDPIE_2_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.32.04
+[2018.01.17-19.32.04:039][439]LogWorld: Bringing up level for play took: 0.004019
+[2018.01.17-19.32.04:040][439]LogLoad: Took 0.047947 seconds to LoadMap(/Game/Levels/UEDPIE_1_Arena1)
+[2018.01.17-19.32.04:064][440]LogNet: Client netspeed is 10000
+[2018.01.17-19.32.04:064][440]LogNet: Join request: /Game/Levels/Arena1?SplitscreenCount=1
+[2018.01.17-19.32.04:072][440]LogNet: Join succeeded: 261
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:950][533]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.26:951][533]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:951][533]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.26:951][533]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.32.26:951][533]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.32.29:402][641]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50242, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.01.17-19.32.29:402][641]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50242, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.32.29
+[2018.01.17-19.32.29:405][641]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50242, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.01.17-19.32.29:405][641]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.32.29:405][641]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.32.29
+[2018.01.17-19.32.29:405][641]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.32.29:407][641]LogExit: GameNetDriver None shut down
+[2018.01.17-19.32.29:407][641]LogExit: GameNetDriver None shut down
+[2018.01.17-19.32.58:684][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Arena1" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Levels/Arena1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.17-19.32.58:908][139]LogSavePackage: Save=199.52ms
+[2018.01.17-19.32.58:908][139]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Arena1_Auto1C35AC1E54F5DEE5353F630AA9F7EC5CF.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Levels/Arena1_Auto1.umap'
+[2018.01.17-19.32.58:912][139]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Autosaves/Game/Levels/Arena1_Auto1.umap
+[2018.01.17-19.32.58:915][139]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Arena1' took 0.260
+[2018.01.17-19.32.58:915][139]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.260
+[2018.01.17-19.34.22:669][665]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.01.17-19.34.22:669][665]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.01.17-19.34.22:669][665]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.01.17-19.34.31:085][646]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.01.17-19.34.31:086][646]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.01.17-19.34.31:086][646]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.01.17-19.34.31:086][646]LogAnimation: Warning: AnimBP BP_YBot_Movement_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.01.17-19.34.34:243][909]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.17-19.34.41:210][591]BlueprintLog: New page: Compile Player_Two
+[2018.01.17-19.34.42:296][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_Two" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset" SILENT=true
+[2018.01.17-19.34.43:351][591]LogSavePackage: Save=1036.76ms
+[2018.01.17-19.34.43:351][591]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_Two4943A643418D1B7ECB7174977A2B6818.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset'
+[2018.01.17-19.34.43:355][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_Two.uasset
+[2018.01.17-19.35.06:811][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.35.06:910][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.35.06:911][885]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:35:06 PM)
+[2018.01.17-19.35.06:911][885]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_Arena1
+[2018.01.17-19.35.06:922][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010841s)
+[2018.01.17-19.35.06:923][885]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.35.06:923][885]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.01.17-19.35.06:923][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_1_Arena1.Arena1 (0.012025s)
+[2018.01.17-19.35.06:955][885]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.35.06:964][885]LogInit: FAudioDevice initialized.
+[2018.01.17-19.35.06:999][885]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.35.07:003][885]LogWorld: Bringing World /Game/Levels/UEDPIE_1_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.35.07
+[2018.01.17-19.35.07:004][885]LogWorld: Bringing up level for play took: 0.004464
+[2018.01.17-19.35.07:006][885]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.35.07:006][885]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.01.17-19.35.07:006][885]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.35.07:006][885]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.17-19.35.07:006][885]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.35.07:006][885]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.01.17-19.35.07:010][885]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_Arena1 0.302
+[2018.01.17-19.35.07:011][885]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:35:07 PM)
+[2018.01.17-19.35.07:047][885]LogNet: Browse: 127.0.0.1:17777//Game/Levels/Arena1
+[2018.01.17-19.35.07:047][885]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.35.07:047][885]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.01.17-19.35.07:047][885]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.17-19.35.07:047][885]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.17-19.35.07:048][885]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.35.07:048][885]LogNet: Game client on port 17777, rate 10000
+[2018.01.17-19.35.07:051][885]PIE: Play in editor start time for /Game/Levels/Arena1 0.343
+[2018.01.17-19.35.07:059][885]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55954
+[2018.01.17-19.35.07:059][885]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 161072151078169082050250096193177003220047072147178230151213
+[2018.01.17-19.35.07:060][885]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 161072151078169082050250096193177003220047072147178230151213
+[2018.01.17-19.35.07:237][886]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55954
+[2018.01.17-19.35.07:237][886]LogHandshake: SendChallengeAck. InCookie: 161072151078169082050250096193177003220047072147178230151213
+[2018.01.17-19.35.07:237][886]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55954
+[2018.01.17-19.35.07:237][886]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.35.07:237][886]LogNet: NotifyAcceptedConnection: Name: Arena1, TimeStamp: 01/17/18 20:35:07, [UNetConnection] RemoteAddr: 127.0.0.1:55954, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.35.07:237][886]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55954, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.35.07:237][886]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.17-19.35.07:264][887]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_Arena1.Arena1: Accepted
+[2018.01.17-19.35.07:264][887]LogNet: Remote platform little endian=1
+[2018.01.17-19.35.07:264][887]LogNet: This platform little endian=1
+[2018.01.17-19.35.07:278][888]LogNet: Login request: /Game/Levels/Arena1 userId: Invalid
+[2018.01.17-19.35.07:279][888]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_Arena1, Game: /Game/GameBase/ArenaPlay.ArenaPlay_C)
+[2018.01.17-19.35.07:284][888]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_Arena1?game=/Game/GameBase/ArenaPlay.ArenaPlay_C
+[2018.01.17-19.35.07:317][888]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.35.07:317][888]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.35.07:321][888]LogWorld: Bringing World /Game/Levels/UEDPIE_2_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.35.07
+[2018.01.17-19.35.07:322][888]LogWorld: Bringing up level for play took: 0.004043
+[2018.01.17-19.35.07:322][888]LogLoad: Took 0.038469 seconds to LoadMap(/Game/Levels/UEDPIE_1_Arena1)
+[2018.01.17-19.35.07:337][889]LogNet: Client netspeed is 10000
+[2018.01.17-19.35.07:337][889]LogNet: Join request: /Game/Levels/Arena1?SplitscreenCount=1
+[2018.01.17-19.35.07:341][889]LogNet: Join succeeded: 263
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:567][234]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.14:568][234]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:568][234]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.14:568][234]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.35.14:568][234]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.35.16:686][328]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55954, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.01.17-19.35.16:686][328]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55954, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.35.16
+[2018.01.17-19.35.16:686][328]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55954, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.01.17-19.35.16:686][328]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.35.16:686][328]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.35.16
+[2018.01.17-19.35.16:686][328]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.35.16:689][328]LogExit: GameNetDriver None shut down
+[2018.01.17-19.35.16:690][328]LogExit: GameNetDriver None shut down
+[2018.01.17-19.35.58:849][949]BlueprintLog: New page: Compile UI_Inventory
+[2018.01.17-19.35.59:125][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Inventory.uasset" SILENT=true
+[2018.01.17-19.35.59:405][949]LogSavePackage: Save=249.67ms
+[2018.01.17-19.35.59:405][949]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/UI_InventoryD5C90F3746BE533077EE009FE5D38022.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Inventory.uasset'
+[2018.01.17-19.35.59:408][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/UI/UI_Inventory.uasset
+[2018.01.17-19.36.01:353][170]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.36.01:383][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.36.01:384][170]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:36:01 PM)
+[2018.01.17-19.36.01:384][170]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_Arena1
+[2018.01.17-19.36.01:397][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011969s)
+[2018.01.17-19.36.01:397][170]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.36.01:397][170]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.01.17-19.36.01:397][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_1_Arena1.Arena1 (0.012865s)
+[2018.01.17-19.36.01:429][170]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.36.01:438][170]LogInit: FAudioDevice initialized.
+[2018.01.17-19.36.01:473][170]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.36.01:477][170]LogWorld: Bringing World /Game/Levels/UEDPIE_1_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.36.01
+[2018.01.17-19.36.01:478][170]LogWorld: Bringing up level for play took: 0.004195
+[2018.01.17-19.36.01:479][170]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.36.01:479][170]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.01.17-19.36.01:479][170]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.36.01:480][170]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.17-19.36.01:480][170]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.36.01:480][170]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2018.01.17-19.36.01:485][170]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_Arena1 0.776
+[2018.01.17-19.36.01:486][170]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:36:01 PM)
+[2018.01.17-19.36.01:528][170]LogNet: Browse: 127.0.0.1:17777//Game/Levels/Arena1
+[2018.01.17-19.36.01:528][170]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.36.01:528][170]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.01.17-19.36.01:528][170]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.17-19.36.01:528][170]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.17-19.36.01:529][170]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.36.01:529][170]LogNet: Game client on port 17777, rate 10000
+[2018.01.17-19.36.01:533][170]PIE: Play in editor start time for /Game/Levels/Arena1 0.825
+[2018.01.17-19.36.01:543][170]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65152
+[2018.01.17-19.36.01:543][170]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 196248070188015031220087207187078157188224115175236135005016
+[2018.01.17-19.36.01:544][170]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 196248070188015031220087207187078157188224115175236135005016
+[2018.01.17-19.36.01:659][171]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65152
+[2018.01.17-19.36.01:659][171]LogHandshake: SendChallengeAck. InCookie: 196248070188015031220087207187078157188224115175236135005016
+[2018.01.17-19.36.01:659][171]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65152
+[2018.01.17-19.36.01:659][171]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.36.01:659][171]LogNet: NotifyAcceptedConnection: Name: Arena1, TimeStamp: 01/17/18 20:36:01, [UNetConnection] RemoteAddr: 127.0.0.1:65152, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.36.01:659][171]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65152, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.36.01:660][171]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.17-19.36.01:670][172]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_Arena1.Arena1: Accepted
+[2018.01.17-19.36.01:670][172]LogNet: Remote platform little endian=1
+[2018.01.17-19.36.01:670][172]LogNet: This platform little endian=1
+[2018.01.17-19.36.01:682][173]LogNet: Login request: /Game/Levels/Arena1 userId: Invalid
+[2018.01.17-19.36.01:683][173]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_Arena1, Game: /Game/GameBase/ArenaPlay.ArenaPlay_C)
+[2018.01.17-19.36.01:684][173]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_Arena1?game=/Game/GameBase/ArenaPlay.ArenaPlay_C
+[2018.01.17-19.36.01:717][173]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.36.01:717][173]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.36.01:721][173]LogWorld: Bringing World /Game/Levels/UEDPIE_2_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.36.01
+[2018.01.17-19.36.01:721][173]LogWorld: Bringing up level for play took: 0.003907
+[2018.01.17-19.36.01:722][173]LogLoad: Took 0.037870 seconds to LoadMap(/Game/Levels/UEDPIE_1_Arena1)
+[2018.01.17-19.36.01:737][174]LogNet: Client netspeed is 10000
+[2018.01.17-19.36.01:737][174]LogNet: Join request: /Game/Levels/Arena1?SplitscreenCount=1
+[2018.01.17-19.36.01:740][174]LogNet: Join succeeded: 265
+[2018.01.17-19.36.04:571][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:571][306]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:571][306]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:571][306]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:571][306]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:571][306]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/UI/UI_Inventory.UI_Inventory_C:SetWidgetStyle(Button)'!
+[2018.01.17-19.36.04:572][306]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/GameBase/Player_One.Player_One_C'!
+[2018.01.17-19.36.08:030][460]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65152, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.01.17-19.36.08:030][460]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65152, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.36.08
+[2018.01.17-19.36.08:031][460]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65152, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.01.17-19.36.08:031][460]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.36.08:031][460]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.36.08
+[2018.01.17-19.36.08:031][460]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.36.08:034][460]LogExit: GameNetDriver None shut down
+[2018.01.17-19.36.08:034][460]LogExit: GameNetDriver None shut down
+[2018.01.17-19.36.18:258][647]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository
+[2018.01.17-19.36.18:258][647]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EngineLightProfiles/180Degree_IES.uasset' is outside repository
+[2018.01.17-19.36.18:258][647]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/1Dto2DIndex.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/1Dto2DIndex.uasset' is outside repository
+[2018.01.17-19.36.24:064][288]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorSounds/GamePreview/EjectFromPlayer.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorSounds/GamePreview/EjectFromPlayer.uasset' is outside repository
+[2018.01.17-19.36.24:826][376]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset' is outside repository
+[2018.01.17-19.36.24:826][376]SourceControl: fatal: C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/S_Player.uasset: 'C:/Program Files (x86)/Epic Games/UE_4.18/Engine/Content/EditorResources/S_Player.uasset' is outside repository
+[2018.01.17-19.37.00:905][592]BlueprintLog: New page: Compile UI_Inventory
+[2018.01.17-19.37.01:011][592]LogBlueprint: Warning: [Compiler UI_Inventory] 'Player One' does not inherit from 'Player Controller' ( Cast To Player_One  would always fail).
+[2018.01.17-19.37.01:118][592]LogBlueprint: Warning: [Compiler UI_Inventory] [1520.09] Compile of UI_Inventory successful, but with 1 Warning(s) [in 212 ms] (/Game/UI/UI_Inventory.UI_Inventory)
+[2018.01.17-19.38.47:148][337]BlueprintLog: New page: Compile Player_One
+[2018.01.17-19.38.50:540][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameBase/Player_One" FILE="../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset" SILENT=true
+[2018.01.17-19.38.51:609][337]LogSavePackage: Save=1042.25ms
+[2018.01.17-19.38.51:609][337]LogSavePackage: Moving '../../../../../../Users/Jakub/Documents/GodsOfArena/Saved/Player_OneA629CD8C46AABBC15AE5868FBBC2D93C.tmp' to '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset'
+[2018.01.17-19.38.51:613][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Jakub/Documents/GodsOfArena/Content/GameBase/Player_One.uasset
+[2018.01.17-19.38.53:189][454]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.17-19.38.53:218][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-19.38.53:219][454]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:38:53 PM)
+[2018.01.17-19.38.53:219][454]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_Arena1
+[2018.01.17-19.38.53:228][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009696s)
+[2018.01.17-19.38.53:229][454]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.38.53:229][454]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2018.01.17-19.38.53:230][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Arena1.Arena1 to /Game/Levels/UEDPIE_1_Arena1.Arena1 (0.010822s)
+[2018.01.17-19.38.53:262][454]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-19.38.53:272][454]LogInit: FAudioDevice initialized.
+[2018.01.17-19.38.53:330][454]LogLoad: Game class is 'ArenaPlay_C'
+[2018.01.17-19.38.53:334][454]LogWorld: Bringing World /Game/Levels/UEDPIE_1_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.38.53
+[2018.01.17-19.38.53:334][454]LogWorld: Bringing up level for play took: 0.003830
+[2018.01.17-19.38.53:336][454]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.38.53:336][454]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.01.17-19.38.53:336][454]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.38.53:336][454]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.17-19.38.53:337][454]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.38.53:337][454]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.01.17-19.38.53:354][454]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_Arena1 0.646
+[2018.01.17-19.38.53:355][454]PIE: New page: PIE session: Arena1 (Jan 17, 2018, 9:38:53 PM)
+[2018.01.17-19.38.53:420][454]LogNet: Browse: 127.0.0.1:17777//Game/Levels/Arena1
+[2018.01.17-19.38.53:420][454]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.38.53:420][454]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.01.17-19.38.53:420][454]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.17-19.38.53:420][454]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.17-19.38.53:420][454]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.38.53:421][454]LogNet: Game client on port 17777, rate 10000
+[2018.01.17-19.38.53:437][454]PIE: Play in editor start time for /Game/Levels/Arena1 0.729
+[2018.01.17-19.38.53:462][454]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61254
+[2018.01.17-19.38.53:462][454]LogHandshake: SendConnectChallenge. Timestamp: 0.009360, Cookie: 083117247228127119150056078054137011153212121132179151077204
+[2018.01.17-19.38.53:463][454]LogHandshake: SendChallengeResponse. Timestamp: 0.009360, Cookie: 083117247228127119150056078054137011153212121132179151077204
+[2018.01.17-19.38.53:599][455]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61254
+[2018.01.17-19.38.53:599][455]LogHandshake: SendChallengeAck. InCookie: 083117247228127119150056078054137011153212121132179151077204
+[2018.01.17-19.38.53:599][455]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61254
+[2018.01.17-19.38.53:599][455]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.17-19.38.53:599][455]LogNet: NotifyAcceptedConnection: Name: Arena1, TimeStamp: 01/17/18 20:38:53, [UNetConnection] RemoteAddr: 127.0.0.1:61254, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.38.53:599][455]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61254, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.17-19.38.53:600][455]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.17-19.38.53:615][456]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_Arena1.Arena1: Accepted
+[2018.01.17-19.38.53:615][456]LogNet: Remote platform little endian=1
+[2018.01.17-19.38.53:615][456]LogNet: This platform little endian=1
+[2018.01.17-19.38.53:631][457]LogNet: Login request: /Game/Levels/Arena1 userId: Invalid
+[2018.01.17-19.38.53:632][457]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_Arena1, Game: /Game/GameBase/ArenaPlay.ArenaPlay_C)
+[2018.01.17-19.38.53:636][457]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_Arena1?game=/Game/GameBase/ArenaPlay.ArenaPlay_C
+[2018.01.17-19.38.53:670][457]LogAIModule: Creating AISystem for world Arena1
+[2018.01.17-19.38.53:670][457]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.17-19.38.53:674][457]LogWorld: Bringing World /Game/Levels/UEDPIE_2_Arena1.Arena1 up for play (max tick rate 0) at 2018.01.17-20.38.53
+[2018.01.17-19.38.53:674][457]LogWorld: Bringing up level for play took: 0.003546
+[2018.01.17-19.38.53:674][457]LogLoad: Took 0.038539 seconds to LoadMap(/Game/Levels/UEDPIE_1_Arena1)
+[2018.01.17-19.38.53:694][458]LogNet: Client netspeed is 10000
+[2018.01.17-19.38.53:695][458]LogNet: Join request: /Game/Levels/Arena1?SplitscreenCount=1
+[2018.01.17-19.38.53:697][458]LogNet: Join succeeded: 267
+[2018.01.17-19.38.59:632][729]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61254, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.17-19.38.59:633][729]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61254, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, Channels: 11, Time: 2018.01.17-19.38.59
+[2018.01.17-19.38.59:633][729]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61254, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1
+[2018.01.17-19.38.59:634][729]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.38.59:634][729]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.17-19.38.59
+[2018.01.17-19.38.59:634][729]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.17-19.38.59:637][729]LogExit: GameNetDriver None shut down
+[2018.01.17-19.38.59:637][729]LogExit: GameNetDriver None shut down
+[2018.01.17-19.39.28:653][ 84]BlueprintLog: New page: Compile UI_Inventory
+[2018.01.17-19.39.28:784][ 84]LogBlueprint: Warning: [Compiler UI_Inventory] 'Player One' does not inherit from 'Player Controller' ( Cast To Player_One  would always fail).
+[2018.01.17-19.39.28:871][ 84]LogBlueprint: Warning: [Compiler UI_Inventory] [1667.85] Compile of UI_Inventory successful, but with 1 Warning(s) [in 218 ms] (/Game/UI/UI_Inventory.UI_Inventory)
+[2018.01.17-19.39.54:682][870]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.17-19.39.55:008][871]Cmd: QUIT_EDITOR
+[2018.01.17-19.39.55:364][871]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-19.39.55:374][871]LogExit: Preparing to exit.
+[2018.01.17-19.39.56:113][871]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2018.01.17-19.39.56:166][871]LogExit: Editor shut down
+[2018.01.17-19.39.56:170][871]LogExit: Transaction tracking system shut down
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Jakub/Documents/GodsOfArena/Content/' was aborted.
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.17-19.39.56:260][871]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.17-19.39.56:365][871]LogExit: Object subsystem successfully closed.
+[2018.01.17-19.39.56:382][871]LogD3D11RHI: Shutdown
+[2018.01.17-19.39.56:382][871]LogD3D11RHI: CleanupD3DDevice
+[2018.01.17-19.39.56:386][871]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (556)
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.17-19.39.56:397][871]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.17-19.39.56:397][871]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.17-19.39.56:398][871]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Collections/' was aborted.
+[2018.01.17-19.39.56:398][871]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Content/Developers/Jakub/Collections/' was aborted.
+[2018.01.17-19.39.56:398][871]LogDirectoryWatcher: A directory notification for 'C:/Users/Jakub/Documents/GodsOfArena/Saved/Collections/' was aborted.
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.17-19.39.56:398][871]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.17-19.39.56:399][871]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.17-19.39.57:025][871]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.17-19.39.57:026][871]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.17-19.39.57:080][871]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.17-19.39.57:092][871]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.17-19.39.57:094][871]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.17-19.39.57:267][871]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.17-19.39.57:268][871]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.17-19.39.57:269][871]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.17-19.39.57:370][871]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.17-19.39.57:471][871]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.17-19.39.57:471][871]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.17-19.39.57:471][871]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.17-19.39.57:471][871]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.17-19.39.57:471][871]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.17-19.39.57:471][871]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.17-19.39.57:472][871]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.17-19.39.57:478][871]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.17-19.39.57:480][871]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.17-19.39.57:481][871]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.17-19.39.57:531][871]LogDerivedDataCache: Shutdown
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.17-19.39.57:531][871]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.17-19.39.57:532][871]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.17-19.39.57:532][871]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.17-19.39.57:532][871]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5B279EF-44BE-3EFC-29E8-11AE91515026%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=0f819dde4a3301700e3c92be97adbf7c%7C7fb0b03c6dec40ebb9abf228ffb5ef91%7C16f2fa0e-04fd-479c-a6bc-11ed19de6989&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.17-19.39.57:565][871]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.17-19.39.57:567][871]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.17-19.39.57:569][871]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.17-19.39.57:570][871]LogExit: Exiting.
+[2018.01.17-19.39.57:592][871]Log file closed, 01/17/18 20:39:57
